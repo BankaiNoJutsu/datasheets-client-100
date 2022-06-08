@@ -1,0 +1,27 @@
+<PackageExport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/PackageExport PackageExport.xsd" xmlns="https://vezel.dev/novadrop/dc/PackageExport">
+    <BackgroundColor b="227" g="167" r="95" />
+    <Light pitch="-60" yaw="-135">
+        <ForSkeletalMesh dirLight="1.5" skyLight="3" />
+        <ForStaticMesh dirLight="1.5" skyLight="2" />
+    </Light>
+    <Parameter marginPercent="5" sampleCount="0" />
+    <PathInfo path="T:\ExportTest" applyPackagePath="false" seperatePackagePath="false" skeletalMesh="\SK" staticMesh="\SM">
+        <PackagePath path="\Art_Data\Packages\CH\Test" exportSkeletalMesh="true" exportStaticMesh="true" exportTextureTGA="false" />
+    </PathInfo>
+    <Texture height="768" width="768" />
+    <Transforms>
+        <Transform filter="Skel.Attach_*_Skel" pitch="0" yaw="-90" roll="0" />
+        <Transform filter="Skel.Switch_*_Skel" pitch="0" yaw="180" roll="90" />
+        <Transform filter="Skel.*_Face" pitch="0" yaw="180" roll="90" />
+        <Transform filter="Skel.*_Hair" pitch="0" yaw="180" roll="90" />
+        <Transform filter="Skel.*_Tail" pitch="90" yaw="0" roll="0" />
+        <Transform filter="#StaticMesh" pitch="0" yaw="-90" roll="0" />
+    </Transforms>
+    <Views>
+        <View name="@persp" fov="45" pitch="13" yaw="-15" />
+        <View name="@front" fov="5" pitch="0" yaw="0" />
+        <View name="@back" fov="5" pitch="0" yaw="180" />
+        <View name="@side" fov="5" pitch="0" yaw="90" />
+        <View name="@top" fov="5" pitch="90" yaw="0" />
+    </Views>
+</PackageExport>

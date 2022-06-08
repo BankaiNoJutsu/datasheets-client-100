@@ -1,0 +1,7 @@
+<UnidentifiedItemData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/UnidentifiedItemData UnidentifiedItemData.xsd" xmlns="https://vezel.dev/novadrop/dc/UnidentifiedItemData">
+    <Unidentified stringId="@UnidentifiedItem:1" />
+    <Unidentified stringId="@UnidentifiedItem:2" />
+    <Unidentified stringId="@UnidentifiedItem:2" />
+    <Unidentified stringId="@UnidentifiedItem:2" />
+    <UnidentifyMaterial defaultMaterialCount="1" materialItemId="580,581,582,583,204492,204493,204494,204495,204496,204497,204498,204499,204500,204501,204502,204503,204504,204505,204506,204507,204508,204509,204510,204511,204512,204513,204514,204515,204516,204517,204518,204519,204520,204521,204522,204523,204524,204525,204526,94412,94413,94414,94415,94416,94417,94418,94419,94420,21364,207487,207488,207489,207490,118491,118492,118493,118494" />
+</UnidentifiedItemData>

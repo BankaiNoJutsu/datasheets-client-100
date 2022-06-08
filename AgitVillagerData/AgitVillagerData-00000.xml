@@ -1,0 +1,20 @@
+<AgitVillagerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AgitVillagerData AgitVillagerData.xsd" xmlns="https://vezel.dev/novadrop/dc/AgitVillagerData">
+    <AgitVillager id="1051" huntingZoneId="63">
+        <AgitSite id="1" />
+        <EnterAgit id="1" />
+        <EnterAgit id="2" />
+        <Option buysell="false" enter="true" />
+    </AgitVillager>
+    <AgitVillager id="1052" huntingZoneId="63">
+        <AgitSite id="1" />
+        <EnterAgit id="3" />
+        <Option buysell="false" enter="true" />
+    </AgitVillager>
+    <AgitVillager id="1058" huntingZoneId="63">
+        <AgitSite id="1" />
+        <EnterAgit id="1" />
+        <EnterAgit id="2" />
+        <EnterAgit id="3" />
+        <Option buysell="true" enter="true" />
+    </AgitVillager>
+</AgitVillagerData>

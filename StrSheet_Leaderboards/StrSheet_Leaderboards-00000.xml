@@ -1,0 +1,46 @@
+<StrSheet_Leaderboards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Leaderboards StrSheet_Leaderboards.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Leaderboards">
+    <String id="1" string="Dungeon Ranking" />
+    <String id="2" string="Battleground Ranking" />
+    <String id="100" string="Season {Number}" />
+    <String id="101" string="{StartMonth}/{StartDay} - {EndMonth}/{EndDay}" />
+    <String id="110" string="Ranking" />
+    <String id="111" string="Character Name" />
+    <String id="112" string="Class" />
+    <String id="113" string="Stage" />
+    <String id="114" string="Rating" />
+    <String id="115" string="Time" />
+    <String id="120" string="All Classes" />
+    <String id="200" string="Tier {Stage}" />
+    <String id="1101" string="Note: Champions' Skyring's average ratings derive from both party matching and solo matching ratings." />
+    <String id="1037" string="Your rank displays after participating in Champions' Skyring at least 5 times.&lt;br&gt;On the last day of the season, ranks reset during maintenance and a new season begins." />
+    <String id="1026" string="Your rank displays after participating in Fraywind Canyon at least 5 times.&lt;br&gt;On the last day of the season, ranks reset during maintenance and a new season begins." />
+    <String id="1010" string="Your rank displays after participating in Corsairs' Stronghold at least 5 times.&lt;br&gt;On the last day of the season, ranks reset during maintenance and a new season begins." />
+    <String id="1030" string="Your rank displays after participating in Shore Hold at least 5 times.&lt;br&gt;On the last day of the season, ranks reset during maintenance and a new season begins." />
+    <String id="9126" string="*Rank shows when your ranking is within rank 1000&lt;br&gt;*Faster dungeon clear time increases your rank" />
+    <String id="9920" string="*Rank shows when your ranking is within rank 1000&lt;br&gt;*Faster kill time increases your rank&lt;br&gt;*When combat against the boss starts, party member info binds to dungeon. The dungeon clear record will not register if there is a change in the party.&lt;br&gt;The dungeon clear record will not register if there is a change in the party after the boss enters combat mode." />
+    <String id="9982" string="*Rank shows when your ranking is within rank 1000&lt;br&gt;*Faster kill time increases your rank&lt;br&gt;*When combat against the boss starts, party member info binds to dungeon. The dungeon clear record will not register if there is a change in the party.&lt;br&gt;The dungeon clear record will not register if there is a change in the party after the boss enters combat mode." />
+    <String id="9044" string="*Rank shows when your ranking is within rank 1000&lt;br&gt;*Faster kill time increases your rank&lt;br&gt;*When combat against the boss starts, party member info binds to dungeon. The dungeon clear record will not register if there is a change in the party.&lt;br&gt;The dungeon clear record will not register if there is a change in the party after the boss enters combat mode." />
+    <String id="9034" string="*Rank shows when your ranking is within rank 1000 and you have completed at least the first stage&lt;br&gt;*Faster kill time increases your rank&lt;br&gt;*When combat against the boss starts, party member info binds to dungeon. The dungeon clear record will not register if there is a change in the party.&lt;br&gt;The dungeon clear record will not register if there is a change in the party after the boss enters combat mode." />
+    <String id="3201" string="*Rank shows when your ranking is within rank 1000&lt;br&gt;*Faster kill time increases your rank&lt;br&gt;*When combat against the boss starts, party member info binds to dungeon. The dungeon clear record will not register if there is a change in the party.&lt;br&gt;The dungeon clear record will not register if there is a change in the party after the boss enters combat mode." />
+    <String id="3126" string="*Rank shows when your ranking is within rank 1000&lt;br&gt;*Faster kill time increases your rank&lt;br&gt;*When combat against the boss starts, party member info binds to dungeon. The dungeon clear record will not register if there is a change in the party.&lt;br&gt;The dungeon clear record will not register if there is a change in the party after the boss enters combat mode." />
+    <String id="3202" string="*Rank shows when your ranking is within rank 1000&lt;br&gt;*Faster kill time increases your rank&lt;br&gt;*When combat against the boss starts, party member info binds to dungeon. The dungeon clear record will not register if there is a change in the party.&lt;br&gt;The dungeon clear record will not register if there is a change in the party after the boss enters combat mode." />
+    <String id="3203" string="*Rank shows when your ranking is within rank 1000&lt;br&gt;*Faster kill time increases your rank&lt;br&gt;*When combat against the boss starts, party member info binds to dungeon. The dungeon clear record will not register if there is a change in the party.&lt;br&gt;The dungeon clear record will not register if there is a change in the party after the boss enters combat mode." />
+    <String id="9999" string="*Rewards will be delievered via Parcel Post upon login after the season ends.&lt;br&gt;*1st Place - The champion title, 5 reward chests&lt;br&gt;2nd-3rd Place - Runner-Up titles, 3 reward chests for each user&lt;br&gt;4th-100th Place - 3 reward chests for each user&lt;br&gt;101st-300th Place - 2 reward chests for each user" />
+    <String id="3001" string="Valkyon Federation" />
+    <String id="3002" string="Dungeon Competition Ranking Rewards" />
+    <String id="3003" string="Dungeon competition season is over. Participants will be rewarded based on their ranked standing." />
+    <String id="4001" string="Valkyon Federation" />
+    <String id="4002" string="Battleground Ranking Rewards" />
+    <String id="4003" string="Battleground competition season is over. Participants will be rewarded based on their ranked standing." />
+    <String id="3004" string="Dungeon Competition Ranking Rewards (Antaroth's Abyss (Hard))" />
+    <String id="3005" string="Dungeon Competition Ranking Rewards (Pit of Petrax)" />
+    <String id="3007" string="Dungeon Competition Ranking Rewards (Grotto of Lost Souls (Hard))" />
+    <String id="3008" string="Dungeon Competition Ranking Rewards (Bahaar's Sanctum)" />
+    <String id="3009" string="Dungeon Competition Ranking Reward (Gossamer Vault (Hard))" />
+    <String id="3010" string="Dungeon Competition Ranking Rewards (Corrupted Skynest (Hard))" />
+    <String id="3011" string="Dungeon Competition Ranking Rewards (Forbidden Arena [Nightmare Undying Warlord])" />
+    <String id="4004" string="Battleground Ranking Rewards (Champions' Skyring)" />
+    <String id="4005" string="Battleground Ranking Rewards (Fraywind Canyon)" />
+    <String id="4006" string="Battleground Ranking Rewards (Corsairs' Stronghold)" />
+    <String id="4007" string="Battleground Ranking Rewards (Shore Hold)" />
+</StrSheet_Leaderboards>

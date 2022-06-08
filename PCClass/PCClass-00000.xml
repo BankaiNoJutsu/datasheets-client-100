@@ -1,0 +1,11 @@
+<PCClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/PCClass PCClass.xsd" xmlns="https://vezel.dev/novadrop/dc/PCClass">
+    <Class name="Warrior" />
+    <Class name="Lancer" />
+    <Class name="Slayer" />
+    <Class name="Berserker" />
+    <Class name="Sorcerer" />
+    <Class name="Archer" />
+    <Class name="Priest" />
+    <Class name="Elementalist" />
+    <Class name="Soulless" />
+</PCClass>

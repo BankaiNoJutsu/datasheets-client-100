@@ -1,0 +1,306 @@
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Data Data.xsd" name="CBT3" xmlns="https://vezel.dev/novadrop/dc/Data">
+    <Grade id="1" level="12" money="30000" startContinentId="7005">
+        <EquipmentData>
+            <Equipment id="98" amount="3" class="common" initWear="false" />
+            <Equipment id="116" amount="5" class="common" initWear="false" />
+            <Equipment id="125" amount="10" class="common" initWear="false" />
+            <Equipment id="8006" amount="5" class="common" initWear="false" />
+            <Equipment id="8007" amount="5" class="common" initWear="false" />
+            <Equipment id="10000" amount="10" class="common" initWear="false" />
+            <Equipment id="8650" amount="2" class="common" initWear="true" />
+            <Equipment id="8571" amount="2" class="common" initWear="true" />
+            <Equipment id="1528" amount="1" class="Warrior" initWear="true" />
+            <Equipment id="1254" amount="1" class="Warrior" initWear="true" />
+            <Equipment id="1255" amount="1" class="Warrior" initWear="true" />
+            <Equipment id="1256" amount="1" class="Warrior" initWear="true" />
+            <Equipment id="1529" amount="1" class="Lancer" initWear="true" />
+            <Equipment id="1203" amount="1" class="Lancer" initWear="true" />
+            <Equipment id="1204" amount="1" class="Lancer" initWear="true" />
+            <Equipment id="1205" amount="1" class="Lancer" initWear="true" />
+            <Equipment id="1530" amount="1" class="Slayer" initWear="true" />
+            <Equipment id="1254" amount="1" class="Slayer" initWear="true" />
+            <Equipment id="1255" amount="1" class="Slayer" initWear="true" />
+            <Equipment id="1256" amount="1" class="Slayer" initWear="true" />
+            <Equipment id="1531" amount="1" class="Berserker" initWear="true" />
+            <Equipment id="1203" amount="1" class="Berserker" initWear="true" />
+            <Equipment id="1204" amount="1" class="Berserker" initWear="true" />
+            <Equipment id="1205" amount="1" class="Berserker" initWear="true" />
+            <Equipment id="1532" amount="1" class="Sorcerer" initWear="true" />
+            <Equipment id="305" amount="1" class="Sorcerer" initWear="true" />
+            <Equipment id="306" amount="1" class="Sorcerer" initWear="true" />
+            <Equipment id="307" amount="1" class="Sorcerer" initWear="true" />
+            <Equipment id="1533" amount="1" class="Archer" initWear="true" />
+            <Equipment id="1254" amount="1" class="Archer" initWear="true" />
+            <Equipment id="1255" amount="1" class="Archer" initWear="true" />
+            <Equipment id="1256" amount="1" class="Archer" initWear="true" />
+            <Equipment id="1534" amount="1" class="Priest" initWear="true" />
+            <Equipment id="305" amount="1" class="Priest" initWear="true" />
+            <Equipment id="306" amount="1" class="Priest" initWear="true" />
+            <Equipment id="307" amount="1" class="Priest" initWear="true" />
+            <Equipment id="1535" amount="1" class="Elementalist" initWear="true" />
+            <Equipment id="305" amount="1" class="Elementalist" initWear="true" />
+            <Equipment id="306" amount="1" class="Elementalist" initWear="true" />
+            <Equipment id="307" amount="1" class="Elementalist" initWear="true" />
+        </EquipmentData>
+        <QuestData>
+            <Quest id="1301" class="common" status="complete" />
+            <Quest id="1302" class="common" status="complete" />
+            <Quest id="1303" class="common" status="complete" />
+            <Quest id="1304" class="common" status="complete" />
+            <Quest id="1305" class="common" status="complete" />
+            <Quest id="1306" class="common" status="complete" />
+            <Quest id="1307" class="common" status="complete" />
+            <Quest id="1308" class="common" status="complete" />
+            <Quest id="1309" class="common" status="complete" />
+            <Quest id="1310" class="common" status="complete" />
+            <Quest id="1311" class="common" status="complete" />
+            <Quest id="1312" class="common" status="complete" />
+            <Quest id="1313" class="common" status="complete" />
+            <Quest id="1314" class="common" status="complete" />
+            <Quest id="1315" class="common" status="complete" />
+            <Quest id="1316" class="common" status="complete" />
+            <Quest id="1317" class="common" status="complete" />
+            <Quest id="1318" class="common" status="complete" />
+            <Quest id="1319" class="common" status="complete" />
+            <Quest id="1320" class="common" status="complete" />
+            <Quest id="1321" class="common" status="complete" />
+            <Quest id="1323" class="common" status="complete" />
+            <Quest id="1324" class="common" status="complete" />
+            <Quest id="1325" class="common" status="complete" />
+            <Quest id="1326" class="common" status="complete" />
+            <Quest id="1327" class="common" status="complete" />
+            <Quest id="1328" class="common" status="complete" />
+            <Quest id="1329" class="common" status="complete" />
+            <Quest id="1330" class="common" status="complete" />
+            <Quest id="1331" class="common" status="complete" />
+            <Quest id="1332" class="common" status="complete" />
+            <Quest id="1333" class="common" status="complete" />
+            <Quest id="1334" class="common" status="complete" />
+            <Quest id="1335" class="common" status="complete" />
+            <Quest id="1336" class="common" status="complete" />
+            <Quest id="1337" class="common" status="complete" />
+            <Quest id="1338" class="common" status="complete" />
+            <Quest id="1340" class="common" status="complete" />
+            <Quest id="1341" class="common" status="complete" />
+            <Quest id="1342" class="common" status="complete" />
+            <Quest id="1343" class="common" status="complete" />
+            <Quest id="1344" class="common" status="complete" />
+            <Quest id="1367" class="Slayer" status="complete" />
+            <Quest id="1368" class="Berserker" status="complete" />
+            <Quest id="1369" class="Archer" status="complete" />
+            <Quest id="1377" class="Sorcerer" status="complete" />
+            <Quest id="1378" class="Priest" status="complete" />
+            <Quest id="1379" class="Elementalist" status="complete" />
+            <Quest id="1381" class="Warrior" status="complete" />
+            <Quest id="1382" class="Lancer" status="complete" />
+            <Quest id="1383" class="common" status="complete" />
+            <Quest id="1384" class="common" status="complete" />
+            <Quest id="1385" class="common" status="complete" />
+            <Quest id="1386" class="common" status="complete" />
+            <Quest id="1387" class="common" status="complete" />
+            <Quest id="1388" class="common" status="complete" />
+            <Quest id="1389" class="common" status="complete" />
+            <Quest id="1390" class="common" status="complete" />
+            <Quest id="1391" class="common" status="complete" />
+            <Quest id="1392" class="common" status="complete" />
+            <Quest id="1393" class="common" status="complete" />
+            <Quest id="6301" class="common" status="accept" />
+        </QuestData>
+        <StartPosition>
+            <Position pos="-2808.14,8061.79,2172.82" continent="7005" />
+            <Position pos="-4211.44,7420.40,2172.84" continent="7005" />
+            <Position pos="-5681.71,4929.51,1867.93" continent="7005" />
+        </StartPosition>
+    </Grade>
+    <Grade id="2" level="17" money="90000" startContinentId="7005">
+        <EquipmentData>
+            <Equipment id="98" amount="3" class="common" initWear="false" />
+            <Equipment id="116" amount="5" class="common" initWear="false" />
+            <Equipment id="125" amount="10" class="common" initWear="false" />
+            <Equipment id="8006" amount="5" class="common" initWear="false" />
+            <Equipment id="8007" amount="5" class="common" initWear="false" />
+            <Equipment id="10000" amount="10" class="common" initWear="false" />
+            <Equipment id="8653" amount="2" class="common" initWear="true" />
+            <Equipment id="8573" amount="2" class="common" initWear="true" />
+            <Equipment id="90" amount="1" class="common" initWear="true" />
+            <Equipment id="96" amount="1" class="common" initWear="true" />
+            <Equipment id="970" amount="1" class="common" initWear="true" />
+            <Equipment id="1536" amount="1" class="Warrior" initWear="true" />
+            <Equipment id="257" amount="1" class="Warrior" initWear="true" />
+            <Equipment id="258" amount="1" class="Warrior" initWear="true" />
+            <Equipment id="259" amount="1" class="Warrior" initWear="true" />
+            <Equipment id="1537" amount="1" class="Lancer" initWear="true" />
+            <Equipment id="1206" amount="1" class="Lancer" initWear="true" />
+            <Equipment id="1207" amount="1" class="Lancer" initWear="true" />
+            <Equipment id="1208" amount="1" class="Lancer" initWear="true" />
+            <Equipment id="1538" amount="1" class="Slayer" initWear="true" />
+            <Equipment id="257" amount="1" class="Slayer" initWear="true" />
+            <Equipment id="258" amount="1" class="Slayer" initWear="true" />
+            <Equipment id="259" amount="1" class="Slayer" initWear="true" />
+            <Equipment id="1539" amount="1" class="Berserker" initWear="true" />
+            <Equipment id="1206" amount="1" class="Berserker" initWear="true" />
+            <Equipment id="1207" amount="1" class="Berserker" initWear="true" />
+            <Equipment id="1208" amount="1" class="Berserker" initWear="true" />
+            <Equipment id="1540" amount="1" class="Sorcerer" initWear="true" />
+            <Equipment id="1308" amount="1" class="Sorcerer" initWear="true" />
+            <Equipment id="1309" amount="1" class="Sorcerer" initWear="true" />
+            <Equipment id="1310" amount="1" class="Sorcerer" initWear="true" />
+            <Equipment id="1541" amount="1" class="Archer" initWear="true" />
+            <Equipment id="257" amount="1" class="Archer" initWear="true" />
+            <Equipment id="258" amount="1" class="Archer" initWear="true" />
+            <Equipment id="259" amount="1" class="Archer" initWear="true" />
+            <Equipment id="1542" amount="1" class="Priest" initWear="true" />
+            <Equipment id="1308" amount="1" class="Priest" initWear="true" />
+            <Equipment id="1309" amount="1" class="Priest" initWear="true" />
+            <Equipment id="1310" amount="1" class="Priest" initWear="true" />
+            <Equipment id="1543" amount="1" class="Elementalist" initWear="true" />
+            <Equipment id="1308" amount="1" class="Elementalist" initWear="true" />
+            <Equipment id="1309" amount="1" class="Elementalist" initWear="true" />
+            <Equipment id="1310" amount="1" class="Elementalist" initWear="true" />
+        </EquipmentData>
+        <QuestData>
+            <Quest id="1301" class="common" status="complete" />
+            <Quest id="1302" class="common" status="complete" />
+            <Quest id="1303" class="common" status="complete" />
+            <Quest id="1304" class="common" status="complete" />
+            <Quest id="1305" class="common" status="complete" />
+            <Quest id="1306" class="common" status="complete" />
+            <Quest id="1307" class="common" status="complete" />
+            <Quest id="1308" class="common" status="complete" />
+            <Quest id="1309" class="common" status="complete" />
+            <Quest id="1310" class="common" status="complete" />
+            <Quest id="1311" class="common" status="complete" />
+            <Quest id="1312" class="common" status="complete" />
+            <Quest id="1313" class="common" status="complete" />
+            <Quest id="1314" class="common" status="complete" />
+            <Quest id="1315" class="common" status="complete" />
+            <Quest id="1316" class="common" status="complete" />
+            <Quest id="1317" class="common" status="complete" />
+            <Quest id="1318" class="common" status="complete" />
+            <Quest id="1319" class="common" status="complete" />
+            <Quest id="1320" class="common" status="complete" />
+            <Quest id="1321" class="common" status="complete" />
+            <Quest id="1323" class="common" status="complete" />
+            <Quest id="1324" class="common" status="complete" />
+            <Quest id="1325" class="common" status="complete" />
+            <Quest id="1326" class="common" status="complete" />
+            <Quest id="1327" class="common" status="complete" />
+            <Quest id="1328" class="common" status="complete" />
+            <Quest id="1329" class="common" status="complete" />
+            <Quest id="1330" class="common" status="complete" />
+            <Quest id="1331" class="common" status="complete" />
+            <Quest id="1332" class="common" status="complete" />
+            <Quest id="1333" class="common" status="complete" />
+            <Quest id="1334" class="common" status="complete" />
+            <Quest id="1335" class="common" status="complete" />
+            <Quest id="1336" class="common" status="complete" />
+            <Quest id="1337" class="common" status="complete" />
+            <Quest id="1338" class="common" status="complete" />
+            <Quest id="1340" class="common" status="complete" />
+            <Quest id="1341" class="common" status="complete" />
+            <Quest id="1342" class="common" status="complete" />
+            <Quest id="1343" class="common" status="complete" />
+            <Quest id="1344" class="common" status="complete" />
+            <Quest id="1367" class="Slayer" status="complete" />
+            <Quest id="1368" class="Berserker" status="complete" />
+            <Quest id="1369" class="Archer" status="complete" />
+            <Quest id="1377" class="Sorcerer" status="complete" />
+            <Quest id="1378" class="Priest" status="complete" />
+            <Quest id="1379" class="Elementalist" status="complete" />
+            <Quest id="1381" class="Warrior" status="complete" />
+            <Quest id="1382" class="Lancer" status="complete" />
+            <Quest id="1383" class="common" status="complete" />
+            <Quest id="1384" class="common" status="complete" />
+            <Quest id="1385" class="common" status="complete" />
+            <Quest id="1386" class="common" status="complete" />
+            <Quest id="1387" class="common" status="complete" />
+            <Quest id="1388" class="common" status="complete" />
+            <Quest id="1389" class="common" status="complete" />
+            <Quest id="1390" class="common" status="complete" />
+            <Quest id="1391" class="common" status="complete" />
+            <Quest id="1392" class="common" status="complete" />
+            <Quest id="1393" class="common" status="complete" />
+            <Quest id="201" class="common" status="complete" />
+            <Quest id="202" class="common" status="complete" />
+            <Quest id="203" class="common" status="complete" />
+            <Quest id="204" class="common" status="complete" />
+            <Quest id="205" class="common" status="complete" />
+            <Quest id="206" class="common" status="complete" />
+            <Quest id="207" class="common" status="complete" />
+            <Quest id="221" class="common" status="complete" />
+            <Quest id="222" class="common" status="complete" />
+            <Quest id="223" class="common" status="complete" />
+            <Quest id="224" class="common" status="complete" />
+            <Quest id="225" class="common" status="complete" />
+            <Quest id="226" class="common" status="complete" />
+            <Quest id="227" class="common" status="complete" />
+            <Quest id="228" class="common" status="complete" />
+            <Quest id="229" class="common" status="complete" />
+            <Quest id="230" class="common" status="complete" />
+            <Quest id="231" class="common" status="complete" />
+            <Quest id="232" class="common" status="complete" />
+            <Quest id="233" class="common" status="complete" />
+            <Quest id="234" class="common" status="complete" />
+            <Quest id="235" class="common" status="complete" />
+            <Quest id="236" class="common" status="complete" />
+            <Quest id="237" class="common" status="complete" />
+            <Quest id="251" class="common" status="complete" />
+            <Quest id="252" class="common" status="complete" />
+            <Quest id="253" class="common" status="complete" />
+            <Quest id="254" class="common" status="complete" />
+            <Quest id="255" class="common" status="complete" />
+            <Quest id="256" class="common" status="complete" />
+            <Quest id="257" class="common" status="complete" />
+            <Quest id="301" class="common" status="complete" />
+            <Quest id="302" class="common" status="complete" />
+            <Quest id="303" class="common" status="complete" />
+            <Quest id="304" class="common" status="complete" />
+            <Quest id="305" class="common" status="complete" />
+            <Quest id="306" class="common" status="complete" />
+            <Quest id="307" class="common" status="complete" />
+            <Quest id="308" class="common" status="complete" />
+            <Quest id="321" class="common" status="complete" />
+            <Quest id="322" class="common" status="complete" />
+            <Quest id="323" class="common" status="complete" />
+            <Quest id="324" class="common" status="complete" />
+            <Quest id="325" class="common" status="complete" />
+            <Quest id="326" class="common" status="complete" />
+            <Quest id="327" class="common" status="complete" />
+            <Quest id="328" class="common" status="complete" />
+            <Quest id="329" class="common" status="complete" />
+            <Quest id="330" class="common" status="complete" />
+            <Quest id="331" class="common" status="complete" />
+            <Quest id="332" class="common" status="complete" />
+            <Quest id="333" class="common" status="complete" />
+            <Quest id="334" class="common" status="complete" />
+            <Quest id="335" class="common" status="complete" />
+            <Quest id="336" class="common" status="complete" />
+            <Quest id="337" class="common" status="complete" />
+            <Quest id="351" class="common" status="complete" />
+            <Quest id="352" class="common" status="complete" />
+            <Quest id="353" class="common" status="complete" />
+            <Quest id="354" class="common" status="complete" />
+            <Quest id="355" class="common" status="complete" />
+            <Quest id="391" class="common" status="complete" />
+            <Quest id="392" class="common" status="complete" />
+            <Quest id="393" class="common" status="complete" />
+            <Quest id="394" class="common" status="complete" />
+            <Quest id="395" class="common" status="complete" />
+            <Quest id="6301" class="common" status="complete" />
+            <Quest id="6302" class="common" status="complete" />
+            <Quest id="6303" class="common" status="complete" />
+            <Quest id="6304" class="common" status="complete" />
+            <Quest id="6305" class="common" status="complete" />
+            <Quest id="6306" class="common" status="complete" />
+            <Quest id="6307" class="common" status="complete" />
+            <Quest id="6351" class="common" status="complete" />
+            <Quest id="6381" class="common" status="complete" />
+            <Quest id="6382" class="common" status="accept" />
+        </QuestData>
+        <StartPosition>
+            <Position pos="-1149.90,9105.74,2173.83" continent="7005" />
+            <Position pos="-126.49,10096.95,2172.84" continent="7005" />
+            <Position pos="2701.56,9763.59,1867.86" continent="7005" />
+        </StartPosition>
+    </Grade>
+</Data>

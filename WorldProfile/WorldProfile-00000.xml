@@ -1,0 +1,5 @@
+<WorldProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/WorldProfile WorldProfile.xsd" xmlns="https://vezel.dev/novadrop/dc/WorldProfile">
+    <World name="첫번째사냥터" pos="85190,-21519,1284" continent="1" />
+    <World name="두번째사냥터" pos="-45499.2,10765.9,1030.7" continent="2" />
+    <World name="세번째사냥터" pos="-84526,-11608,2250" continent="3" />
+</WorldProfile>

@@ -1,0 +1,33 @@
+<TerritoryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TerritoryData TerritoryData.xsd" huntingZoneId="2050" xmlns="https://vezel.dev/novadrop/dc/TerritoryData">
+    <TerritoryGroup id="205000001">
+        <TerritoryList>
+            <Territory id="205000001" absoluteFenceZ="0">
+                <Fence pos="119473.32812500,-97020.89062500,12618.96289063" />
+                <Fence pos="119369.41406250,-97184.67187500,12618.96972656" />
+                <Fence pos="119414.39843750,-97374.37500000,12618.97753906" />
+                <Fence pos="119797.67968750,-97481.11718750,12618.97558594" />
+                <Fence pos="119944.47656250,-97258.54687500,12618.96484375" />
+                <Fence pos="119696.97656250,-97100.91406250,12618.96484375" />
+                <Npc dir="-118" npcTemplateId="8000" ai="28">
+                    <PatrolList randomSocial="false" socialDuration="0" />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="205000002">
+        <TerritoryList>
+            <Territory id="205000002" absoluteFenceZ="0">
+                <Fence pos="120689.74218750,-96067.76562500,12618.96484375" />
+                <Fence pos="120860.05468750,-96245.06250000,12618.96386719" />
+                <Fence pos="120942.80468750,-96222.45312500,12618.96093750" />
+                <Fence pos="120807.59375000,-95984.54687500,12618.95898438" />
+                <Npc dir="0" npcTemplateId="5002" ai="28">
+                    <PatrolList randomSocial="false" socialDuration="0" />
+                </Npc>
+                <Npc dir="0" npcTemplateId="5003" ai="28">
+                    <PatrolList randomSocial="false" socialDuration="0" />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+</TerritoryData>

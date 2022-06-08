@@ -1,0 +1,571 @@
+<TaskDef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TaskDef TaskDef.xsd" xmlns="https://vezel.dev/novadrop/dc/TaskDef">
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param>
+            <Param max="2000000000" min="0" />
+            <Param max="1000" min="1" journalScript="true" />
+            <Param max="500" min="1" />
+            <Param max="2000000000" min="0" />
+        </Param>
+        <Param max="500" min="1" />
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="10" min="1" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="10" min="0" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param values="TRUE|FALSE" />
+        <Param max="1000000" min="0" />
+        <Param>
+            <Param max="500" min="1" />
+            <Param max="2000000000" min="1" />
+            <Param>
+                <Param max="2000000000" min="0" />
+                <Param max="500" min="1" />
+                <Param max="500" min="1" />
+                <Param max="2000000000" min="0" />
+            </Param>
+        </Param>
+        <Param>
+            <Param values="혼자|파티" />
+            <Param />
+            <Param values="TRUE|FALSE" />
+            <Param values="적용|모두적용" />
+        </Param>
+        <Param max="500" min="1" />
+        <Param max="2000000000" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param values="TRUE|FALSE" />
+        <Param max="1000000" min="0" />
+        <Param>
+            <Param max="2000000000" min="0" />
+            <Param max="2000000000" min="1" />
+            <Param max="500" min="1" />
+            <Param max="500" min="1" />
+            <Param max="2000000000" min="0" />
+        </Param>
+        <Param>
+            <Param values="혼자|파티" />
+            <Param />
+            <Param values="TRUE|FALSE" />
+            <Param values="적용|모두적용" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="10" min="1" />
+        </Param>
+        <Param max="10" min="0" />
+        <Param max="500" min="1" />
+        <Param max="2000000000" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="100" min="1" />
+        <Param max="100" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="0" />
+        <Param max="1000" min="1" journalScript="true" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="10" min="0" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="5">
+        <Param max="2000000000" min="0" />
+        <Param max="1000" min="1" journalScript="true" />
+        <Param values="수동|자동" />
+        <Param>
+            <Param max="100" min="1" />
+            <Param max="1000" min="1" />
+            <Param max="100" min="1" />
+            <Param max="100" min="1" />
+        </Param>
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="10" min="0" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="2000000000" min="1" />
+        </Param>
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param values="TRUE|FALSE" />
+        <Param max="1000000" min="0" />
+        <Param>
+            <Param max="100" min="1" />
+            <Param max="2000000000" min="1" />
+            <Param max="2000000000" min="1" />
+            <Param>
+                <Param max="2000000000" min="0" />
+                <Param max="100" min="1" />
+                <Param max="500" min="1" />
+                <Param max="500" min="1" />
+                <Param max="2000000000" min="0" />
+            </Param>
+        </Param>
+        <Param values="미적용|적용" />
+        <Param>
+            <Param values="혼자|파티" />
+            <Param />
+            <Param values="TRUE|FALSE" />
+            <Param values="적용|모두적용" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="1000" min="1" journalScript="true" />
+        <Param max="1000" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="10" min="0" />
+        <Param max="2000000000" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param values="TRUE|FALSE" />
+        <Param max="1000000" min="0" />
+        <Param values="유한|무한" />
+        <Param values="사냥|전장" />
+        <Param max="100" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param>
+            <Param max="100" min="1" />
+            <Param max="2000000000" min="1" />
+            <Param max="2000000000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="0" />
+            <Param max="100" min="1" />
+            <Param max="500" min="1" />
+            <Param max="500" min="1" />
+            <Param max="2000000000" min="0" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+        </Param>
+        <Param values="미적용|적용" />
+        <Param>
+            <Param values="혼자|파티" />
+            <Param />
+            <Param values="TRUE|FALSE" />
+            <Param values="적용|모두적용" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="1000" min="1" />
+        <Param max="1000" min="1" />
+        <Param max="500" min="1" />
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="10" min="0" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="2000000000" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param huntingZoneIdMax="1024" huntingZoneIdMin="1" territoryIdMax="2000000000" territoryIdMin="1" />
+        <Param />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="2000000000" min="0" />
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="5">
+        <Param max="2000000000" min="0" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="5">
+        <Param max="2000000000" min="0" />
+        <Param />
+        <Param values="수동|자동" />
+        <Param>
+            <Param huntingZoneIdMax="1024" huntingZoneIdMin="1" territoryIdMax="2000000000" territoryIdMin="1" />
+            <Param max="500" min="1" />
+            <Param max="500" min="1" />
+            <Param max="100" min="1" />
+            <Param max="2000000000" min="0" />
+        </Param>
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param max="1000" min="1" />
+        <Param max="1000" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="2000000000" min="0" />
+        <Param max="10" min="0" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="10" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="2000000000" min="1" />
+            <Param values="TRUE|FALSE" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="10" min="1" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="1000" min="1" journalScript="true" />
+        <Param max="1000" min="1" />
+        <Param>
+            <Param />
+        </Param>
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="10" min="0" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param>
+            <Param huntingZoneIdMax="1024" huntingZoneIdMin="1" territoryIdMax="2000000000" territoryIdMin="1" />
+        </Param>
+        <Param huntingZoneIdMax="1024" huntingZoneIdMin="1" territoryIdMax="2000000000" territoryIdMin="1" />
+        <Param>
+            <Param max="2000000000" min="0" />
+            <Param max="500" min="1" />
+        </Param>
+        <Param />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param />
+        <Param max="1000" min="1" />
+        <Param>
+            <Param max="2000000000" min="0" />
+            <Param max="500" min="1" />
+            <Param max="500" min="1" />
+        </Param>
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="1000" min="1" />
+        <Param max="2000000000" min="1" />
+        <Param max="2000000000" min="0" />
+        <Param huntingZoneIdMax="1024" huntingZoneIdMin="1" territoryIdMax="2000000000" territoryIdMin="1" />
+        <Param />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param>
+            <Param max="2000000000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="2000000000" min="1" />
+        </Param>
+        <Param max="2000000000" min="0" />
+        <Param max="1000" min="1" journalScript="true" />
+        <Param max="1000" min="1" />
+        <Param>
+            <Param />
+        </Param>
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="10" min="0" />
+        <Param max="2000000000" min="1" />
+    </TaskClass>
+    <TaskClass description="" hasJournalScript="true" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param>
+            <Param max="2000000000" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="2000000000" min="1" />
+        </Param>
+        <Param>
+            <Param />
+        </Param>
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param>
+            <Param>
+                <Param max="2000000000" min="1" />
+                <Param max="1000" min="1" />
+                <Param max="2000000000" min="0" />
+                <Param values="검은틈" />
+                <Param />
+            </Param>
+            <Param />
+            <Param />
+            <Param>
+                <Param values="전투|제작" />
+                <Param max="2000000000" min="1" />
+            </Param>
+            <Param>
+                <Param max="2000000000" min="1" />
+                <Param max="2000000000" min="1" />
+            </Param>
+            <Param>
+                <Param max="100" min="1" />
+                <Param values="일반|고급|희귀|전설" />
+            </Param>
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="10" min="1" />
+        </Param>
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="10000" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param>
+            <Param max="2000000000" min="0" />
+            <Param max="10" min="1" />
+        </Param>
+        <Param />
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="10" min="1" />
+        </Param>
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="2000000000" min="0" />
+            <Param max="100" min="1" />
+            <Param max="100" min="1" />
+            <Param max="2000000000" min="1" />
+            <Param max="500" min="1" />
+            <Param max="500" min="1" />
+            <Param max="2000000000" min="0" />
+        </Param>
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="2000000000" min="0" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param>
+            <Param max="2000000000" min="0" />
+            <Param max="2000000000" min="0" />
+        </Param>
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param>
+            <Param />
+            <Param values="TRUE|FALSE" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="2000000000" min="1" />
+            <Param max="10" min="1" />
+        </Param>
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+        <Param max="359" min="0" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="500" min="1" />
+        <Param max="10" min="0" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="10" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="10" min="1" />
+        </Param>
+        <Param>
+            <Param max="2000000000" min="1" />
+            <Param max="1000" min="1" />
+        </Param>
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="500" min="1" />
+        <Param max="10" min="0" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param>
+            <Param values="혼자|파티" />
+            <Param />
+            <Param values="TRUE|FALSE" />
+            <Param values="적용|모두적용" />
+        </Param>
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+        <Param max="2000000000" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param values="수동|자동수동" />
+        <Param>
+            <Param />
+        </Param>
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="2000000000" min="0" />
+        <Param>
+            <Param />
+        </Param>
+        <Param max="2000000000" min="1" />
+        <Param max="500" min="1" />
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="1000000" min="1" />
+        <Param max="500" min="1" />
+        <Param>
+            <Param />
+        </Param>
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="1000000" min="1" />
+        <Param max="500" min="1" />
+        <Param>
+            <Param />
+        </Param>
+    </TaskClass>
+    <TaskClass description="" in="1" out="1">
+        <Param max="10000" min="1" />
+        <Param max="500" min="1" />
+        <Param>
+            <Param />
+        </Param>
+    </TaskClass>
+</TaskDef>

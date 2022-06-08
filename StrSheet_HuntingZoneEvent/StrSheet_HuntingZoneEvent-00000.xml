@@ -1,0 +1,37 @@
+<StrSheet_HuntingZoneEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_HuntingZoneEvent StrSheet_HuntingZoneEvent.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_HuntingZoneEvent">
+    <String id="1" string="Increased Drop Rate" />
+    <String id="2" string="Decreased Instance Cooldown" />
+    <String id="3" string="Increased Instance Entries" />
+    <String id="4" string="Increased Gold Drops" />
+    <String id="5" string="Increased XP Gains" />
+    <String id="6" string="Increased Drop Rate: Enchanted Items" />
+    <String id="7" string="Increased Awards: Battleground Reputation" />
+    <String id="8" string="Increased Success Rate: Enchanting" />
+    <String id="9" string="Additional Rewards: Solo Dungeons" />
+    <String id="10" string="Increased Awards: Battleground Experience" />
+    <String id="19" string="Additional Rewards: Nexus" />
+    <String id="20" string="Increased Reward Rate: Nexus " />
+    <String id="23" string="Increased EP XP Gain" />
+    <String id="24" string="Increased EP Gain " />
+    <String id="25" string="Increased Limit: EP System XP" />
+    <String id="28" string="Increased Success Rate: Enchanting" />
+    <String id="29" string="Increased Success Rate: Masterwork" />
+    <String id="30" string="Upgrade Bonus" />
+    <String id="32" string="Battleground Jackpot" />
+    <String id="33" string="Dungeon Jackpot" />
+    <String id="40" string="Increased Vanguard Requests Rewards " />
+    <String id="41" string="Increased Vanguard Requests Rewards: Gold" />
+    <String id="42" string="Increased Vanguard Requests Rewards: Reputation" />
+    <String id="43" string="Increased Vanguard Requests Rewards: Items" />
+    <String id="44" string="Increased Vanguard Requests Rewards: XP Gain" />
+    <String id="45" string="Increased Vanguard Requests Limit: Dungeons" />
+    <String id="46" string="Increased Vanguard Requests Limit: Battlegrounds" />
+    <String id="47" string="Increased Vanguard Requests Limit: Normal Quests" />
+    <String id="48" string="Increased Vanguard Requests Limit: Total Quests" />
+    <String id="49" string="Increased Vanguard Requests Rewards: EP XP Gain" />
+    <String id="50" string="Additional Vanguard Requests Reward" />
+    <String id="51" string="Monster Spawn" />
+    <String id="52" string="Increased Guild Funds" />
+    <String id="53" string="Increased Guild XP" />
+    <String id="54" string="Dungeon Mentor" />
+</StrSheet_HuntingZoneEvent>

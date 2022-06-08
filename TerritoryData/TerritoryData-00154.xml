@@ -1,0 +1,42 @@
+<TerritoryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TerritoryData TerritoryData.xsd" huntingZoneId="3035" xmlns="https://vezel.dev/novadrop/dc/TerritoryData">
+    <TerritoryGroup id="303500001">
+        <TerritoryList>
+            <Territory id="303500001" absoluteFenceZ="0">
+                <Fence pos="-10557.46777344,-7293.01513672,-9852.39843750" />
+                <Fence pos="-10737.23632813,-7313.13134766,-9852.39355469" />
+                <Fence pos="-10709.75097656,-7385.72070313,-9854.05468750" />
+                <Fence pos="-10581.71093750,-7363.85595703,-9854.05957031" />
+                <Npc dir="270" npcTemplateId="1001" ai="100">
+                    <PatrolList randomSocial="false" socialDuration="0" />
+                </Npc>
+            </Territory>
+            <Territory id="303500002" absoluteFenceZ="0">
+                <Fence pos="-10743.68554688,-7525.80859375,-9854.06347656" />
+                <Fence pos="-10744.31835938,-7718.67382813,-9854.04687500" />
+                <Fence pos="-10551.56152344,-7716.72265625,-9854.04980469" />
+                <Fence pos="-10552.87695313,-7526.31933594,-9854.06542969" />
+                <Npc dir="88" npcTemplateId="1006" ai="101">
+                    <PatrolList randomSocial="false" socialDuration="0" />
+                </Npc>
+                <Npc dir="88" npcTemplateId="1006" ai="101">
+                    <PatrolList randomSocial="false" socialDuration="0" />
+                </Npc>
+                <Npc dir="88" npcTemplateId="1007" ai="201">
+                    <PatrolList randomSocial="false" socialDuration="0" />
+                </Npc>
+                <Npc dir="88" npcTemplateId="1007" ai="201">
+                    <PatrolList randomSocial="false" socialDuration="0" />
+                </Npc>
+            </Territory>
+            <Territory id="303500003" absoluteFenceZ="0">
+                <Fence pos="-10746.86621094,-7515.16162109,-9854.06445313" />
+                <Fence pos="-10740.71386719,-7712.67236328,-9854.04687500" />
+                <Fence pos="-10549.66406250,-7700.97363281,-9854.05078125" />
+                <Fence pos="-10546.99023438,-7521.71923828,-9854.06640625" />
+                <Npc dir="88" npcTemplateId="1003" ai="102">
+                    <PatrolList randomSocial="false" socialDuration="0" />
+                </Npc>
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+</TerritoryData>

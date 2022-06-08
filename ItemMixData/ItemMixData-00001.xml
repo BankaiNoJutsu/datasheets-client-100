@@ -1,0 +1,380 @@
+<ItemMixData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ItemMixData ItemMixData.xsd" xmlns="https://vezel.dev/novadrop/dc/ItemMixData">
+    <ItemMix progressTime="0" itemMixId="20100" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379001" />
+        </Materials>
+        <Result successCount="1" successItemId="380001" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20200" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379002" />
+        </Materials>
+        <Result successCount="1" successItemId="380002" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20300" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379003" />
+        </Materials>
+        <Result successCount="1" successItemId="380003" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20400" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379004" />
+        </Materials>
+        <Result successCount="1" successItemId="380004" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20500" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379005" />
+        </Materials>
+        <Result successCount="1" successItemId="380005" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20600" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379006" />
+        </Materials>
+        <Result successCount="1" successItemId="380006" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20700" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379007" />
+        </Materials>
+        <Result successCount="1" successItemId="380007" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20800" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379008" />
+        </Materials>
+        <Result successCount="1" successItemId="380008" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20900" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379009" />
+        </Materials>
+        <Result successCount="1" successItemId="380009" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21000" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379010" />
+        </Materials>
+        <Result successCount="1" successItemId="380010" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21100" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379011" />
+        </Materials>
+        <Result successCount="1" successItemId="380011" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21200" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379012" />
+        </Materials>
+        <Result successCount="1" successItemId="380012" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21400" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379014" />
+        </Materials>
+        <Result successCount="1" successItemId="380014" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21500" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379015" />
+        </Materials>
+        <Result successCount="1" successItemId="380015" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21600" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379016" />
+        </Materials>
+        <Result successCount="1" successItemId="380016" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21900" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379019" />
+        </Materials>
+        <Result successCount="1" successItemId="380019" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22000" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379020" />
+        </Materials>
+        <Result successCount="1" successItemId="380020" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22100" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379021" />
+        </Materials>
+        <Result successCount="1" successItemId="380021" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22300" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379023" />
+        </Materials>
+        <Result successCount="1" successItemId="380023" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22400" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379024" />
+        </Materials>
+        <Result successCount="1" successItemId="380024" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22500" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="379025" />
+        </Materials>
+        <Result successCount="1" successItemId="380025" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20101" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371101" />
+        </Materials>
+        <Result successCount="1" successItemId="381101" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20102" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371102" />
+        </Materials>
+        <Result successCount="1" successItemId="381102" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20201" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371201" />
+        </Materials>
+        <Result successCount="1" successItemId="381201" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20202" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371202" />
+        </Materials>
+        <Result successCount="1" successItemId="381202" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20301" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371301" />
+        </Materials>
+        <Result successCount="1" successItemId="381301" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20302" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371302" />
+        </Materials>
+        <Result successCount="1" successItemId="381302" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20401" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371401" />
+        </Materials>
+        <Result successCount="1" successItemId="381401" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20402" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371402" />
+        </Materials>
+        <Result successCount="1" successItemId="381402" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20501" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371501" />
+        </Materials>
+        <Result successCount="1" successItemId="381501" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20502" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371502" />
+        </Materials>
+        <Result successCount="1" successItemId="381502" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20601" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371601" />
+        </Materials>
+        <Result successCount="1" successItemId="381601" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20602" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371602" />
+        </Materials>
+        <Result successCount="1" successItemId="381602" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20701" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371701" />
+        </Materials>
+        <Result successCount="1" successItemId="381701" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20702" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371702" />
+        </Materials>
+        <Result successCount="1" successItemId="381702" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20801" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371801" />
+        </Materials>
+        <Result successCount="1" successItemId="381801" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20802" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371802" />
+        </Materials>
+        <Result successCount="1" successItemId="381802" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20901" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371901" />
+        </Materials>
+        <Result successCount="1" successItemId="381901" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="20902" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="371902" />
+        </Materials>
+        <Result successCount="1" successItemId="381902" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21001" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372001" />
+        </Materials>
+        <Result successCount="1" successItemId="382001" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21002" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372002" />
+        </Materials>
+        <Result successCount="1" successItemId="382002" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21101" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372101" />
+        </Materials>
+        <Result successCount="1" successItemId="382101" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21102" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372102" />
+        </Materials>
+        <Result successCount="1" successItemId="382102" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21201" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372201" />
+        </Materials>
+        <Result successCount="1" successItemId="382201" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21202" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372202" />
+        </Materials>
+        <Result successCount="1" successItemId="382202" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21401" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372401" />
+        </Materials>
+        <Result successCount="1" successItemId="382401" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21402" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372402" />
+        </Materials>
+        <Result successCount="1" successItemId="382402" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21501" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372501" />
+        </Materials>
+        <Result successCount="1" successItemId="382501" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21502" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372502" />
+        </Materials>
+        <Result successCount="1" successItemId="382502" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21601" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372601" />
+        </Materials>
+        <Result successCount="1" successItemId="382601" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21602" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372602" />
+        </Materials>
+        <Result successCount="1" successItemId="382602" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21901" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372901" />
+        </Materials>
+        <Result successCount="1" successItemId="382901" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="21902" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="372902" />
+        </Materials>
+        <Result successCount="1" successItemId="382902" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22001" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373001" />
+        </Materials>
+        <Result successCount="1" successItemId="383001" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22002" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373002" />
+        </Materials>
+        <Result successCount="1" successItemId="383002" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22101" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373101" />
+        </Materials>
+        <Result successCount="1" successItemId="383101" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22102" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373102" />
+        </Materials>
+        <Result successCount="1" successItemId="383102" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22301" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373301" />
+        </Materials>
+        <Result successCount="1" successItemId="383301" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22302" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373302" />
+        </Materials>
+        <Result successCount="1" successItemId="383302" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22401" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373401" />
+        </Materials>
+        <Result successCount="1" successItemId="383401" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22402" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373402" />
+        </Materials>
+        <Result successCount="1" successItemId="383402" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22501" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373501" />
+        </Materials>
+        <Result successCount="1" successItemId="383501" />
+    </ItemMix>
+    <ItemMix progressTime="0" itemMixId="22502" progressSocial="0" successRate="1">
+        <Materials>
+            <Material count="20" itemId="373502" />
+        </Materials>
+        <Result successCount="1" successItemId="383502" />
+    </ItemMix>
+</ItemMixData>

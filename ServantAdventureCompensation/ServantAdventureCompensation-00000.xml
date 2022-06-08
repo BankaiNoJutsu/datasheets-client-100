@@ -1,0 +1,1179 @@
+<ServantAdventureCompensation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ServantAdventureCompensation ServantAdventureCompensation.xsd" xmlns="https://vezel.dev/novadrop/dc/ServantAdventureCompensation">
+    <AdventureCompensation id="100" memo="모험(던전) 보상테이블[하급]">
+        <Compensation id="1" probability="0.55" bagName="하급던전 하급 보상" itembagGrade="1">
+            <Itembag id="1" probability="0.5" memo="1단연마개방[하급]">
+                <Item name="1단연마" templateId="98666" max="160" min="120" />
+                <Item name="1단개방" templateId="98667" max="40" min="30" />
+                <Item name="펫 경험치 하급" templateId="207501" max="1" min="1" />
+                <Item name="하급연마경험치" templateId="98850" max="3" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.5" memo="2단연마개방[하급]">
+                <Item name="2단연마" templateId="98668" max="160" min="120" />
+                <Item name="2단개방" templateId="98669" max="40" min="30" />
+                <Item name="펫 경험치 하급" templateId="207501" max="1" min="1" />
+                <Item name="하급연마경험치" templateId="98850" max="3" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="2" probability="0.35" bagName="하급던전 중급 보상" itembagGrade="2">
+            <Itembag id="1" probability="0.5" memo="1단연마개방[하급]">
+                <Item name="1단연마" templateId="98666" max="320" min="240" />
+                <Item name="1단개방" templateId="98667" max="80" min="60" />
+                <Item name="펫 경험치 중급" templateId="207502" max="1" min="1" />
+                <Item name="중급연마경험치" templateId="98851" max="3" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.5" memo="2단연마개방[하급]">
+                <Item name="1단연마" templateId="98668" max="320" min="240" />
+                <Item name="1단개방" templateId="98669" max="80" min="60" />
+                <Item name="펫 경험치 중급" templateId="207502" max="1" min="1" />
+                <Item name="중급연마경험치" templateId="98851" max="3" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="3" probability="0.1" bagName="하급던전 상급 보상" itembagGrade="3">
+            <Itembag id="1" probability="0.5" memo="1단연마개방[갑옷][상급]">
+                <Item name="1단연마" templateId="98666" max="480" min="320" />
+                <Item name="1단개방" templateId="98667" max="120" min="80" />
+                <Item name="3단연마" templateId="98670" max="100" min="60" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="펫 경험치 상급" templateId="207503" max="1" min="1" />
+                <Item name="상급 연마경험치" templateId="98852" max="2" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.5" memo="2단연마개방[갑옷][상급]">
+                <Item name="2단연마" templateId="98668" max="480" min="320" />
+                <Item name="2단개방" templateId="98669" max="120" min="80" />
+                <Item name="3단연마" templateId="98670" max="100" min="60" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="펫 경험치 상급" templateId="207503" max="1" min="1" />
+                <Item name="상급 연마경험치" templateId="98852" max="2" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="101" memo="모험(던전) 대성공 보상 테이블[하급]">
+        <Compensation id="1" probability="1.00" bagName="하급던전 최상급 보상" itembagGrade="4">
+            <Itembag id="1" probability="1.0" memo="하급던전 최상급 보상">
+                <Item name="1단연마" templateId="98666" max="720" min="480" />
+                <Item name="1단개방" templateId="98667" max="150" min="120" />
+                <Item name="2단연마" templateId="98668" max="720" min="480" />
+                <Item name="2단개방" templateId="98669" max="150" min="120" />
+                <Item name="3단연마" templateId="98670" max="150" min="120" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+                <Item name="펫 경험치 최상급" templateId="207504" max="1" min="1" />
+                <Item name="최상급 연마경험치" templateId="98853" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="200" memo="모험(던전) 보상테이블[중급]">
+        <Compensation id="1" probability="0.55" bagName="중급던전 하급 보상" itembagGrade="1">
+            <Itembag id="1" probability="1.0" memo="강화석[하급보상]">
+                <Item name="가공된광물" templateId="98683" max="2" min="1" />
+                <Item name="다크샤드방어" templateId="98676" max="5" min="3" />
+                <Item name="다크샤드무기" templateId="98675" max="2" min="1" />
+                <Item name="펫간식" templateId="207501" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="2" probability="0.35" bagName="중급던전 중급 보상" itembagGrade="2">
+            <Itembag id="1" probability="1.0" memo="강화석[중급보상]">
+                <Item name="가공된광물" templateId="98683" max="2" min="1" />
+                <Item name="아스란발톱" templateId="98697" max="1" min="1" />
+                <Item name="다크샤드방어" templateId="98676" max="7" min="5" />
+                <Item name="다크샤드무기" templateId="98675" max="3" min="2" />
+                <Item name="펫간식" templateId="207502" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="3" probability="0.1" bagName="중급던전 상급 보상" itembagGrade="3">
+            <Itembag id="1" probability="0.34" memo="전설갑옷[상급보상]">
+                <Item name="가공된광물" templateId="98683" max="5" min="1" />
+                <Item name="아스란발톱" templateId="98697" max="2" min="1" />
+                <Item name="다크샤드방어" templateId="98676" max="20" min="5" />
+                <Item name="다크샤드무기" templateId="98675" max="10" min="3" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="단단응집" templateId="98714" max="2" min="1" />
+                <Item name="전설갑옷" templateId="206951" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.33" memo="전설장갑[상급보상]">
+                <Item name="가공된광물" templateId="98683" max="5" min="1" />
+                <Item name="아스란발톱" templateId="98697" max="2" min="1" />
+                <Item name="다크샤드방어" templateId="98676" max="20" min="5" />
+                <Item name="다크샤드무기" templateId="98675" max="10" min="3" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="단단응집" templateId="98714" max="2" min="1" />
+                <Item name="전설장갑" templateId="206952" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.33" memo="전설신발[상급보상]">
+                <Item name="가공된광물" templateId="98683" max="5" min="1" />
+                <Item name="아스란발톱" templateId="98697" max="2" min="1" />
+                <Item name="다크샤드방어" templateId="98676" max="20" min="5" />
+                <Item name="다크샤드무기" templateId="98675" max="10" min="3" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="단단응집" templateId="98714" max="2" min="1" />
+                <Item name="전설신발" templateId="206953" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="201" memo="모험(던전) 대성공 보상 테이블[중급]">
+        <Compensation id="1" probability="1.00" bagName="중급던전 최상급 보상" itembagGrade="4">
+            <Itembag id="1" probability="1.0" memo="중급던전 최상급 보상">
+                <Item name="다크샤드방어" templateId="98676" max="60" min="20" />
+                <Item name="다크샤드무기" templateId="98675" max="20" min="10" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="전설무기" templateId="206950" max="1" min="1" />
+                <Item name="아스란무기" templateId="98711" max="1" min="1" />
+                <Item name="예리응집" templateId="98713" max="2" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="300" memo="모험(던전) 보상테이블[상급]">
+        <Compensation id="1" probability="0.55" bagName="상급던전 하급 보상" itembagGrade="1">
+            <Itembag id="1" probability="0.5" memo="힘/단단[하급보상]">
+                <Item name="엘리누의 유물 I 교환권" templateId="21356" max="1" min="1" />
+                <Item name="카라스의 성물 I 교환권" templateId="21360" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.5" memo="치유/단단[하급보상]">
+                <Item name="티투스의 유물 I 교환권" templateId="21358" max="1" min="1" />
+                <Item name="다곤의 성물 I 교환권" templateId="21362" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="2" probability="0.35" bagName="상급던전 중급 보상" itembagGrade="2">
+            <Itembag id="1" probability="0.5" memo="힘/단단[중급보상]">
+                <Item name="엘리누의 유물 I 교환권" templateId="21356" max="1" min="1" />
+                <Item name="카라스의 성물 I 교환권" templateId="21360" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="4" min="2" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.5" memo="치유/단단[중급보상]">
+                <Item name="티투스의 유물 I 교환권" templateId="21358" max="1" min="1" />
+                <Item name="다곤의 성물 I 교환권" templateId="21362" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="4" min="2" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="3" probability="0.1" bagName="상급던전 상급 보상" itembagGrade="3">
+            <Itembag id="1" probability="0.5" memo="힘/단단[상급보상]">
+                <Item name="엘리누의 유물 II 교환권" templateId="21357" max="1" min="1" />
+                <Item name="카라스의 성물 II 교환권" templateId="21361" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="5" />
+            </Itembag>
+            <Itembag id="2" probability="0.5" memo="치유/단단[상급보상]">
+                <Item name="티투스의 유물 II 교환권" templateId="21359" max="1" min="1" />
+                <Item name="다곤의 성물 II 교환권" templateId="21363" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="5" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="301" memo="모험(던전) 대성공 보상 테이블[상급]">
+        <Compensation id="1" probability="1.00" bagName="상급던전 최상급 보상" itembagGrade="4">
+            <Itembag id="1" probability="0.5" memo="힘/단단[최상급보상]">
+                <Item name="엘리누의 유물 II 교환권" templateId="21357" max="1" min="1" />
+                <Item name="카라스의 성물 II 교환권" templateId="21361" max="1" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="재료파트너" templateId="207629" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.5" memo="치유/단단[최상급보상]">
+                <Item name="티투스의 유물 II 교환권" templateId="21359" max="1" min="1" />
+                <Item name="다곤의 성물 II 교환권" templateId="21363" max="1" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="재료파트너" templateId="207629" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="400" memo="모험(던전) 보상테이블[최상급]">
+        <Compensation id="1" probability="0.55" bagName="최상급던전 하급 보상" itembagGrade="1">
+            <Itembag id="1" probability="0.5" memo="힘/단단[하급보상]">
+                <Item name="켈사가챠" templateId="208039" max="1" min="1" />
+                <Item name="엘리누의 유물 I 교환권" templateId="21356" max="1" min="1" />
+                <Item name="카라스의 성물 I 교환권" templateId="21360" max="1" min="1" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.5" memo="치유/단단[하급보상]">
+                <Item name="켈사가챠" templateId="208039" max="1" min="1" />
+                <Item name="티투스의 유물 I 교환권" templateId="21358" max="1" min="1" />
+                <Item name="다곤의 성물 I 교환권" templateId="21362" max="1" min="1" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="2" probability="0.35" bagName="최상급던전 중급 보상" itembagGrade="2">
+            <Itembag id="1" probability="0.5" memo="힘/단단[중급보상]">
+                <Item name="켈사가챠" templateId="208039" max="2" min="1" />
+                <Item name="엘리누의 유물 I 교환권" templateId="21356" max="1" min="1" />
+                <Item name="카라스의 성물 I 교환권" templateId="21360" max="1" min="1" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.5" memo="치유/단단[중급보상]">
+                <Item name="켈사가챠" templateId="208039" max="2" min="1" />
+                <Item name="티투스의 유물 I 교환권" templateId="21358" max="1" min="1" />
+                <Item name="다곤의 성물 I 교환권" templateId="21362" max="1" min="1" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="3" probability="0.1" bagName="최상급던전 상급 보상" itembagGrade="3">
+            <Itembag id="1" probability="0.15" memo="전설유물/단단[상급보상]">
+                <Item name="켈사가챠" templateId="208039" max="5" min="1" />
+                <Item name="켈사무기재료" templateId="207531" max="1" min="1" />
+                <Item name="아마룬유물" templateId="89040" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.15" memo="전설성물/단단[상급보상]">
+                <Item name="켈사가챠" templateId="208039" max="5" min="1" />
+                <Item name="켈사무기재료" templateId="207531" max="1" min="1" />
+                <Item name="이샤라성물" templateId="89140" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.35" memo="2단 힘 성/유물">
+                <Item name="켈사가챠" templateId="208039" max="5" min="1" />
+                <Item name="켈사무기재료" templateId="207531" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="엘리누의 유물 II 교환권" templateId="21357" max="1" min="1" />
+                <Item name="카라스의 성물 II 교환권" templateId="21361" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.35" memo="냉기발톱/예리[상급보상]">
+                <Item name="켈사가챠" templateId="208039" max="5" min="1" />
+                <Item name="켈사무기재료" templateId="207531" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+                <Item name="티투스의 유물 II 교환권" templateId="21359" max="1" min="1" />
+                <Item name="다곤의 성물 II 교환권" templateId="21363" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="401" memo="모험(던전) 대성공 보상 테이블[최상급]">
+        <Compensation id="4" probability="1.00" bagName="최상급던전 최상급 보상" itembagGrade="4">
+            <Itembag id="1" probability="0.49" memo="업화발톱/단단예리[최상급보상]">
+                <Item name="켈사가챠" templateId="208039" max="5" min="1" />
+                <Item name="켈사무기재료" templateId="207531" max="2" min="1" />
+                <Item name="아마룬유물" templateId="89040" max="1" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+                <Item name="펫경험치[최상]" templateId="207504" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.49" memo="냉기발톱/단단예리[최상급보상]">
+                <Item name="켈사가챠" templateId="208039" max="5" min="1" />
+                <Item name="켈사무기재료" templateId="207531" max="2" min="1" />
+                <Item name="이샤라성물" templateId="89140" max="1" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+                <Item name="펫경험치[최상]" templateId="207504" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.01" memo="업화완제/단단예리[최상급보상]">
+                <Item name="업화무기상자" templateId="98721" max="1" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+                <Item name="펫경험치[최상]" templateId="207504" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.01" memo="냉기완제/단단예리[최상급보상]">
+                <Item name="냉기무기상자" templateId="98722" max="1" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+                <Item name="펫경험치[최상]" templateId="207504" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="500" memo="통합보상(던전) 보상테이블">
+        <Compensation id="1" probability="0.6" bagName="하급던전 하급 보상" itembagGrade="1">
+            <Itembag id="1" probability="0.125" memo="1단연마개방[하급]">
+                <Item name="1단연마" templateId="98666" max="40" min="30" />
+                <Item name="1단개방" templateId="98667" max="15" min="10" />
+                <Item name="하급연마경험치" templateId="98850" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.125" memo="2단연마개방[하급]">
+                <Item name="2단연마" templateId="98668" max="40" min="30" />
+                <Item name="2단개방" templateId="98669" max="15" min="10" />
+                <Item name="하급연마경험치" templateId="98850" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.25" memo="강화석[하급보상]">
+                <Item name="가공된광물" templateId="98683" max="1" min="1" />
+                <Item name="다크샤드방어" templateId="98676" max="2" min="1" />
+                <Item name="다크샤드무기" templateId="98675" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.25" memo="세계결정[하급보상]">
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.25" memo="켈사재료[하급보상]">
+                <Item name="켈사가챠" templateId="208039" max="1" min="1" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="2" probability="0.3" bagName="하급던전 중급 보상" itembagGrade="2">
+            <Itembag id="1" probability="0.125" memo="1단연마개방[중급]">
+                <Item name="1단연마" templateId="98666" max="80" min="60" />
+                <Item name="1단개방" templateId="98667" max="20" min="15" />
+                <Item name="중급연마경험치" templateId="98851" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.125" memo="2단연마개방[중급]">
+                <Item name="2단연마" templateId="98668" max="80" min="60" />
+                <Item name="2단개방" templateId="98669" max="20" min="15" />
+                <Item name="중급연마경험치" templateId="98850" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.25" memo="강화석[중급보상]">
+                <Item name="가공된광물" templateId="98683" max="2" min="1" />
+                <Item name="아스란발톱" templateId="98697" max="1" min="1" />
+                <Item name="다크샤드방어" templateId="98676" max="4" min="2" />
+                <Item name="다크샤드무기" templateId="98675" max="2" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.125" memo="세계결정[중급보상]">
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="힘성물1단" templateId="21360" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.125" memo="세계결정[중급보상]">
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="힘유물1단" templateId="21356" max="1" min="1" />
+            </Itembag>
+            <Itembag id="6" probability="0.125" memo="켈사재료[중급보상]">
+                <Item name="켈사가챠" templateId="208039" max="1" min="1" />
+                <Item name="힘성물1단" templateId="21360" max="1" min="1" />
+            </Itembag>
+            <Itembag id="7" probability="0.125" memo="켈사재료[중급보상]">
+                <Item name="켈사가챠" templateId="208039" max="1" min="1" />
+                <Item name="힘유물1단" templateId="21356" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="3" probability="0.1" bagName="하급던전 상급 보상" itembagGrade="3">
+            <Itembag id="1" probability="0.125" memo="1단연마개방[상급]">
+                <Item name="1단연마" templateId="98666" max="120" min="80" />
+                <Item name="1단개방" templateId="98667" max="40" min="20" />
+                <Item name="3단개방" templateId="98670" max="25" min="15" />
+                <Item name="상급연마경험치" templateId="98852" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.125" memo="2단연마개방[상급]">
+                <Item name="2단연마" templateId="98668" max="120" min="80" />
+                <Item name="2단개방" templateId="98669" max="40" min="20" />
+                <Item name="3단개방" templateId="98670" max="25" min="15" />
+                <Item name="상급연마경험치" templateId="98852" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.25" memo="강화석[상급보상]">
+                <Item name="가공된광물" templateId="98683" max="3" min="1" />
+                <Item name="아스란발톱" templateId="98697" max="2" min="1" />
+                <Item name="다크샤드방어" templateId="98676" max="8" min="3" />
+                <Item name="다크샤드무기" templateId="98675" max="4" min="2" />
+                <Item name="단단응집" templateId="98714" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.25" memo="세계결정[상급보상]">
+                <Item name="세계결정" templateId="206854" max="5" min="2" />
+                <Item name="힘성물1단" templateId="21360" max="1" min="1" />
+                <Item name="힘유물1단" templateId="21356" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.25" memo="켈사재료[상급보상]">
+                <Item name="켈사가챠" templateId="208039" max="2" min="2" />
+                <Item name="켈상가챠" templateId="207531" max="1" min="1" />
+                <Item name="힘성물1단" templateId="21360" max="1" min="1" />
+                <Item name="힘유물1단" templateId="21356" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="501" memo="통합보상(던전) 대성공 보상 테이블">
+        <Compensation id="1" probability="1.00" bagName="하급던전 최상급 보상" itembagGrade="4">
+            <Itembag id="1" probability="0.25" memo="1단연마개방[상급]">
+                <Item name="1단연마" templateId="98666" max="160" min="120" />
+                <Item name="1단개방" templateId="98667" max="50" min="30" />
+                <Item name="2단연마" templateId="98668" max="160" min="120" />
+                <Item name="2단개방" templateId="98669" max="50" min="30" />
+                <Item name="3단개방" templateId="98670" max="40" min="30" />
+                <Item name="최상급연마경험치" templateId="98853" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.25" memo="강화석[상급보상]">
+                <Item name="아스란무기" templateId="98711" max="1" min="1" />
+                <Item name="다크샤드방어" templateId="98676" max="15" min="7" />
+                <Item name="다크샤드무기" templateId="98675" max="7" min="3" />
+                <Item name="예리응집" templateId="98713" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.125" memo="세계결정[상급보상]">
+                <Item name="재료파트너" templateId="207629" max="1" min="1" />
+                <Item name="힘성물2단" templateId="21361" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.125" memo="세계결정[상급보상]">
+                <Item name="재료파트너" templateId="207629" max="1" min="1" />
+                <Item name="힘유물2단" templateId="21357" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.125" memo="켈사재료[상급보상]">
+                <Item name="켈사가챠" templateId="208039" max="5" min="2" />
+                <Item name="켈상가챠" templateId="207531" max="2" min="1" />
+                <Item name="아마룬유물" templateId="89040" max="1" min="1" />
+            </Itembag>
+            <Itembag id="6" probability="0.125" memo="켈사재료[상급보상]">
+                <Item name="켈사가챠" templateId="208039" max="5" min="2" />
+                <Item name="켈상가챠" templateId="207531" max="2" min="1" />
+                <Item name="이샤라성물" templateId="89140" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="1000" memo="1번 지역 보상테이블[식물]">
+        <Compensation id="1" probability="0.55" bagName="1번지역 하급 보상[식물]" itembagGrade="1">
+            <Itembag id="1" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="옥수수" templateId="207514" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="당근" templateId="207515" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="버섯" templateId="207516" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="호박" templateId="207517" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="사과" templateId="207518" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="2" probability="0.35" bagName="1번지역 중급 보상[식물]" itembagGrade="2">
+            <Itembag id="1" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="옥수수" templateId="207514" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="당근" templateId="207515" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="버섯" templateId="207516" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="호박" templateId="207517" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="사과" templateId="207518" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="3" probability="0.1" bagName="1번지역 상급 보상[식물]" itembagGrade="3">
+            <Itembag id="1" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="옥수수" templateId="207514" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="당근" templateId="207515" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="버섯" templateId="207516" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="호박" templateId="207517" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="사과" templateId="207518" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="1001" memo="1번 지역 대성공 보상테이블[식물]">
+        <Compensation id="4" probability="1.00" bagName="1번지역 최상급 보상[식물]" itembagGrade="4">
+            <Itembag id="1" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="옥수수" templateId="207514" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="당근" templateId="207515" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="버섯" templateId="207516" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="호박" templateId="207517" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="사과" templateId="207518" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="2000" memo="2번 지역 보상테이블[광석]">
+        <Compensation id="1" probability="0.55" bagName="2번지역 하급 보상[광석]" itembagGrade="1">
+            <Itembag id="1" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="코발트" templateId="207519" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="셀레시움" templateId="207520" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="테라리움" templateId="207521" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="미스릴" templateId="207522" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="갈보른" templateId="207523" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="2" probability="0.35" bagName="2번지역 중급 보상[광석]" itembagGrade="2">
+            <Itembag id="1" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="코발트" templateId="207519" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="셀레시움" templateId="207520" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="테라리움" templateId="207521" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="미스릴" templateId="207522" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="갈보른" templateId="207523" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="3" probability="0.1" bagName="2번지역 상급 보상[광석]" itembagGrade="3">
+            <Itembag id="1" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="코발트" templateId="207519" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="셀레시움" templateId="207520" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="테라리움" templateId="207521" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="미스릴" templateId="207522" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="갈보른" templateId="207523" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="2001" memo="2번 지역 대성공 보상테이블[광석]">
+        <Compensation id="4" probability="1.00" bagName="2번지역 최상급 보상[광석]" itembagGrade="4">
+            <Itembag id="1" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="코발트" templateId="207519" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="셀레시움" templateId="207520" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="테라리움" templateId="207521" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="미스릴" templateId="207522" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="갈보른" templateId="207523" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="3000" memo="3번 지역 보상테이블[정기]">
+        <Compensation id="1" probability="0.55" bagName="3번지역 하급 보상[정기]" itembagGrade="1">
+            <Itembag id="1" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="적색" templateId="207524" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="녹색" templateId="207525" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="청색" templateId="207526" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="백색" templateId="207527" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="하급보상[기본보상]">
+                <Item name="흑색" templateId="207528" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="10" min="5" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="2" probability="0.35" bagName="3번지역 중급 보상[정기]" itembagGrade="2">
+            <Itembag id="1" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="적색" templateId="207524" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="녹색" templateId="207525" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="청색" templateId="207526" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="백색" templateId="207527" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="중급보상[기본보상]">
+                <Item name="흑색" templateId="207528" max="1" min="1" />
+                <Item name="태초의 기운" templateId="206656" max="15" min="10" />
+                <Item name="펫경험치[중급]" templateId="207502" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="5" min="2" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="3" probability="0.1" bagName="3번지역 상급 보상[정기]" itembagGrade="3">
+            <Itembag id="1" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="적색" templateId="207524" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="녹색" templateId="207525" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="청색" templateId="207526" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="백색" templateId="207527" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="상급보상[카드보상]">
+                <Item name="흑색" templateId="207528" max="3" min="2" />
+                <Item name="태초의 기운" templateId="206656" max="30" min="15" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="2" min="1" />
+                <Item name="카드상자일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="3001" memo="3번 지역 대성공 보상테이블[정기]">
+        <Compensation id="4" probability="1.00" bagName="3번지역 최상급 보상[정기]" itembagGrade="4">
+            <Itembag id="1" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="적색" templateId="207524" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="녹색" templateId="207525" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="청색" templateId="207526" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="백색" templateId="207527" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.2" memo="최상급보상[카드보상]">
+                <Item name="흑색" templateId="207528" max="5" min="5" />
+                <Item name="태초의 기운" templateId="206656" max="35" min="25" />
+                <Item name="펫경험치[최상급]" templateId="207504" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="10" min="3" />
+                <Item name="카드상자고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="4000" memo="채집[종합]필드 보상 테이블">
+        <Compensation id="1" probability="0.55" bagName="1번지역 하급 보상[식물]" itembagGrade="1">
+            <Itembag id="1" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="옥수수" templateId="206801" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="당근" templateId="206802" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="버섯" templateId="206803" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="호박" templateId="206804" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="사과" templateId="206805" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="6" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="코발트" templateId="206807" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="7" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="셀레시움" templateId="206808" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="8" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="테라리움" templateId="206809" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="9" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="미스릴" templateId="206810" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="10" probability="0.06666666667" memo="하급보상[기본보상]">
+                <Item name="갈보른" templateId="206811" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="11" probability="0.06666666666" memo="하급보상[기본보상]">
+                <Item name="적색" templateId="206818" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="12" probability="0.06666666666" memo="하급보상[기본보상]">
+                <Item name="녹색" templateId="206819" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="13" probability="0.06666666666" memo="하급보상[기본보상]">
+                <Item name="청색" templateId="206820" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="14" probability="0.06666666666" memo="하급보상[기본보상]">
+                <Item name="백색" templateId="206821" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+            <Itembag id="15" probability="0.06666666666" memo="하급보상[기본보상]">
+                <Item name="흑색" templateId="206822" max="40" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="1" min="1" />
+                <Item name="결정조각" templateId="207500" max="2" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="2" probability="0.35" bagName="1번지역 중급 보상[식물]" itembagGrade="2">
+            <Itembag id="1" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="옥수수" templateId="206801" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="당근" templateId="206802" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="버섯" templateId="206803" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="호박" templateId="206804" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="사과" templateId="206805" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="6" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="코발트" templateId="206807" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="7" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="셀레시움" templateId="206808" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="8" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="테라리움" templateId="206809" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="9" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="미스릴" templateId="206810" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="10" probability="0.06666666667" memo="중급보상[기본보상]">
+                <Item name="갈보른" templateId="206811" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="11" probability="0.06666666666" memo="중급보상[기본보상]">
+                <Item name="적색" templateId="206818" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="12" probability="0.06666666666" memo="중급보상[기본보상]">
+                <Item name="녹색" templateId="206819" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="13" probability="0.06666666666" memo="중급보상[기본보상]">
+                <Item name="청색" templateId="206820" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="14" probability="0.06666666666" memo="중급보상[기본보상]">
+                <Item name="백색" templateId="206821" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+            <Itembag id="15" probability="0.06666666666" memo="중급보상[기본보상]">
+                <Item name="흑색" templateId="206822" max="50" min="30" />
+                <Item name="펫경험치[하급]" templateId="207501" max="2" min="1" />
+                <Item name="결정조각" templateId="207500" max="3" min="1" />
+            </Itembag>
+        </Compensation>
+        <Compensation id="3" probability="0.1" bagName="1번지역 상급 보상[식물]" itembagGrade="3">
+            <Itembag id="1" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="옥수수" templateId="206801" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="당근" templateId="206802" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="버섯" templateId="206803" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="호박" templateId="206804" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="사과" templateId="206805" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="6" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="코발트" templateId="206807" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="7" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="셀레시움" templateId="206808" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="8" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="테라리움" templateId="206809" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="9" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="미스릴" templateId="206810" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="10" probability="0.06666666667" memo="상급보상[카드보상]">
+                <Item name="갈보른" templateId="206811" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="11" probability="0.06666666666" memo="상급보상[카드보상]">
+                <Item name="적색" templateId="206818" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="12" probability="0.06666666666" memo="상급보상[카드보상]">
+                <Item name="녹색" templateId="206819" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="13" probability="0.06666666666" memo="상급보상[카드보상]">
+                <Item name="청색" templateId="206820" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="14" probability="0.06666666666" memo="상급보상[카드보상]">
+                <Item name="백색" templateId="206821" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+            <Itembag id="15" probability="0.06666666666" memo="상급보상[카드보상]">
+                <Item name="흑색" templateId="206822" max="105" min="70" />
+                <Item name="펫경험치[중급]" templateId="207502" max="2" min="1" />
+                <Item name="세계결정" templateId="206854" max="1" min="1" />
+                <Item name="카드일반" templateId="69001" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+    <AdventureCompensation id="4001" memo="채집[종합]필드 대성공 보상 테이블">
+        <Compensation id="4" probability="1.00" bagName="1번지역 최상급 보상[식물]" itembagGrade="4">
+            <Itembag id="1" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="옥수수" templateId="207514" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="2" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="당근" templateId="207515" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="3" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="버섯" templateId="207516" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="4" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="호박" templateId="207517" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="5" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="사과" templateId="207518" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="6" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="코발트" templateId="207519" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="7" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="셀레시움" templateId="207520" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="8" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="테라리움" templateId="207521" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="9" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="미스릴" templateId="207522" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="10" probability="0.06666666667" memo="최상급보상[카드보상]">
+                <Item name="갈보른" templateId="207523" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="11" probability="0.06666666666" memo="최상급보상[카드보상]">
+                <Item name="적색" templateId="207524" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="12" probability="0.06666666666" memo="최상급보상[카드보상]">
+                <Item name="녹색" templateId="207525" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="13" probability="0.06666666666" memo="최상급보상[카드보상]">
+                <Item name="청색" templateId="207526" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="14" probability="0.06666666666" memo="최상급보상[카드보상]">
+                <Item name="백색" templateId="207527" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+            <Itembag id="15" probability="0.06666666666" memo="최상급보상[카드보상]">
+                <Item name="흑색" templateId="207528" max="1" min="1" />
+                <Item name="펫경험치[상급]" templateId="207503" max="1" min="1" />
+                <Item name="세계결정" templateId="206854" max="3" min="1" />
+                <Item name="카드고급" templateId="69000" max="1" min="1" />
+            </Itembag>
+        </Compensation>
+    </AdventureCompensation>
+</ServantAdventureCompensation>

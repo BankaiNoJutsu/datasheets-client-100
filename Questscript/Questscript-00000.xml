@@ -1,0 +1,5 @@
+<Questscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Questscript Questscript.xsd" xmlns="https://vezel.dev/novadrop/dc/Questscript">
+    <Quest id="1" name="Welcome">
+        <Script function_name="quest_script_func1" npc_class_name="orc">function number HelloScript(){number ret = 0;return ret;}</Script>
+    </Quest>
+</Questscript>

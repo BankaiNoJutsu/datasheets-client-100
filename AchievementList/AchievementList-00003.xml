@@ -1,0 +1,474 @@
+<AchievementList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AchievementList AchievementList.xsd" xmlns="https://vezel.dev/novadrop/dc/AchievementList">
+    <Achievement id="585" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:585001" grade="3" point="1" compareId="7" active="false" categoryId="602" classes="common" compare="false" description="@Achievement:585002" detail="@Achievement:585003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:585800" templateId="4042" value1="9047" />
+        <RewardList>
+            <ItemReward templateId="368" amount="3" />
+            <ItemReward templateId="117331" amount="1" />
+            <TitleReward title="@Achievement:585501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="612" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:612001" grade="0" point="3" compareId="6024" active="false" categoryId="602" classes="common" compare="true" description="@Achievement:612002" detail="@Achievement:612003" hidden="true">
+        <Condition id="0" type="count" string="@Achievement:612800" templateId="1021" max="1" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:612501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="613" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:613001" grade="0" point="3" compareId="6024" active="false" categoryId="602" classes="common" compare="true" description="@Achievement:613002" detail="@Achievement:613003" hidden="true">
+        <Condition id="0" type="count" string="@Achievement:613800" templateId="1021" max="1" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:613501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510005" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510006" grade="3" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510007" detail="@Achievement:510008" hidden="true">
+        <Condition id="0" type="count" string="@Achievement:510011" templateId="1021" max="1" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510010" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510012" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510013" grade="3" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510014" detail="@Achievement:510015" hidden="true">
+        <Condition id="0" type="count" string="@Achievement:510018" templateId="1021" max="1" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510017" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510019" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510020" grade="3" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510021" detail="@Achievement:510022" hidden="true">
+        <Condition id="0" type="count" string="@Achievement:510025" templateId="1021" max="1" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510024" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510026" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510027" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510028" detail="@Achievement:510029" hidden="true">
+        <Condition id="0" type="count" string="@Achievement:510032" templateId="1021" max="1" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510031" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510027" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510027001" grade="2" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510027002" detail="@Achievement:510027003" hidden="true">
+        <Condition id="0" type="count" string="@Achievement:510027800" templateId="1021" max="1" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510027501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510028" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510028001" grade="3" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510028002" detail="@Achievement:510028003" hidden="true">
+        <Condition id="0" type="count" string="@Achievement:510028800" templateId="1021" max="1" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510028501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510033" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510033" grade="2" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510033001" detail="@Achievement:510033002" hidden="true">
+        <Condition id="0" type="count" string="@Achievement:510033201" templateId="1021" max="1" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510033101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510034" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510034" grade="2" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="true" description="@Achievement:510034001" detail="@Achievement:510034002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510034201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510034101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510035" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510035" grade="2" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510035001" detail="@Achievement:510035002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510035201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510035101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510036" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510036" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510036001" detail="@Achievement:510036002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510036201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510036101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510037" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510037" grade="3" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510037001" detail="@Achievement:510037002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510037201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510037101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510038" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510038" grade="3" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510038001" detail="@Achievement:510038002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510038201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510038101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510039" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510039" grade="3" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510039001" detail="@Achievement:510039002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510039201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510039101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510040" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510040101" grade="2" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510040102" detail="@Achievement:510040103" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510040106" templateId="1021" value1="1" />
+        <RewardList>
+            <ItemReward templateId="201580" amount="1" />
+            <TitleReward title="@Achievement:510040104" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510041" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510041101" grade="2" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510041102" detail="@Achievement:510041103" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" templateId="1021" value1="1" />
+        <RewardList>
+            <ItemReward templateId="109948" amount="1" />
+            <TitleReward title="@Achievement:510041104" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510042" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510042000" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510042001" detail="@Achievement:510042001" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1021" value1="10" />
+        <RewardList>
+            <ItemReward templateId="100368" amount="2" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510043" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510043000" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510043001" detail="@Achievement:510043001" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1021" value1="50" />
+        <RewardList>
+            <ItemReward templateId="200932" amount="1" />
+            <ItemReward templateId="206854" amount="1" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510044" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510044000" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510044001" detail="@Achievement:510044001" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1021" value1="100" />
+        <RewardList>
+            <ItemReward templateId="92134" amount="1" />
+            <ItemReward templateId="206854" amount="1" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510045" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510045000" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510045001" detail="@Achievement:510045001" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1021" value1="200" />
+        <RewardList>
+            <ItemReward templateId="117735" amount="1" />
+            <ItemReward templateId="369" amount="1" />
+            <TitleReward title="@Achievement:510045002" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510046" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510046000" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510046001" detail="@Achievement:510046001" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1021" value1="1" />
+        <RewardList>
+            <ItemReward templateId="202015" amount="3" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510047" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510047000" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510047001" detail="@Achievement:510047001" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1021" value1="4" />
+        <RewardList>
+            <ItemReward templateId="92131" amount="1" />
+            <ItemReward templateId="206854" amount="1" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510048" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510048000" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510048001" detail="@Achievement:510048001" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1021" value1="8" />
+        <RewardList>
+            <ItemReward templateId="92133" amount="1" />
+            <ItemReward templateId="206854" amount="1" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510049" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510049000" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="true" description="@Achievement:510049001" detail="@Achievement:510049001" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" templateId="1021" value1="12" />
+        <RewardList>
+            <ItemReward templateId="117737" amount="1" />
+            <ItemReward templateId="369" amount="1" />
+            <TitleReward title="@Achievement:510049002" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510050" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510050" grade="3" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510050001" detail="@Achievement:510050002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510050201" templateId="1021" value1="1" />
+        <RewardList>
+            <ItemReward templateId="88801" amount="5" />
+            <TitleReward title="@Achievement:510050101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510051" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510051" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510051001" detail="@Achievement:510051002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510051201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510051101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510052" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510052" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510052001" detail="@Achievement:510052002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510052101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510053" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510053" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510053001" detail="@Achievement:510053002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510053201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510053101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510054" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510054" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510054001" detail="@Achievement:510054002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510054201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510054101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510055" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510055" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510055001" detail="@Achievement:510055002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510055201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510055101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510056" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510056" grade="1" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510056001" detail="@Achievement:510056002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510056201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510056101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510057" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510057" grade="3" point="0" compareId="6024" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510057001" detail="@Achievement:510057002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510057201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510057101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510058" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510058001" grade="3" point="0" compareId="6026" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510058002" detail="@Achievement:510058003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510058800" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510058501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510059" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510059001" grade="3" point="0" compareId="6027" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510059002" detail="@Achievement:510059003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1020" max="30" value1="30" />
+        <RewardList>
+            <ItemReward templateId="69000" amount="3" />
+            <ItemReward templateId="118144" amount="1" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510060" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510060001" grade="3" point="0" compareId="6028" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510060002" detail="@Achievement:510060003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1020" max="300" value1="300" />
+        <RewardList>
+            <ItemReward templateId="69000" amount="3" />
+            <ItemReward templateId="267932" amount="1" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510061" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510061001" grade="3" point="0" compareId="6029" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510061002" detail="@Achievement:510061003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" templateId="1020" max="400" value1="400" />
+        <RewardList>
+            <ItemReward templateId="69000" amount="3" />
+            <TitleReward title="@Achievement:510061501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510062" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510062" grade="3" point="0" compareId="6030" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510062001" detail="@Achievement:510062002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510062102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510062101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510063" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510063" grade="3" point="0" compareId="6030" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510063001" detail="@Achievement:510063002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510063102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510063101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510064" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510064" grade="3" point="0" compareId="6031" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510064001" detail="@Achievement:510064002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510064102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510064101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510065" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510065" grade="3" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510065001" detail="@Achievement:510065002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510065102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510065101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510066" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510066" grade="3" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510066001" detail="@Achievement:510066002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510066102" templateId="1021" value1="1" />
+        <RewardList>
+            <ItemReward templateId="88801" amount="5" />
+            <TitleReward title="@Achievement:510066101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510067" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510067" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510067001" detail="@Achievement:510067002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510067102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510067101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510068" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510068" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510068001" detail="@Achievement:510068002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510068102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510068101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510069" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510069" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510069001" detail="@Achievement:510069002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510069102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510069101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510070" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510070" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510070001" detail="@Achievement:510070002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510070102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510070101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510071" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510071" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510071001" detail="@Achievement:510071002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510071102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510071101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510072" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510072" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510072001" detail="@Achievement:510072002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510072102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510072101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510073" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510073" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510073001" detail="@Achievement:510073002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510073102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510073101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510074" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510074" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510074001" detail="@Achievement:510074002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510074102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510074101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510075" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510075" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510075001" detail="@Achievement:510075002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510075102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510075101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510076" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510076" grade="1" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510076001" detail="@Achievement:510076002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510076102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510076101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510077" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:510077" grade="3" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510077001" detail="@Achievement:510077002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510077102" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510077101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510078" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510078001" grade="3" point="0" compareId="6032" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510078002" detail="@Achievement:510078003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510078800" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510078501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="713" iconName="Icon_Achievement.Icon_Achievement_title_dungeon_Tex" name="@Achievement:713001" grade="1" point="30" compareId="6033" active="false" categoryId="608" classes="common" compare="false" description="@Achievement:713002" detail="@Achievement:713003" hidden="true">
+        <Condition id="0" type="check" string="@Achievement:713800" templateId="9999" max="7" value1="7" />
+        <RewardList>
+            <ItemReward templateId="96207" amount="1" />
+            <TitleReward title="@Achievement:713501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510079" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510079" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510079010" detail="@Achievement:510079002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510079101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510080" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510080" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510080010" detail="@Achievement:510080002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510080101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510081" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510081" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510081010" detail="@Achievement:510081002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510081101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510082" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510082" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510082010" detail="@Achievement:510082002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510082101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510083" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510083" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510083010" detail="@Achievement:510083002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510083101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510084" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510084" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510084010" detail="@Achievement:510084002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510084101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510085" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510085" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510085010" detail="@Achievement:510085002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510085101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510086" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510086" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510086010" detail="@Achievement:510086002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510086101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510087" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510087" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510087010" detail="@Achievement:510087002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510087101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="510088" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:510088" grade="1" point="0" compareId="6033" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:510088010" detail="@Achievement:510088002" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:510052201" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:510088101" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="1815" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:1815001" grade="2" point="0" compareId="25131" active="false" categoryId="602" classes="common" compare="true" description="@Achievement:1815002" detail="@Achievement:1815003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:1815800" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:1815501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="1785" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:1785001" grade="2" point="50" compareId="25165" active="false" categoryId="608" classes="common" compare="false" description="@Achievement:1785002" detail="@Achievement:1785003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" string="@Achievement:1785800" templateId="9999" value1="10" />
+        <Condition id="1" type="count" string="@Achievement:1785801" templateId="9999" value1="10" />
+        <RewardList>
+            <TitleReward title="@Achievement:1785501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="1786" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:1786001" grade="2" point="0" compareId="25166" active="false" categoryId="608" classes="common" compare="false" description="@Achievement:1786002" detail="@Achievement:1786003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" string="@Achievement:1786800" templateId="1011" max="300" value1="300" />
+        <RewardList>
+            <ItemReward templateId="110095" amount="1" />
+            <TitleReward title="@Achievement:1786501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="1787" iconName="Icon_Achievement.Icon_Achievement_Title_event_Tex" name="@Achievement:1787001" grade="2" point="0" compareId="25167" active="false" categoryId="608" classes="common" compare="false" description="@Achievement:1787002" detail="@Achievement:1787003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" string="@Achievement:1787800" templateId="1011" max="1" value1="1" />
+        <RewardList>
+            <ItemReward templateId="110094" amount="1" />
+            <TitleReward title="@Achievement:1787501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="1814" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:1814001" grade="2" point="0" compareId="25168" active="false" categoryId="602" classes="common" compare="true" description="@Achievement:1814002" detail="@Achievement:1814003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" string="@Achievement:1814800" templateId="1021" max="250" value1="250" />
+        <RewardList>
+            <TitleReward title="@Achievement:1814501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="1816" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:1816001" grade="3" point="0" compareId="25194" active="false" categoryId="602" classes="common" compare="true" description="@Achievement:1816002" detail="@Achievement:1816003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="count" string="@Achievement:1816800" templateId="9999" max="15" value1="15" />
+        <RewardList>
+            <TitleReward title="@Achievement:1816501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="2000" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:2000001" grade="2" point="0" compareId="25195" active="true" categoryId="602" classes="common" compare="true" description="@Achievement:2000002" detail="@Achievement:2000003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:2000800" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:2000501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="1999" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:1999001" grade="1" point="0" compareId="25196" active="true" categoryId="602" classes="common" compare="true" description="@Achievement:1999002" detail="@Achievement:1999003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:1999800" templateId="1021" value1="1" />
+        <RewardList>
+            <TitleReward title="@Achievement:1999501" />
+        </RewardList>
+    </Achievement>
+    <Achievement id="5010000" iconName="Icon_Achievement.Icon_Achievement_Title_etc_Tex" name="@Achievement:5010001" grade="2" point="0" compareId="25197" active="true" categoryId="602" classes="common" compare="false" description="@Achievement:5010002" detail="@Achievement:5010003" hidden="true" sortGroup="이벤트">
+        <Condition id="0" type="check" string="@Achievement:5010800" templateId="1021" value1="100" />
+        <RewardList>
+            <ItemReward templateId="101353" amount="1" />
+            <TitleReward title="@Achievement:5010501" />
+        </RewardList>
+    </Achievement>
+</AchievementList>

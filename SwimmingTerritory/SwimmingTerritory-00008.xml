@@ -1,0 +1,5 @@
+<SwimmingTerritory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SwimmingTerritory SwimmingTerritory.xsd" id="26" xmlns="https://vezel.dev/novadrop/dc/SwimmingTerritory">
+    <Territory id="4" />
+    <Territory id="13" />
+    <Territory id="14" />
+</SwimmingTerritory>

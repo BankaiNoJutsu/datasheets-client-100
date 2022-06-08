@@ -1,0 +1,47 @@
+<EquipmentEnchantSubItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/EquipmentEnchantSubItem EquipmentEnchantSubItem.xsd" xmlns="https://vezel.dev/novadrop/dc/EquipmentEnchantSubItem">
+    <DefineEnchantData>
+        <EnchantData materialEnchantId="1103">
+            <Enchant enchantStep="10" avoidDamagedAmount="10" avoidDropAmount="5" />
+            <Enchant enchantStep="11" avoidDamagedAmount="11" avoidDropAmount="12" />
+            <Enchant enchantStep="12" avoidDamagedAmount="11" avoidDropAmount="31" />
+            <Enchant enchantStep="13" avoidDamagedAmount="12" avoidDropAmount="74" />
+            <Enchant enchantStep="14" avoidDamagedAmount="12" avoidDropAmount="161" />
+        </EnchantData>
+        <EnchantData materialEnchantId="1106">
+            <Enchant enchantStep="10" avoidDamagedAmount="5" avoidDropAmount="3" />
+            <Enchant enchantStep="11" avoidDamagedAmount="5" avoidDropAmount="7" />
+            <Enchant enchantStep="12" avoidDamagedAmount="6" avoidDropAmount="16" />
+            <Enchant enchantStep="13" avoidDamagedAmount="6" avoidDropAmount="35" />
+            <Enchant enchantStep="14" avoidDamagedAmount="6" avoidDropAmount="73" />
+        </EnchantData>
+        <EnchantData materialEnchantId="1109">
+            <Enchant enchantStep="10" avoidDamagedAmount="4" avoidDropAmount="3" />
+            <Enchant enchantStep="11" avoidDamagedAmount="4" avoidDropAmount="6" />
+            <Enchant enchantStep="12" avoidDamagedAmount="4" avoidDropAmount="15" />
+            <Enchant enchantStep="13" avoidDamagedAmount="4" avoidDropAmount="32" />
+            <Enchant enchantStep="14" avoidDamagedAmount="5" avoidDropAmount="68" />
+        </EnchantData>
+        <EnchantData materialEnchantId="1112">
+            <Enchant enchantStep="10" avoidDamagedAmount="4" avoidDropAmount="3" />
+            <Enchant enchantStep="11" avoidDamagedAmount="4" avoidDropAmount="6" />
+            <Enchant enchantStep="12" avoidDamagedAmount="4" avoidDropAmount="15" />
+            <Enchant enchantStep="13" avoidDamagedAmount="4" avoidDropAmount="32" />
+            <Enchant enchantStep="14" avoidDamagedAmount="5" avoidDropAmount="68" />
+        </EnchantData>
+    </DefineEnchantData>
+    <DefineSubItem>
+        <SubItem type="avoidDamaged" itemTemplateId="204483" />
+        <SubItem type="avoidDamaged" itemTemplateId="204484" />
+        <SubItem type="avoidDamaged" itemTemplateId="204485" />
+        <SubItem type="avoidDamaged" itemTemplateId="204486" />
+        <SubItem type="avoidDrop" itemTemplateId="204487" />
+        <SubItem type="avoidDrop" itemTemplateId="204488" />
+        <SubItem type="avoidDrop" itemTemplateId="204489" />
+        <SubItem type="avoidDrop" itemTemplateId="204490" />
+        <SubItem type="avoidDrop" itemTemplateId="207505" />
+        <SubItem type="avoidDrop" itemTemplateId="21374" />
+        <SubItem type="avoidDrop" itemTemplateId="21373" />
+        <SubItem type="avoidDrop" itemTemplateId="21372" />
+        <SubItem type="avoidDrop" itemTemplateId="21371" />
+    </DefineSubItem>
+</EquipmentEnchantSubItem>

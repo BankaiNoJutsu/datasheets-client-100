@@ -1,0 +1,69 @@
+<ItemSellList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ItemSellList ItemSellList.xsd" xmlns="https://vezel.dev/novadrop/dc/ItemSellList">
+    <List />
+    <List />
+    <List />
+    <List>
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+    </List>
+    <List>
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+    </List>
+    <List>
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+    </List>
+    <List>
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+    </List>
+    <List />
+    <List>
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+        <Item priceRevision="1" />
+    </List>
+</ItemSellList>

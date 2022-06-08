@@ -1,0 +1,17 @@
+<EnvLoadStatValidationList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/EnvLoadStatValidationList EnvLoadStatValidationList.xsd" xmlns="https://vezel.dev/novadrop/dc/EnvLoadStatValidationList">
+    <StatList>
+        <Stat value="30" index="0" />
+        <Stat value="33" index="1" />
+        <Stat value="33" index="2" />
+        <Stat value="33" index="3" />
+        <Stat value="2000" index="4" />
+        <Stat value="7" index="5" />
+        <Stat value="7" index="6" />
+        <Stat value="7" index="7" />
+        <Stat value="10" index="8" />
+        <Stat value="1200000" index="9" />
+        <Stat value="500000" index="10" />
+        <Stat value="500" index="11" />
+        <Stat value="300" index="12" />
+    </StatList>
+</EnvLoadStatValidationList>

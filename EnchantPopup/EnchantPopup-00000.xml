@@ -1,0 +1,67 @@
+<EnchantPopup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/EnchantPopup EnchantPopup.xsd" xmlns="https://vezel.dev/novadrop/dc/EnchantPopup">
+    <FixedString>
+        <String value="@enchant:100" key="masterpieceGuideComment" />
+        <String value="@enchant:101" key="optionResetComment" />
+        <String value="@enchant:102" key="cantMasterpieceGuideComment" />
+        <String value="@enchant:103" key="canOptionResetGuideComment" />
+        <String value=" " key="printBlankSpace" />
+    </FixedString>
+    <FixedValue>
+        <Float value="0.001" key="normalMasterpieceRate" />
+    </FixedValue>
+    <Popup id="1">
+        <ArrowGuideSlot>
+            <LeftSlot leftStringId="@enchant:6">
+                <Slot index="1" itemId="71" />
+                <Slot index="2" itemId="94000" />
+            </LeftSlot>
+            <RightSlot rightStringId="@enchant:7">
+                <Slot index="1" itemId="96587" />
+            </RightSlot>
+        </ArrowGuideSlot>
+        <Recommend recommendStringId="@enchant:16">
+            <Slot index="1" itemId="71" />
+        </Recommend>
+        <Title titleStringId="@enchant:1" footerStringId="@enchant:3" headerStringId="@enchant:2" />
+    </Popup>
+    <Popup id="2">
+        <ArrowGuideSlot>
+            <LeftSlot leftStringId="@enchant:6">
+                <Slot index="1" itemId="94001" />
+            </LeftSlot>
+            <RightSlot rightStringId="@enchant:7">
+                <Slot index="1" itemId="96587" />
+            </RightSlot>
+        </ArrowGuideSlot>
+        <Recommend recommendStringId="@enchant:16">
+            <Slot index="1" itemId="94001" />
+        </Recommend>
+        <Title titleStringId="@enchant:1" footerStringId="@enchant:4" headerStringId="@enchant:2" />
+    </Popup>
+    <Popup id="3">
+        <ItemSlot>
+            <Slot stringId="@enchant:12" index="1" itemId="70141" />
+            <Slot stringId="@enchant:13" index="2" itemId="70102" />
+            <Slot stringId="@enchant:14" index="3" itemId="149075" />
+            <Slot stringId="@enchant:15" index="4" itemId="447" />
+        </ItemSlot>
+        <Recommend recommendStringId="@enchant:4">
+            <Slot index="1" itemId="447" />
+        </Recommend>
+        <Title titleStringId="@enchant:10" footerStringId="@enchant:3" headerStringId="@enchant:11" />
+    </Popup>
+    <Popup id="4">
+        <ArrowGuideSlot>
+            <LeftSlot leftStringId="@enchant:8">
+                <Slot index="1" itemId="445" />
+            </LeftSlot>
+            <RightSlot rightStringId="@enchant:9">
+                <Slot index="1" itemId="96587" />
+            </RightSlot>
+        </ArrowGuideSlot>
+        <Recommend recommendStringId="@enchant:16">
+            <Slot index="1" itemId="445" />
+        </Recommend>
+        <Title titleStringId="@enchant:20" footerStringId="@enchant:3" headerStringId="@enchant:21" />
+    </Popup>
+</EnchantPopup>

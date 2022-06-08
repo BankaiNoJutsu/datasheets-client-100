@@ -1,0 +1,28 @@
+<DarkRiftNpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/DarkRiftNpcData DarkRiftNpcData.xsd" xmlns="https://vezel.dev/novadrop/dc/DarkRiftNpcData">
+    <CombatBalanceGroupList>
+        <CombatBalanceGroup id="1">
+            <Balance abnormalityId="70403" bonusReputationRatio="0.5" maxUserCount="2" minUserCount="1" pushCount="1" />
+            <Balance abnormalityId="70402" bonusReputationRatio="0.5" maxUserCount="3" minUserCount="2" pushCount="1" />
+            <Balance abnormalityId="701300" bonusReputationRatio="0.5" maxUserCount="4" minUserCount="3" pushCount="3" />
+            <Balance abnormalityId="701300" bonusReputationRatio="0.5" maxUserCount="5" minUserCount="4" pushCount="4" />
+            <Balance abnormalityId="701300" bonusReputationRatio="0.5" maxUserCount="6" minUserCount="5" pushCount="5" />
+            <Balance abnormalityId="47680800" bonusReputationRatio="0.5" maxUserCount="91" minUserCount="81" pushCount="12" />
+            <Balance abnormalityId="47680800" bonusReputationRatio="0.5" maxUserCount="101" minUserCount="91" pushCount="14" />
+            <Balance abnormalityId="47680800" bonusReputationRatio="0.5" maxUserCount="1001" minUserCount="101" pushCount="16" />
+        </CombatBalanceGroup>
+    </CombatBalanceGroupList>
+    <CompensationBalanceGroupList>
+        <CompensationBalanceGroup id="1">
+            <Balance abnormalityId="" maxUserCount="25" minUserCount="1" pushCount="" />
+            <Balance abnormalityId="" maxUserCount="32" minUserCount="26" pushCount="" />
+            <Balance abnormalityId="" maxUserCount="41" minUserCount="33" pushCount="" />
+            <Balance abnormalityId="" maxUserCount="52" minUserCount="42" pushCount="" />
+            <Balance abnormalityId="" maxUserCount="65" minUserCount="53" pushCount="" />
+            <Balance abnormalityId="" maxUserCount="80" minUserCount="66" pushCount="" />
+            <Balance abnormalityId="" maxUserCount="97" minUserCount="81" pushCount="" />
+            <Balance abnormalityId="" maxUserCount="116" minUserCount="98" pushCount="" />
+            <Balance abnormalityId="" maxUserCount="137" minUserCount="117" pushCount="" />
+            <Balance abnormalityId="" maxUserCount="1000" minUserCount="138" pushCount="" />
+        </CompensationBalanceGroup>
+    </CompensationBalanceGroupList>
+</DarkRiftNpcData>

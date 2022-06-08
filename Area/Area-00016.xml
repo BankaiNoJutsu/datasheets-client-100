@@ -1,0 +1,17 @@
+<Area xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Area Area.xsd" id="2050" areaName="FDI_Core_P" continentId="2050" nameId="105" pcMoveCylinder="true" protect="false" recallReviveContinentIdB="0" recallReviveContinentIdC="0" ride="true" worldMapGuardId="27" worldMapWorldId="2" xmlns="https://vezel.dev/novadrop/dc/Area">
+    <FlySection priority="100" addMaxZ="50000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="10000">
+        <Fence pos="113263.41406250,-97403.65625000,5649.24609375" />
+        <Fence pos="121506.53125000,-104730.95312500,5649.24609375" />
+        <Fence pos="127565.13281250,-97750.17187500,5649.24609375" />
+        <Fence pos="118649.15625000,-90324.49218750,5649.24609375" />
+        <FlyLicense>
+            <License licenseAbnormality="30010000,30010001,6039" licenseAbnormalityOperator="OR" licenseAchievement="0" licenseHeightLimit="50000" licenseLevel="0" licensePriority="10000" licenseQuest="200305" />
+        </FlyLicense>
+    </FlySection>
+    <Section id="1" priority="1000" huntingZoneId="2050" nameId="2000004" pcMoveCylinder="true" protect="false" ride="true" addMaxZ="10000" subtractMinZ="10000" campId="0" desTex="false" disableItemId="" fishing="false" floor="1" ignoreObstacleShortTel="false" maze="false" optimizeOption="21" pk="false" restBonus="false" vender="false" worldMapSectionId="205001">
+        <Fence pos="113263.41406250,-97403.65625000,5649.24609375" />
+        <Fence pos="121506.53125000,-104730.95312500,5649.24609375" />
+        <Fence pos="127565.13281250,-97750.17187500,5649.24609375" />
+        <Fence pos="118649.15625000,-90324.49218750,5649.24609375" />
+    </Section>
+</Area>

@@ -1,0 +1,16 @@
+<DarkRiftReward xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/DarkRiftReward DarkRiftReward.xsd" xmlns="https://vezel.dev/novadrop/dc/DarkRiftReward">
+    <EachPointReward>
+        <Reward id="1" itemTemplateId="32119" itemCount="1" />
+        <Reward id="2" itemTemplateId="32120" itemCount="1" />
+        <Reward id="3" itemTemplateId="32121" itemCount="1" />
+        <Reward id="4" itemTemplateId="32122" itemCount="1" />
+        <Reward id="5" itemTemplateId="32123" itemCount="1" />
+    </EachPointReward>
+    <PersonalReward>
+        <Reward id="1" itemTemplateId="32124" itemCount="1" reputationId="609" reputationPoint="90" />
+        <Reward id="2" itemTemplateId="32125" itemCount="1" reputationId="609" reputationPoint="80" />
+        <Reward id="3" itemTemplateId="32126" itemCount="1" reputationId="609" reputationPoint="50" />
+        <Reward id="4" itemTemplateId="32127" itemCount="1" reputationId="609" reputationPoint="15" />
+        <Reward id="5" itemTemplateId="32128" itemCount="1" reputationId="609" reputationPoint="5" />
+    </PersonalReward>
+</DarkRiftReward>

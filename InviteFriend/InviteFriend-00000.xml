@@ -1,0 +1,70 @@
+<InviteFriend xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/InviteFriend InviteFriend.xsd" codeUseCountMax="3" functionState="true" hostUserMinLevel="40" newUserMaxLevel="9" xmlns="https://vezel.dev/novadrop/dc/InviteFriend">
+    <CompensationRecipient type="hostUser">
+        <Condition newUserLevel="65">
+            <Compensation type="item" templateId="81203" amount="1" />
+        </Condition>
+        <Condition newUserLevel="60">
+            <Compensation type="item" templateId="81202" amount="1" />
+        </Condition>
+        <Condition newUserLevel="50">
+            <Compensation type="item" templateId="81201" amount="1" />
+        </Condition>
+        <Condition newUserLevel="40">
+            <Compensation type="item" templateId="81200" amount="1" />
+        </Condition>
+        <Condition newUserLevel="30">
+            <Compensation type="item" templateId="81199" amount="1" />
+        </Condition>
+        <Condition newUserLevel="20">
+            <Compensation type="item" templateId="81198" amount="1" />
+        </Condition>
+        <Condition newUserLevel="10">
+            <Compensation type="item" templateId="81197" amount="1" />
+        </Condition>
+        <Condition newUserLevel="0">
+            <Compensation type="item" templateId="81196" amount="1" />
+        </Condition>
+    </CompensationRecipient>
+    <CompensationRecipient type="newUser">
+        <Condition newUserLevel="65">
+            <Compensation type="item" templateId="81178" amount="1" />
+        </Condition>
+        <Condition newUserLevel="60">
+            <Compensation type="item" templateId="81195" amount="1" />
+        </Condition>
+        <Condition newUserLevel="50">
+            <Compensation type="item" templateId="81177" amount="1" />
+        </Condition>
+        <Condition newUserLevel="40">
+            <Compensation type="item" templateId="81194" amount="1" />
+        </Condition>
+        <Condition newUserLevel="30">
+            <Compensation type="item" templateId="81176" amount="1" />
+        </Condition>
+        <Condition newUserLevel="20">
+            <Compensation type="item" templateId="81193" amount="1" />
+        </Condition>
+        <Condition newUserLevel="10">
+            <Compensation type="item" templateId="81175" amount="1" />
+        </Condition>
+        <Condition newUserLevel="0">
+            <Compensation type="item" templateId="81192" amount="1" />
+        </Condition>
+    </CompensationRecipient>
+    <GuideString id="1">
+        <Text string="@InviteFriend:1001" />
+        <Title string="@InviteFriend:1000" />
+    </GuideString>
+    <GuideString id="2">
+        <Text type="hostUser" string="@InviteFriend:1004" />
+        <Title string="@InviteFriend:1003" />
+    </GuideString>
+    <GuideString id="3">
+        <Text type="newUser" string="@InviteFriend:1006" />
+        <Title string="@InviteFriend:1005" />
+    </GuideString>
+    <GuideString id="4">
+        <Text string="@InviteFriend:1008" />
+        <Title string="@InviteFriend:1007" />
+    </GuideString>
+</InviteFriend>

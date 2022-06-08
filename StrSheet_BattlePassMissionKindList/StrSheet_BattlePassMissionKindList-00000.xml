@@ -1,0 +1,8 @@
+<StrSheet_BattlePassMissionKindList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_BattlePassMissionKindList StrSheet_BattlePassMissionKindList.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_BattlePassMissionKindList">
+    <String kind="0" memo="Battleground: {count}" />
+    <String kind="1" memo="Battleground Victory: {count}" />
+    <String kind="2" memo="Battleground Kills: {count}" />
+    <String kind="3" memo="Battleground Assists: {count}" />
+    <String kind="4" memo="Battleground Gold: {count}" />
+    <String kind="5" memo="Arena Coin: {count}" />
+</StrSheet_BattlePassMissionKindList>

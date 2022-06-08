@@ -1,0 +1,4 @@
+<VoiceScriptTypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VoiceScriptTypes VoiceScriptTypes.xsd" xmlns="https://vezel.dev/novadrop/dc/VoiceScriptTypes">
+    <Type id="1" voiceSound="NPC_Voice.Man" />
+    <Type id="2" voiceSound="NPC_Voice.Woman" />
+</VoiceScriptTypes>

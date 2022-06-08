@@ -1,0 +1,52 @@
+<BannerSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/BannerSetting BannerSetting.xsd" xmlns="https://vezel.dev/novadrop/dc/BannerSetting">
+    <BannerListbyClient>
+        <BannerSet class="glaiver" readableId="BANNER_NEW_RACE_EXISTING_CLASS" />
+    </BannerListbyClient>
+    <BannerSettingList readableId="BANNER_NEW_CLASS">
+        <BannerSettingData gender="female" race="castanic" class="warrior" imagePath="img://__Icon_System.Lobby_Banner_0" />
+        <BannerSettingData gender="" race="" class="lancer" imagePath="" />
+        <BannerSettingData gender="" race="" class="slayer" imagePath="" />
+        <BannerSettingData gender="" race="" class="berserker" imagePath="" />
+        <BannerSettingData gender="" race="" class="sorcerer" imagePath="" />
+        <BannerSettingData gender="" race="" class="archer" imagePath="" />
+        <BannerSettingData gender="" race="" class="priest" imagePath="" />
+        <BannerSettingData gender="" race="" class="elementalist" imagePath="" />
+        <BannerSettingData gender="" race="" class="soulless" imagePath="" />
+        <BannerSettingData gender="" race="" class="engineer" imagePath="" />
+        <BannerSettingData gender="" race="" class="fighter" imagePath="" />
+        <BannerSettingData gender="" race="" class="assassin" imagePath="" />
+        <BannerSettingData gender="female" race="castanic" class="glaiver" imagePath="img://__Icon_System.Lobby_Banner_1" />
+    </BannerSettingList>
+    <BannerSettingList readableId="BANNER_RECOGNIZATION_CLASS">
+        <BannerSettingData gender="female" race="castanic" class="warrior" imagePath="img://__Icon_System.Lobby_Banner_0" />
+        <BannerSettingData gender="" race="" class="lancer" imagePath="" />
+        <BannerSettingData gender="" race="" class="slayer" imagePath="" />
+        <BannerSettingData gender="" race="" class="berserker" imagePath="" />
+        <BannerSettingData gender="" race="" class="sorcerer" imagePath="" />
+        <BannerSettingData gender="" race="" class="archer" imagePath="" />
+        <BannerSettingData gender="" race="" class="priest" imagePath="" />
+        <BannerSettingData gender="" race="" class="elementalist" imagePath="" />
+        <BannerSettingData gender="" race="" class="soulless" imagePath="" />
+        <BannerSettingData gender="" race="" class="engineer" imagePath="" />
+        <BannerSettingData gender="" race="" class="fighter" imagePath="" />
+        <BannerSettingData gender="female" race="popori" class="assassin" imagePath="" />
+        <BannerSettingData gender="" race="" class="glaiver" imagePath="" />
+    </BannerSettingList>
+    <BannerSettingList readableId="BANNER_PREEMPTIVE_NICKNAME">
+        <BannerSettingData imagePath="img://__Icon_System.Lobby_Banner_2" />
+    </BannerSettingList>
+    <BannerSettingList readableId="BANNER_PREEMPTIVE_CREATION_NICKNAME">
+        <BannerSettingData imagePath="img://__Icon_System.Lobby_Banner_2" />
+    </BannerSettingList>
+    <BannerSettingList readableId="BANNER_NEW_RACE_EXISTING_CLASS">
+        <BannerSettingData gender="female" race="popori" class="glaiver" imagePath="img://__Icon_System.Lobby_Banner_7" />
+    </BannerSettingList>
+    <RollingBannerSetting>
+        <RollingBanner id="1" gender="male" race="human" class="sorcerer" backgroundImage="img://__Icon_System.Lobby_RollingBanner_Image_08" classStringId="100201" descStringId="100201" titleStringId="100101" />
+        <RollingBanner id="2" gender="female" race="castanic" class="engineer" backgroundImage="img://__Icon_System.Lobby_RollingBanner_Image_09" classStringId="100201" descStringId="100201" titleStringId="100102" />
+        <RollingBanner id="3" gender="female" race="popori" class="assassin" backgroundImage="img://__Icon_System.Lobby_RollingBanner_Image_10" classStringId="100201" descStringId="100201" titleStringId="100103" />
+        <RollingBanner id="4" gender="male" race="human" class="archer" backgroundImage="img://__Icon_System.Lobby_RollingBanner_Image_11" classStringId="100201" descStringId="100201" titleStringId="100104" />
+        <RollingBanner id="5" gender="female" race="castanic" class="glaiver" backgroundImage="img://__Icon_System.Lobby_RollingBanner_Image_12" classStringId="100201" descStringId="100201" titleStringId="100105" />
+        <RollingBanner id="6" gender="female" race="popori" class="soulless" backgroundImage="img://__Icon_System.Lobby_RollingBanner_Image_13" classStringId="100201" descStringId="100201" titleStringId="100106" />
+    </RollingBannerSetting>
+</BannerSetting>

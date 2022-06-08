@@ -1,0 +1,38 @@
+<EquipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/EquipmentSetData EquipmentSetData.xsd" xmlns="https://vezel.dev/novadrop/dc/EquipmentSetData">
+    <EquipmentSet id="1129">
+        <Effect countOfEquipment="4" passiveList="570276" />
+        <Effect countOfEquipment="4" passiveList="570279" />
+        <ItemList>
+            <Item id="88803,88811" equipPos="19" itemDelegatorName="@equipmentsetdata:11284" />
+            <Item id="88804,88807,88812,88815" equipPos="10" itemDelegatorName="@equipmentsetdata:11285" />
+            <Item id="88805,88808,88813,88816" equipPos="6" itemDelegatorName="@equipmentsetdata:11286" />
+            <Item id="88805,88808,88813,88816" equipPos="7" itemDelegatorName="@equipmentsetdata:11287" />
+            <Item id="88806,88809,88814,88817" equipPos="8" itemDelegatorName="@equipmentsetdata:11288" />
+            <Item id="88806,88809,88814,88817" equipPos="9" itemDelegatorName="@equipmentsetdata:11289" />
+            <Item id="88810,88818" equipPos="12" itemDelegatorName="@equipmentsetdata:11290" />
+        </ItemList>
+    </EquipmentSet>
+    <EquipmentSet id="1130">
+        <Effect countOfEquipment="4" passiveList="570277" />
+        <Effect countOfEquipment="4" passiveList="570280" />
+        <Effect countOfEquipment="7" passiveList="570278" />
+        <Effect countOfEquipment="7" passiveList="570281" />
+        <ItemList>
+            <Item id="88819" equipPos="19" />
+            <Item id="88820,88823" equipPos="10" itemDelegatorName="@equipmentsetdata:11291" />
+            <Item id="88821,88824" equipPos="6" itemDelegatorName="@equipmentsetdata:11292" />
+            <Item id="88821,88824" equipPos="7" itemDelegatorName="@equipmentsetdata:11293" />
+            <Item id="88822,88825" equipPos="8" itemDelegatorName="@equipmentsetdata:11294" />
+            <Item id="88822,88825" equipPos="9" itemDelegatorName="@equipmentsetdata:11295" />
+            <Item id="88826" equipPos="12" />
+        </ItemList>
+    </EquipmentSet>
+    <EquipmentSet id="1131">
+        <Effect countOfEquipment="3" passiveList="5010442" />
+        <ItemList>
+            <Item id="270034, 270028, 270041, 270035, 270042, 270049, 270056, 270063, 270070, 270077, 270084, 270091, 270098, 270048, 270055, 270062, 270069, 270076, 270083, 270090, 270097, 270104" equipPos="17" itemDelegatorName="@equipmentsetdata:11296" />
+            <Item id="270112, 270118" equipPos="14" itemDelegatorName="@equipmentsetdata:11297" />
+            <Item id="270111" equipPos="18" />
+        </ItemList>
+    </EquipmentSet>
+</EquipmentSetData>

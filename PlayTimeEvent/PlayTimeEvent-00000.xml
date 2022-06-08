@@ -1,0 +1,18 @@
+<PlayTimeEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/PlayTimeEvent PlayTimeEvent.xsd" xmlns="https://vezel.dev/novadrop/dc/PlayTimeEvent">
+    <Event type="daily" resetTime="7">
+        <Reward id="1" amount="2" itemTemplateId="139536" playMin="30" />
+        <Reward id="2" amount="2" itemTemplateId="139114" playMin="60" />
+        <Reward id="3" amount="1" itemTemplateId="140156" playMin="120" />
+        <Reward id="4" amount="1" itemTemplateId="149828" playMin="180" />
+        <Reward id="5" amount="3" itemTemplateId="140156" playMin="240" />
+        <Reward id="6" amount="1" itemTemplateId="148257" playMin="360" />
+    </Event>
+    <Event type="total">
+        <Reward id="1" amount="1" itemTemplateId="139689" playMin="600" />
+        <Reward id="2" amount="40" itemTemplateId="140156" playMin="1800" />
+        <Reward id="3" amount="1" itemTemplateId="149801" playMin="3000" />
+        <Reward id="4" amount="1" itemTemplateId="140160" playMin="4200" />
+        <Reward id="5" amount="1" itemTemplateId="96206" playMin="4800" />
+        <Reward id="6" amount="1" itemTemplateId="140158" playMin="6000" />
+    </Event>
+</PlayTimeEvent>

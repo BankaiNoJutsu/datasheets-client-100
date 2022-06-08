@@ -1,0 +1,347 @@
+<AiTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AiTemplate AiTemplate.xsd" xmlns="https://vezel.dev/novadrop/dc/AiTemplate">
+    <Ai name="풀베기 자코">
+        <CautionState alertAngle="360" alertRadius="200" avoidSkill="1206" checkInterval="5000" probActiveMove="0.5" probAvoid="0.3" rotateAngle="60" rotateTime="5">
+            <ActiveMove id="2" />
+            <ActiveMove id="3" />
+        </CautionState>
+        <CombatState playSocialWhenFirstAggro="false" watchRotateAngle="60" watchRotateTime="5">
+            <Attack>
+                <TensionList>
+                    <Tension id="1">
+                        <Info distanceRate="0.8" prob="0.2" workId="150" />
+                        <Info distanceRate="0.8" prob="0" workId="205" />
+                        <Info distanceRate="0.8" prob="0.1" workId="206" />
+                        <Info distanceRate="0.8" prob="0.1" workId="207" />
+                        <Info distanceRate="0.8" prob="0.1" workId="208" />
+                        <Info distanceRate="0.8" prob="0.2" workId="103" />
+                        <Info distanceRate="0.8" prob="0.2" workId="104" />
+                        <Info distanceRate="0.8" prob="0.2" workId="105" />
+                        <Info distanceRate="0.8" prob="0.2" workId="106" />
+                        <Info distanceRate="0.8" prob="0.2" workId="107" />
+                        <Info distanceRate="0.8" prob="0.2" workId="101" />
+                    </Tension>
+                </TensionList>
+                <WorkList>
+                    <Work id="101" distanceRate="0.8" angerBehaviorId="1101" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1101" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="103" distanceRate="0.8" angerBehaviorId="1103" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1103" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="104" distanceRate="0.8" angerBehaviorId="1104" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1104" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="105" distanceRate="0.8" angerBehaviorId="1105" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1105" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="106" distanceRate="0.8" angerBehaviorId="1106" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1106" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="107" distanceRate="0.8" angerBehaviorId="1107" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1107" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="150" distanceRate="1" angerBehaviorId="1" angerBehaviorType="activeMove" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1" normalBehaviorType="activeMove" offFlockOnAngerMode="false" offFlockOnNormalMode="false" preProcess="0" />
+                    <Work id="205" distanceRate="0.8" angerBehaviorId="1205" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="101" nextAttackProb="1" normalBehaviorId="1205" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="206" distanceRate="0.8" angerBehaviorId="1206" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1206" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="207" distanceRate="0.8" angerBehaviorId="1207" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1207" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="208" distanceRate="0.8" angerBehaviorId="1208" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1208" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                </WorkList>
+            </Attack>
+            <Avoid avoidSkillId="1206" cooltime="10000" />
+            <Cooperation concurrentAttackDuration="5000" escapeDuration="3000" sequentialAttackDelay="1000">
+                <ReceiveOrderList>
+                    <ReceiveOrder prob="0" attackId="101" formationAttackId="101" formationAttackProb="0" formationCheckTime="1000" orderId="1" />
+                    <ReceiveOrder prob="1" attackId="205" formationAttackId="101" formationAttackProb="0" formationCheckTime="1000" orderId="2" />
+                </ReceiveOrderList>
+                <TensionList>
+                    <Tension id="1">
+                        <Info distanceRate="0.8" prob="0" workId="1" />
+                    </Tension>
+                </TensionList>
+                <WorkList>
+                    <Work id="1" distanceRate="1" angerBehaviorId="1101" angerBehaviorType="skill" coolTime="6000" distanceType="3" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1101" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" formationId="101" orderType="normal" sendOrderId="1" sendOrderMaxCount="10" sendOrderRange="800" sendOrderRefTarget="1" />
+                </WorkList>
+            </Cooperation>
+            <Idle duration="1000" />
+            <Move targetDistance="100" timeout="1000" />
+            <PatternList>
+                <Pattern default="true">
+                    <AngerMode>
+                        <Incline attackProb="0.5" avoidProb="0" cooperationProb="0" moveProb="0" shorttermTargetProb="0" socialProb="0" />
+                        <Tension attackTension="1" cooperationTension="1" shorttermTargetTension="1" />
+                    </AngerMode>
+                    <NormalMode>
+                        <Incline attackProb="0.5" avoidProb="0" cooperationProb="0" moveProb="0" shorttermTargetProb="0" socialProb="0" />
+                        <Tension attackTension="1" cooperationTension="1" shorttermTargetTension="1" />
+                    </NormalMode>
+                </Pattern>
+            </PatternList>
+            <ShorttermTarget>
+                <StTensionList>
+                    <StTension id="1">
+                        <Info prob="0" stWorkId="1" />
+                    </StTension>
+                </StTensionList>
+                <StWorkList>
+                    <StWork id="1" preProcess="1" immediateAttackId="101" />
+                </StWorkList>
+            </ShorttermTarget>
+            <Social socialMotionId="0" />
+        </CombatState>
+        <PeaceState checkInterval="5000" maxLeaderDistance="100" minLeaderDistance="50">
+            <RandomMove moveMaxDistance="150" moveMinDistance="50" moveRadius="200" probMove="0.5" probSocial="0.3">
+                <Social motionId="1" />
+                <Social motionId="2" />
+            </RandomMove>
+        </PeaceState>
+    </Ai>
+    <Ai name="풀베기 목표">
+        <CautionState alertAngle="360" alertRadius="300" avoidSkill="1206" checkInterval="3000" probActiveMove="0.3" probAvoid="0.3" rotateAngle="60" rotateTime="5">
+            <ActiveMove id="2" />
+            <ActiveMove id="3" />
+        </CautionState>
+        <CombatState playSocialWhenFirstAggro="false" watchRotateAngle="60" watchRotateTime="5">
+            <Attack>
+                <TensionList>
+                    <Tension id="1">
+                        <Info distanceRate="0.8" prob="0.5" workId="201" />
+                        <Info distanceRate="0.8" prob="0.5" workId="202" />
+                        <Info distanceRate="0.8" prob="0.2" workId="203" />
+                        <Info distanceRate="0.8" prob="0.2" workId="150" />
+                        <Info distanceRate="0.8" prob="0.2" workId="255" />
+                        <Info distanceRate="0.8" prob="0.1" workId="204" />
+                        <Info distanceRate="0.8" prob="0.1" workId="205" />
+                        <Info distanceRate="0.8" prob="0.1" workId="206" />
+                        <Info distanceRate="0.8" prob="0.1" workId="207" />
+                        <Info distanceRate="0.8" prob="0.1" workId="208" />
+                        <Info distanceRate="0.8" prob="0.2" workId="103" />
+                        <Info distanceRate="0.8" prob="0.2" workId="104" />
+                        <Info distanceRate="0.8" prob="0.2" workId="105" />
+                        <Info distanceRate="0.8" prob="0.2" workId="106" />
+                        <Info distanceRate="0.8" prob="0.2" workId="107" />
+                        <Info distanceRate="0.8" prob="0" workId="102" />
+                        <Info distanceRate="0.8" prob="0" workId="355" />
+                        <Info distanceRate="0.8" prob="0.2" workId="101" />
+                    </Tension>
+                    <Tension id="2">
+                        <Info distanceRate="0.8" prob="0" workId="201" />
+                        <Info distanceRate="0.8" prob="0" workId="202" />
+                        <Info distanceRate="0.8" prob="0.2" workId="203" />
+                        <Info distanceRate="0.8" prob="0.2" workId="150" />
+                        <Info distanceRate="0.8" prob="0.2" workId="255" />
+                        <Info distanceRate="0.8" prob="0" workId="204" />
+                        <Info distanceRate="0.8" prob="0" workId="205" />
+                        <Info distanceRate="0.8" prob="0" workId="206" />
+                        <Info distanceRate="0.8" prob="0" workId="207" />
+                        <Info distanceRate="0.8" prob="0" workId="208" />
+                        <Info distanceRate="0.8" prob="0.2" workId="103" />
+                        <Info distanceRate="0.8" prob="0.2" workId="104" />
+                        <Info distanceRate="0.8" prob="0.2" workId="105" />
+                        <Info distanceRate="0.8" prob="0.2" workId="106" />
+                        <Info distanceRate="0.8" prob="0.2" workId="107" />
+                        <Info distanceRate="0.8" prob="0" workId="102" />
+                        <Info distanceRate="0.8" prob="0" workId="355" />
+                        <Info distanceRate="0.8" prob="0.2" workId="101" />
+                    </Tension>
+                </TensionList>
+                <WorkList>
+                    <Work id="101" distanceRate="0.8" angerBehaviorId="2101" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1101" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="102" distanceRate="0.8" angerBehaviorId="2102" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1102" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="103" distanceRate="0.8" angerBehaviorId="2103" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1103" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="104" distanceRate="0.8" angerBehaviorId="2104" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1104" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="105" distanceRate="0.8" angerBehaviorId="2105" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1105" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="106" distanceRate="0.8" angerBehaviorId="2106" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1106" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="107" distanceRate="0.8" angerBehaviorId="2107" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1107" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="150" distanceRate="1" angerBehaviorId="1" angerBehaviorType="activeMove" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1" normalBehaviorType="activeMove" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="201" distanceRate="0.8" angerBehaviorId="1201" angerBehaviorType="skill" coolTime="7000" distanceType="1" isDirectionRevision="false" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1201" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="202" distanceRate="0.8" angerBehaviorId="1202" angerBehaviorType="skill" coolTime="8000" distanceType="1" isDirectionRevision="false" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1202" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="203" distanceRate="0.8" angerBehaviorId="2203" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="102" nextAttackProb="1" normalBehaviorId="1203" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="204" distanceRate="0.8" angerBehaviorId="2204" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1204" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="205" distanceRate="0.8" angerBehaviorId="2205" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1205" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="206" distanceRate="0.8" angerBehaviorId="2206" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1206" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="207" distanceRate="0.8" angerBehaviorId="2207" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1207" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="208" distanceRate="0.8" angerBehaviorId="2208" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1208" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="255" distanceRate="0.8" angerBehaviorId="2205" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="355" nextAttackProb="1" normalBehaviorId="1205" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="355" distanceRate="0.8" angerBehaviorId="1" angerBehaviorType="dynamicSpawn" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1" normalBehaviorType="dynamicSpawn" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                </WorkList>
+            </Attack>
+            <Avoid avoidSkillId="1206" cooltime="10000" />
+            <Cooperation concurrentAttackDuration="5000" escapeDuration="3000" sequentialAttackDelay="1000">
+                <ReceiveOrderList>
+                    <ReceiveOrder prob="0" attackId="101" formationAttackId="101" formationAttackProb="0" formationCheckTime="2000" orderId="1" />
+                    <ReceiveOrder prob="0" attackId="101" formationAttackId="101" formationAttackProb="0" formationCheckTime="2000" orderId="2" />
+                </ReceiveOrderList>
+                <TensionList>
+                    <Tension id="1">
+                        <Info distanceRate="0.8" prob="0" workId="1" />
+                        <Info distanceRate="0.8" prob="0" workId="2" />
+                    </Tension>
+                </TensionList>
+                <WorkList>
+                    <Work id="1" distanceRate="0.8" angerBehaviorId="1205" angerBehaviorType="skill" coolTime="20000" distanceType="1" isDirectionRevision="true" nextAttackId="101" nextAttackProb="0" normalBehaviorId="1205" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" formationId="1" orderType="formation" sendOrderId="1" sendOrderMaxCount="20" sendOrderRange="800" sendOrderRefTarget="1" />
+                    <Work id="2" distanceRate="0.8" angerBehaviorId="1205" angerBehaviorType="skill" coolTime="10000" distanceType="1" isDirectionRevision="true" nextAttackId="101" nextAttackProb="0" normalBehaviorId="1205" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" formationId="0" orderType="concurrent" sendOrderId="2" sendOrderMaxCount="20" sendOrderRange="800" sendOrderRefTarget="1" />
+                </WorkList>
+            </Cooperation>
+            <Idle duration="1000" />
+            <Move targetDistance="300" timeout="1000" />
+            <PatternList>
+                <Pattern default="true">
+                    <AngerMode>
+                        <Incline attackProb="0.7" avoidProb="0" cooperationProb="0" moveProb="0" shorttermTargetProb="0.2" socialProb="0" />
+                        <Tension attackTension="2" cooperationTension="1" shorttermTargetTension="1" />
+                    </AngerMode>
+                    <NormalMode>
+                        <Incline attackProb="0.5" avoidProb="0" cooperationProb="0.3" moveProb="0" shorttermTargetProb="0.3" socialProb="0" />
+                        <Tension attackTension="1" cooperationTension="1" shorttermTargetTension="1" />
+                    </NormalMode>
+                </Pattern>
+            </PatternList>
+            <ShorttermTarget>
+                <StTensionList>
+                    <StTension id="1">
+                        <Info prob="0.5" stWorkId="1" />
+                        <Info prob="0.5" stWorkId="2" />
+                        <Info prob="0.5" stWorkId="3" />
+                    </StTension>
+                </StTensionList>
+                <StWorkList>
+                    <StWork id="1" preProcess="PcTargetByDirection(0,160,150,500,1)" immediateAttackId="101" />
+                    <StWork id="2" preProcess="PcTargetByDirection(180,120,0,150,0)" immediateAttackId="101" />
+                    <StWork id="3" preProcess="PcTargetBySkillCategoryUsed(0,160,0,300,31)" immediateAttackId="101" />
+                </StWorkList>
+            </ShorttermTarget>
+            <Social socialMotionId="0" />
+        </CombatState>
+        <PeaceState checkInterval="5000" maxLeaderDistance="150" minLeaderDistance="75">
+            <RandomMove moveMaxDistance="300" moveMinDistance="150" moveRadius="300" probMove="0.5" probSocial="0.3">
+                <Social motionId="1" />
+                <Social motionId="2" />
+            </RandomMove>
+        </PeaceState>
+    </Ai>
+    <Ai name="중형 몬스터">
+        <CautionState alertAngle="360" alertRadius="400" avoidSkill="1206" checkInterval="5000" probActiveMove="0" probAvoid="0.1" rotateAngle="60" rotateTime="10">
+            <ActiveMove id="1" />
+        </CautionState>
+        <CombatState playSocialWhenFirstAggro="true" watchRotateAngle="60" watchRotateTime="10">
+            <Attack>
+                <TensionList>
+                    <Tension id="1">
+                        <Info distanceRate="0.8" prob="0.5" workId="201" />
+                        <Info distanceRate="0.8" prob="0.5" workId="202" />
+                        <Info distanceRate="0.8" prob="0.2" workId="203" />
+                        <Info distanceRate="0.8" prob="0.2" workId="150" />
+                        <Info distanceRate="0.8" prob="0.1" workId="204" />
+                        <Info distanceRate="0.8" prob="0.1" workId="206" />
+                        <Info distanceRate="0.8" prob="0" workId="209" />
+                        <Info distanceRate="0.8" prob="0.2" workId="103" />
+                        <Info distanceRate="0.8" prob="0.2" workId="104" />
+                        <Info distanceRate="0.8" prob="0" workId="105" />
+                        <Info distanceRate="0.8" prob="0.2" workId="106" />
+                        <Info distanceRate="0.8" prob="0.2" workId="107" />
+                        <Info distanceRate="0.8" prob="0.2" workId="108" />
+                        <Info distanceRate="0.8" prob="0.2" workId="109" />
+                        <Info distanceRate="0.8" prob="0.2" workId="110" />
+                        <Info distanceRate="0.8" prob="0.2" workId="111" />
+                        <Info distanceRate="0.8" prob="0.2" workId="112" />
+                        <Info distanceRate="0.8" prob="0" workId="102" />
+                        <Info distanceRate="0.8" prob="0.2" workId="101" />
+                    </Tension>
+                    <Tension id="2">
+                        <Info distanceRate="0.8" prob="0" workId="201" />
+                        <Info distanceRate="0.8" prob="0" workId="202" />
+                        <Info distanceRate="0.8" prob="0.2" workId="203" />
+                        <Info distanceRate="0.8" prob="0.2" workId="150" />
+                        <Info distanceRate="0.8" prob="0" workId="204" />
+                        <Info distanceRate="0.8" prob="0" workId="206" />
+                        <Info distanceRate="0.8" prob="0" workId="209" />
+                        <Info distanceRate="0.8" prob="0.2" workId="103" />
+                        <Info distanceRate="0.8" prob="0.2" workId="104" />
+                        <Info distanceRate="0.8" prob="0.2" workId="105" />
+                        <Info distanceRate="0.8" prob="0.2" workId="106" />
+                        <Info distanceRate="0.8" prob="0.2" workId="107" />
+                        <Info distanceRate="0.8" prob="0.2" workId="108" />
+                        <Info distanceRate="0.8" prob="0.2" workId="109" />
+                        <Info distanceRate="0.8" prob="0.2" workId="110" />
+                        <Info distanceRate="0.8" prob="0.2" workId="111" />
+                        <Info distanceRate="0.8" prob="0.2" workId="112" />
+                        <Info distanceRate="0.8" prob="0" workId="102" />
+                        <Info distanceRate="0.8" prob="0.2" workId="101" />
+                    </Tension>
+                </TensionList>
+                <WorkList>
+                    <Work id="101" distanceRate="0.8" angerBehaviorId="2101" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1101" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="102" distanceRate="0.8" angerBehaviorId="2102" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1102" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="103" distanceRate="0.8" angerBehaviorId="2103" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1103" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="104" distanceRate="0.8" angerBehaviorId="2104" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1104" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="105" distanceRate="0.8" angerBehaviorId="2105" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1105" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="106" distanceRate="0.8" angerBehaviorId="2106" angerBehaviorType="skill" coolTime="5000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1106" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="107" distanceRate="0.8" angerBehaviorId="2107" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1107" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="108" distanceRate="0.8" angerBehaviorId="2108" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1108" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="109" distanceRate="0.8" angerBehaviorId="2109" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1109" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="110" distanceRate="0.8" angerBehaviorId="2110" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1110" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="111" distanceRate="0.8" angerBehaviorId="2111" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1111" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="112" distanceRate="0.8" angerBehaviorId="2112" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1112" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="150" distanceRate="1" angerBehaviorId="1" angerBehaviorType="activeMove" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1" normalBehaviorType="activeMove" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="201" distanceRate="0.8" angerBehaviorId="1201" angerBehaviorType="skill" coolTime="7000" distanceType="1" isDirectionRevision="false" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1201" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="202" distanceRate="0.8" angerBehaviorId="1202" angerBehaviorType="skill" coolTime="8000" distanceType="1" isDirectionRevision="false" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1202" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="203" distanceRate="0.8" angerBehaviorId="2203" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="102" nextAttackProb="1" normalBehaviorId="1203" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                    <Work id="204" distanceRate="0.8" angerBehaviorId="2204" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1204" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="206" distanceRate="0.8" angerBehaviorId="2206" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1206" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="0" />
+                    <Work id="209" distanceRate="0.8" angerBehaviorId="2209" angerBehaviorType="skill" coolTime="6000" distanceType="2" isDirectionRevision="true" nextAttackId="0" nextAttackProb="0" normalBehaviorId="1209" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" />
+                </WorkList>
+            </Attack>
+            <Avoid avoidSkillId="1206" cooltime="10000" />
+            <Cooperation concurrentAttackDuration="5000" escapeDuration="3000" sequentialAttackDelay="1000">
+                <ReceiveOrderList>
+                    <ReceiveOrder prob="0" attackId="101" formationAttackId="101" formationAttackProb="0" formationCheckTime="2000" orderId="1" />
+                </ReceiveOrderList>
+                <TensionList>
+                    <Tension id="1">
+                        <Info distanceRate="0.8" prob="0" workId="1" />
+                    </Tension>
+                </TensionList>
+                <WorkList>
+                    <Work id="1" distanceRate="0.8" angerBehaviorId="1101" angerBehaviorType="skill" coolTime="6000" distanceType="1" isDirectionRevision="true" nextAttackId="101" nextAttackProb="0" normalBehaviorId="1101" normalBehaviorType="skill" offFlockOnAngerMode="true" offFlockOnNormalMode="true" preProcess="1" formationId="1" orderType="formation" sendOrderId="1" sendOrderMaxCount="20" sendOrderRange="800" sendOrderRefTarget="1" />
+                </WorkList>
+            </Cooperation>
+            <Idle duration="1000" />
+            <Move targetDistance="300" timeout="1000" />
+            <PatternList>
+                <Pattern default="true">
+                    <AngerMode>
+                        <Incline attackProb="0.7" avoidProb="0" cooperationProb="0" moveProb="0" shorttermTargetProb="0.2" socialProb="0" />
+                        <Tension attackTension="2" cooperationTension="1" shorttermTargetTension="1" />
+                    </AngerMode>
+                    <NormalMode>
+                        <Incline attackProb="0.5" avoidProb="0" cooperationProb="0" moveProb="0" shorttermTargetProb="0.3" socialProb="0" />
+                        <Tension attackTension="1" cooperationTension="1" shorttermTargetTension="1" />
+                    </NormalMode>
+                </Pattern>
+                <Pattern maxHpRatio="0.3" minHpRatio="0">
+                    <AngerMode>
+                        <Incline attackProb="0.7" avoidProb="0" cooperationProb="0" moveProb="0" shorttermTargetProb="0.1" socialProb="0" />
+                        <Tension attackTension="2" cooperationTension="1" shorttermTargetTension="1" />
+                    </AngerMode>
+                    <NormalMode>
+                        <Incline attackProb="0.5" avoidProb="0" cooperationProb="0" moveProb="0" shorttermTargetProb="0.1" socialProb="0" />
+                        <Tension attackTension="1" cooperationTension="1" shorttermTargetTension="1" />
+                    </NormalMode>
+                </Pattern>
+            </PatternList>
+            <ShorttermTarget>
+                <StTensionList>
+                    <StTension id="1">
+                        <Info prob="0.5" stWorkId="1" />
+                        <Info prob="0.5" stWorkId="2" />
+                        <Info prob="0.5" stWorkId="3" />
+                        <Info prob="0.5" stWorkId="4" />
+                        <Info prob="0.5" stWorkId="5" />
+                    </StTension>
+                </StTensionList>
+                <StWorkList>
+                    <StWork id="1" preProcess="PcTargetByDirection(0,160,200,500,1)" immediateAttackId="106" />
+                    <StWork id="2" preProcess="GetRangePcNum(0,200,180,0,180,0) &gt; 0" immediateAttackId="109" />
+                    <StWork id="3" preProcess="GetRangePcNum(0,200,180,0,-110,0) &gt; 0" immediateAttackId="107" />
+                    <StWork id="4" preProcess="GetRangePcNum(0,200,180,0,110,0) &gt; 0" immediateAttackId="108" />
+                    <StWork id="5" preProcess="PcTargetBySkillCategoryUsed(0,160,0,400,31)" immediateAttackId="101" />
+                </StWorkList>
+            </ShorttermTarget>
+            <Social socialMotionId="0" />
+        </CombatState>
+        <PeaceState checkInterval="5000" maxLeaderDistance="500" minLeaderDistance="200">
+            <RandomMove moveMaxDistance="500" moveMinDistance="200" moveRadius="500" probMove="0.5" probSocial="0.3">
+                <Social motionId="1" />
+                <Social motionId="2" />
+            </RandomMove>
+        </PeaceState>
+    </Ai>
+</AiTemplate>

@@ -1,0 +1,34 @@
+<Accessory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Accessory Accessory.xsd" id="753" desc="PC_권술사 보스" exclusiveSlot="Face" slot="acc_01" xmlns="https://vezel.dev/novadrop/dc/Accessory">
+    <RaceData slot="hair" templateId="10101,10102,10103,10104,10105,10106,10107,10108,10111">
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101000" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101001" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101002" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="1010021" pos="" rot="" scale="" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101003" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101004" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101005" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="1010051" pos="" rot="" scale="" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101006" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101007" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101008" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101009" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101010" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101011" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101012" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="1010121" pos="" rot="" scale="" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101013" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101014" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101015" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101016" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="101017" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="1010171" pos="" rot="" scale="" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="701001" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="701002" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="701003" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="701004" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="701005" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="701006" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="701007" />
+        <DataPerParts type="Switch" mesh="Acc_753.Skel.Switch_Human_M_Hair01_753" partsId="801001" />
+    </RaceData>
+</Accessory>

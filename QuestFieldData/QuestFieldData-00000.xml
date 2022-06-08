@@ -1,0 +1,12 @@
+<QuestFieldData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestFieldData QuestFieldData.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestFieldData">
+    <QuestField continentId="9012" startPos="49707.1445, -66060.8047, -5356.1494" exitContinentId="1" exitPos="111282.5391, 18511.6406, 2590" />
+    <QuestField continentId="9013" startPos="116462.7188,13211.5488,2500.6951" exitContinentId="1" exitPos="113991, 12474, 10000" />
+    <QuestField continentId="9019" startPos="57840, 3861, 1598" exitContinentId="1" exitPos="61540, 2111, 1336" />
+    <QuestField continentId="9004" startPos="82978.4141, 63908.8398, -131.7714" exitContinentId="1" exitPos="82978.4141, 63908.8398, -131.7714" />
+    <QuestField continentId="9036" startPos="49796.8906,-66106.3281,-5378" exitContinentId="13" exitPos="53444, -69817, -5657" />
+    <QuestField continentId="9037" startPos="59768.0156,-68117.0469,-5075.2568" exitContinentId="13" exitPos="67063,-79526,-2984" />
+    <QuestField continentId="9090" startPos="107978.4141,-10707.5518,2904.6882" exitContinentId="1" exitPos="110467, -9907, 2846" />
+    <QuestField continentId="9068" startPos="16066.4395,-90361.7969,457.1953" exitContinentId="2" exitPos="3640.1357, -66988.2422, 2515.7441" />
+    <QuestField continentId="9069" startPos="13179.8965,-80577.0625,798.7026" exitContinentId="2" exitPos="13560.0156, -79335.2344, 1830.3104" />
+    <QuestField continentId="9018" startPos="62344.1133,-5573.1924,-47.5692" exitContinentId="1" exitPos="48090.7422, -12448.3965, -117.9029" />
+</QuestFieldData>

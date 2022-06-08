@@ -1,0 +1,7 @@
+<ItemName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ItemName ItemName.xsd" xmlns="https://vezel.dev/novadrop/dc/ItemName">
+    <Item id="1" string="sword" stackable="0" />
+    <Item id="2" string="robe" stackable="0" />
+    <Item id="3" string="b sword" stackable="0" />
+    <Item id="4" string="dung" stackable="1" />
+    <Item id="5" string="test" stackable="0" />
+</ItemName>

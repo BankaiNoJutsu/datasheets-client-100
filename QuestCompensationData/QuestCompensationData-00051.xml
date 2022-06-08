@@ -1,0 +1,108 @@
+<QuestCompensationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestCompensationData QuestCompensationData.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestCompensationData">
+    <Quest questId="303501">
+        <Compensation>
+            <CompensationType type="normal" gold="0" exp="0" itemBag="allpay" skillPolishingExp="0">
+                <Item templateId="207642" quantity="1" />
+                <Item templateId="207631" quantity="1" />
+                <Item templateId="207632" quantity="1" />
+                <Item templateId="207633" quantity="1" />
+                <Item templateId="207634" quantity="1" />
+                <Item templateId="207635" quantity="1" />
+                <Item templateId="207636" quantity="1" />
+                <Item templateId="207637" quantity="1" />
+                <Item templateId="99203" quantity="9" />
+                <Item templateId="32129" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="303502">
+        <Compensation>
+            <CompensationType type="normal" itemBag="class">
+                <Item templateId="89789" class="warrior" quantity="33" />
+                <Item templateId="201100" class="warrior" quantity="2" />
+                <Item templateId="207638" class="warrior" quantity="1" />
+                <Item templateId="207643" class="warrior" quantity="1" />
+                <Item templateId="89790" class="lancer" quantity="34" />
+                <Item templateId="201100" class="lancer" quantity="2" />
+                <Item templateId="207638" class="lancer" quantity="1" />
+                <Item templateId="207643" class="lancer" quantity="1" />
+                <Item templateId="89791" class="slayer" quantity="36" />
+                <Item templateId="201100" class="slayer" quantity="2" />
+                <Item templateId="207638" class="slayer" quantity="1" />
+                <Item templateId="207643" class="slayer" quantity="1" />
+                <Item templateId="89792" class="berserker" quantity="34" />
+                <Item templateId="201100" class="berserker" quantity="2" />
+                <Item templateId="207638" class="berserker" quantity="1" />
+                <Item templateId="207643" class="berserker" quantity="1" />
+                <Item templateId="89793" class="sorcerer" quantity="33" />
+                <Item templateId="201100" class="sorcerer" quantity="2" />
+                <Item templateId="207638" class="sorcerer" quantity="1" />
+                <Item templateId="207643" class="sorcerer" quantity="1" />
+                <Item templateId="89794" class="archer" quantity="39" />
+                <Item templateId="201100" class="archer" quantity="2" />
+                <Item templateId="207638" class="archer" quantity="1" />
+                <Item templateId="207643" class="archer" quantity="1" />
+                <Item templateId="89795" class="priest" quantity="34" />
+                <Item templateId="201100" class="priest" quantity="2" />
+                <Item templateId="207638" class="priest" quantity="1" />
+                <Item templateId="207643" class="priest" quantity="1" />
+                <Item templateId="89796" class="elementalist" quantity="35" />
+                <Item templateId="201100" class="elementalist" quantity="2" />
+                <Item templateId="207638" class="elementalist" quantity="1" />
+                <Item templateId="207643" class="elementalist" quantity="1" />
+                <Item templateId="89798" class="engineer" quantity="28" />
+                <Item templateId="201100" class="engineer" quantity="2" />
+                <Item templateId="207638" class="engineer" quantity="1" />
+                <Item templateId="207643" class="engineer" quantity="1" />
+                <Item templateId="89799" class="fighter" quantity="27" />
+                <Item templateId="201100" class="fighter" quantity="2" />
+                <Item templateId="207638" class="fighter" quantity="1" />
+                <Item templateId="207643" class="fighter" quantity="1" />
+                <Item templateId="89800" class="assassin" quantity="27" />
+                <Item templateId="201100" class="assassin" quantity="2" />
+                <Item templateId="207638" class="assassin" quantity="1" />
+                <Item templateId="207643" class="assassin" quantity="1" />
+                <Item templateId="89801" class="glaiver" quantity="26" />
+                <Item templateId="201100" class="glaiver" quantity="2" />
+                <Item templateId="207638" class="glaiver" quantity="1" />
+                <Item templateId="207643" class="glaiver" quantity="1" />
+            </CompensationType>
+        </Compensation>
+        <Compensation>
+            <CompensationType type="normal" gold="0" exp="0" itemBag="allpay" skillPolishingExp="12337972">
+                <Item templateId="207639" quantity="1" />
+                <Item templateId="207614" quantity="30" />
+                <Item templateId="207616" quantity="1" />
+                <Item templateId="207618" quantity="30" />
+                <Item templateId="207620" quantity="1" />
+                <Item templateId="207622" quantity="30" />
+                <Item templateId="207644" quantity="1" />
+            </CompensationType>
+        </Compensation>
+        <Compensation>
+            <CompensationType type="normal" gold="0" exp="0" itemBag="allpay" skillPolishingExp="0">
+                <Item templateId="207640" quantity="1" />
+                <Item templateId="207629" quantity="1" />
+                <Item templateId="207499" quantity="1" />
+                <Item templateId="207645" quantity="1" />
+            </CompensationType>
+        </Compensation>
+        <Compensation>
+            <CompensationType type="normal" gold="0" exp="0" itemBag="allpay" skillPolishingExp="0">
+                <Item templateId="207641" quantity="1" />
+                <Item templateId="301019" quantity="20" />
+                <Item templateId="301020" quantity="20" />
+                <Item templateId="207646" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="303503">
+        <Compensation>
+            <CompensationType type="normal" gold="0" exp="0" itemBag="allpay" skillPolishingExp="0">
+                <Item templateId="369" quantity="10" />
+                <Item templateId="207647" quantity="1" />
+                <Item templateId="99353" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+</QuestCompensationData>

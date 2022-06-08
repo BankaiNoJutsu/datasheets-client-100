@@ -1,0 +1,3 @@
+<DirectionalWeakPointEffectData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/DirectionalWeakPointEffectData DirectionalWeakPointEffectData.xsd" class="Archer" xmlns="https://vezel.dev/novadrop/dc/DirectionalWeakPointEffectData">
+    <EffectCondition effectId="918053107" index="0" range="30" />
+</DirectionalWeakPointEffectData>

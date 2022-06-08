@@ -1,0 +1,18 @@
+<Leaderboards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Leaderboards Leaderboards.xsd" xmlns="https://vezel.dev/novadrop/dc/Leaderboards">
+    <ContentsTypeList type="dungeon" stringId="1" sortId="1">
+        <ContentInfo id="3203" conditionTooltipId="3203" sort="1" stageShow="false" />
+        <ContentInfo id="3126" conditionTooltipId="3126" sort="2" stageShow="false" />
+        <ContentInfo id="9044" conditionTooltipId="9044" sort="3" stageShow="false" />
+        <ContentInfo id="3201" conditionTooltipId="3201" sort="4" stageShow="false" />
+        <ContentInfo id="9982" conditionTooltipId="9982" sort="5" stageShow="false" />
+        <ContentInfo id="9920" conditionTooltipId="9920" sort="6" stageShow="false" />
+        <ContentInfo id="9126" conditionTooltipId="9126" sort="7" stageShow="false" />
+    </ContentsTypeList>
+    <ContentsTypeList type="battlefield" stringId="2" sortId="2">
+        <ContentInfo id="37" conditionTooltipId="1037" extraTooltipId="1101" sort="1" />
+        <ContentInfo id="26" conditionTooltipId="1026" sort="2" />
+        <ContentInfo id="10" conditionTooltipId="1010" sort="3" />
+        <ContentInfo id="30" conditionTooltipId="1030" sort="4" />
+    </ContentsTypeList>
+    <LeaderboardWindow columnStringIdList="110,111,112" updateIntervalSec="5" />
+</Leaderboards>

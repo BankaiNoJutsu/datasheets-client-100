@@ -1,0 +1,11 @@
+<GuildSearchData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/GuildSearchData GuildSearchData.xsd" xmlns="https://vezel.dev/novadrop/dc/GuildSearchData">
+    <GuildSearch>
+        <GuildSizeList>
+            <GuildSize maxMember="-1" />
+            <GuildSize maxMember="50" />
+            <GuildSize maxMember="100" />
+            <GuildSize maxMember="300" />
+        </GuildSizeList>
+    </GuildSearch>
+    <GuildStyleData guildStyleType="0" />
+</GuildSearchData>

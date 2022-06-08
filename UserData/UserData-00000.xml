@@ -1,0 +1,1578 @@
+<UserData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/UserData UserData.xsd" huntingZoneId="0" xmlns="https://vezel.dev/novadrop/dc/UserData">
+    <Template id="10101" gender="male" race="human" shapeId="10101" basicActionId="10101" class="warrior" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10102" gender="male" race="human" shapeId="10102" basicActionId="10102" class="lancer" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10103" gender="male" race="human" shapeId="10103" basicActionId="10103" class="slayer" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10104" gender="male" race="human" shapeId="10104" basicActionId="10104" class="berserker" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10105" gender="male" race="human" shapeId="10105" basicActionId="10105" class="sorcerer" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10106" gender="male" race="human" shapeId="10106" basicActionId="10106" class="archer" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10107" gender="male" race="human" shapeId="10107" basicActionId="10107" class="priest" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10108" gender="male" race="human" shapeId="10108" basicActionId="10108" class="elementalist" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10111" gender="male" race="human" shapeId="10111" basicActionId="10111" class="fighter" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10201" gender="female" race="human" shapeId="10201" basicActionId="10201" class="warrior" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10202" gender="female" race="human" shapeId="10202" basicActionId="10202" class="lancer" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10203" gender="female" race="human" shapeId="10203" basicActionId="10203" class="slayer" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10204" gender="female" race="human" shapeId="10204" basicActionId="10204" class="berserker" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10205" gender="female" race="human" shapeId="10205" basicActionId="10205" class="sorcerer" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10206" gender="female" race="human" shapeId="10206" basicActionId="10206" class="archer" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10207" gender="female" race="human" shapeId="10207" basicActionId="10207" class="priest" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10208" gender="female" race="human" shapeId="10208" basicActionId="10208" class="elementalist" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10211" gender="female" race="human" shapeId="10211" basicActionId="10211" class="fighter" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10301" gender="male" race="highelf" shapeId="10301" basicActionId="10301" class="warrior" heightWhenClimbing="47.894">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10302" gender="male" race="highelf" shapeId="10302" basicActionId="10302" class="lancer" heightWhenClimbing="47.894">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10303" gender="male" race="highelf" shapeId="10303" basicActionId="10303" class="slayer" heightWhenClimbing="47.894">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10304" gender="male" race="highelf" shapeId="10304" basicActionId="10304" class="berserker" heightWhenClimbing="47.894">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10305" gender="male" race="highelf" shapeId="10305" basicActionId="10305" class="sorcerer" heightWhenClimbing="47.894">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10306" gender="male" race="highelf" shapeId="10306" basicActionId="10306" class="archer" heightWhenClimbing="47.894">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10307" gender="male" race="highelf" shapeId="10307" basicActionId="10307" class="priest" heightWhenClimbing="47.894">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10308" gender="male" race="highelf" shapeId="10308" basicActionId="10308" class="elementalist" heightWhenClimbing="47.894">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10401" gender="female" race="highelf" shapeId="10401" basicActionId="10401" class="warrior" heightWhenClimbing="49.642">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10402" gender="female" race="highelf" shapeId="10402" basicActionId="10402" class="lancer" heightWhenClimbing="49.642">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10403" gender="female" race="highelf" shapeId="10403" basicActionId="10403" class="slayer" heightWhenClimbing="49.642">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10404" gender="female" race="highelf" shapeId="10404" basicActionId="10404" class="berserker" heightWhenClimbing="49.642">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10405" gender="female" race="highelf" shapeId="10405" basicActionId="10405" class="sorcerer" heightWhenClimbing="49.642">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10406" gender="female" race="highelf" shapeId="10406" basicActionId="10406" class="archer" heightWhenClimbing="49.642">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10407" gender="female" race="highelf" shapeId="10407" basicActionId="10407" class="priest" heightWhenClimbing="49.642">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10408" gender="female" race="highelf" shapeId="10408" basicActionId="10408" class="elementalist" heightWhenClimbing="49.642">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10410" gender="female" race="highelf" shapeId="10410" basicActionId="10410" class="engineer" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10501" gender="male" race="aman" shapeId="10501" basicActionId="10501" class="warrior" heightWhenClimbing="63.901">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10502" gender="male" race="aman" shapeId="10502" basicActionId="10502" class="lancer" heightWhenClimbing="63.901">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="11" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10503" gender="male" race="aman" shapeId="10503" basicActionId="10503" class="slayer" heightWhenClimbing="63.901">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10504" gender="male" race="aman" shapeId="10504" basicActionId="10504" class="berserker" heightWhenClimbing="63.901">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="11" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10505" gender="male" race="aman" shapeId="10505" basicActionId="10505" class="sorcerer" heightWhenClimbing="63.901">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10506" gender="male" race="aman" shapeId="10506" basicActionId="10506" class="archer" heightWhenClimbing="63.901">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="10" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10507" gender="male" race="aman" shapeId="10507" basicActionId="10507" class="priest" heightWhenClimbing="63.901">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10508" gender="male" race="aman" shapeId="10508" basicActionId="10508" class="elementalist" heightWhenClimbing="63.901">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10601" gender="female" race="aman" shapeId="10601" basicActionId="10601" class="warrior" heightWhenClimbing="44.426">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10602" gender="female" race="aman" shapeId="10602" basicActionId="10602" class="lancer" heightWhenClimbing="44.426">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10603" gender="female" race="aman" shapeId="10603" basicActionId="10603" class="slayer" heightWhenClimbing="44.426">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10604" gender="female" race="aman" shapeId="10604" basicActionId="10604" class="berserker" heightWhenClimbing="44.426">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10605" gender="female" race="aman" shapeId="10605" basicActionId="10605" class="sorcerer" heightWhenClimbing="44.426">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10606" gender="female" race="aman" shapeId="10606" basicActionId="10606" class="archer" heightWhenClimbing="44.426">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10607" gender="female" race="aman" shapeId="10607" basicActionId="10607" class="priest" heightWhenClimbing="44.426">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10608" gender="female" race="aman" shapeId="10608" basicActionId="10608" class="elementalist" heightWhenClimbing="44.426">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10701" gender="male" race="castanic" shapeId="10701" basicActionId="10701" class="warrior" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10702" gender="male" race="castanic" shapeId="10702" basicActionId="10702" class="lancer" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10703" gender="male" race="castanic" shapeId="10703" basicActionId="10703" class="slayer" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10704" gender="male" race="castanic" shapeId="10704" basicActionId="10704" class="berserker" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10705" gender="male" race="castanic" shapeId="10705" basicActionId="10705" class="sorcerer" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10706" gender="male" race="castanic" shapeId="10706" basicActionId="10706" class="archer" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10707" gender="male" race="castanic" shapeId="10707" basicActionId="10707" class="priest" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10708" gender="male" race="castanic" shapeId="10708" basicActionId="10708" class="elementalist" heightWhenClimbing="47.844">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10801" gender="female" race="castanic" shapeId="10801" basicActionId="10801" class="warrior" heightWhenClimbing="42.055">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10802" gender="female" race="castanic" shapeId="10802" basicActionId="10802" class="lancer" heightWhenClimbing="42.055">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10803" gender="female" race="castanic" shapeId="10803" basicActionId="10803" class="slayer" heightWhenClimbing="42.055">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10804" gender="female" race="castanic" shapeId="10804" basicActionId="10804" class="berserker" heightWhenClimbing="42.055">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="9" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10805" gender="female" race="castanic" shapeId="10805" basicActionId="10805" class="sorcerer" heightWhenClimbing="42.055">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10806" gender="female" race="castanic" shapeId="10806" basicActionId="10806" class="archer" heightWhenClimbing="42.055">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10807" gender="female" race="castanic" shapeId="10807" basicActionId="10807" class="priest" heightWhenClimbing="42.055">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10808" gender="female" race="castanic" shapeId="10808" basicActionId="10808" class="elementalist" heightWhenClimbing="42.055">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10810" gender="female" race="castanic" shapeId="10810" basicActionId="10810" class="engineer" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10813" gender="female" race="castanic" shapeId="10813" basicActionId="10813" class="glaiver" heightWhenClimbing="50">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10901" gender="male" race="popori" shapeId="10901" basicActionId="10901" class="warrior" heightWhenClimbing="38.687">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10902" gender="male" race="popori" shapeId="10902" basicActionId="10902" class="lancer" heightWhenClimbing="38.687">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10903" gender="male" race="popori" shapeId="10903" basicActionId="10903" class="slayer" heightWhenClimbing="38.687">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10904" gender="male" race="popori" shapeId="10904" basicActionId="10904" class="berserker" heightWhenClimbing="38.687">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10905" gender="male" race="popori" shapeId="10905" basicActionId="10905" class="sorcerer" heightWhenClimbing="38.687">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10906" gender="male" race="popori" shapeId="10906" basicActionId="10906" class="archer" heightWhenClimbing="38.687">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10907" gender="male" race="popori" shapeId="10907" basicActionId="10907" class="priest" heightWhenClimbing="38.687">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10908" gender="male" race="popori" shapeId="10908" basicActionId="10908" class="elementalist" heightWhenClimbing="38.687">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="10911" gender="male" race="popori" shapeId="10911" basicActionId="10911" class="fighter" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11001" gender="female" race="popori" shapeId="11001" basicActionId="11001" class="warrior" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11002" gender="female" race="popori" shapeId="11002" basicActionId="11002" class="lancer" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11003" gender="female" race="popori" shapeId="11003" basicActionId="11003" class="slayer" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11004" gender="female" race="popori" shapeId="11004" basicActionId="11004" class="berserker" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11005" gender="female" race="popori" shapeId="11005" basicActionId="11005" class="sorcerer" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11006" gender="female" race="popori" shapeId="11006" basicActionId="11006" class="archer" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11007" gender="female" race="popori" shapeId="11007" basicActionId="11007" class="priest" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11008" gender="female" race="popori" shapeId="11008" basicActionId="11008" class="elementalist" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11009" gender="female" race="popori" shapeId="11009" basicActionId="11009" class="soulless" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="1000" />
+        <NamePlate nameplateHeight="6" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11010" gender="female" race="popori" shapeId="11010" basicActionId="11010" class="engineer" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11011" gender="female" race="popori" shapeId="11011" basicActionId="11011" class="fighter" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="6" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11012" gender="female" race="popori" shapeId="11012" basicActionId="11012" class="assassin" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11013" gender="female" race="popori" shapeId="11013" basicActionId="11013" class="glaiver" heightWhenClimbing="42.26">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="8" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11101" gender="male" race="baraka" shapeId="11101" basicActionId="11101" class="warrior" heightWhenClimbing="76.471">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" deathNameplateHeight="25" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11102" gender="male" race="baraka" shapeId="11102" basicActionId="11102" class="lancer" heightWhenClimbing="76.471">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" deathNameplateHeight="25" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="90100" lv="0" />
+            <RangeAtkSkill id="90200" lv="0" />
+            <RangeAtkSkill id="90300" lv="0" />
+            <RangeAtkSkill id="90400" lv="0" />
+            <RangeAtkSkill id="90500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11103" gender="male" race="baraka" shapeId="11103" basicActionId="11103" class="slayer" heightWhenClimbing="76.471">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" deathNameplateHeight="25" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="60100" lv="0" />
+            <RangeAtkSkill id="60200" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11104" gender="male" race="baraka" shapeId="11104" basicActionId="11104" class="berserker" heightWhenClimbing="76.471">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" deathNameplateHeight="25" />
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11105" gender="male" race="baraka" shapeId="11105" basicActionId="11105" class="sorcerer" heightWhenClimbing="76.471">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" deathNameplateHeight="25" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11106" gender="male" race="baraka" shapeId="11106" basicActionId="11106" class="archer" heightWhenClimbing="76.471">
+        <ManaPoint recoveryStartTime="16" />
+        <NamePlate nameplateHeight="10" deathNameplateHeight="25" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="80100" lv="0" />
+            <RangeAtkSkill id="80200" lv="0" />
+            <RangeAtkSkill id="80300" lv="0" />
+            <RangeAtkSkill id="80400" lv="0" />
+            <RangeAtkSkill id="80500" lv="0" />
+            <RangeAtkSkill id="80600" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11107" gender="male" race="baraka" shapeId="11107" basicActionId="11107" class="priest" heightWhenClimbing="76.471">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" deathNameplateHeight="25" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+    <Template id="11108" gender="male" race="baraka" shapeId="11108" basicActionId="11108" class="elementalist" heightWhenClimbing="76.471">
+        <ManaPoint recoveryStartTime="100" />
+        <NamePlate nameplateHeight="10" deathNameplateHeight="25" />
+        <RangeAtkSkillList>
+            <RangeAtkSkill id="10100" lv="0" />
+            <RangeAtkSkill id="10200" lv="0" />
+            <RangeAtkSkill id="10300" lv="0" />
+            <RangeAtkSkill id="10400" lv="0" />
+            <RangeAtkSkill id="10500" lv="0" />
+            <RangeAtkSkill id="10600" lv="0" />
+            <RangeAtkSkill id="10700" lv="0" />
+            <RangeAtkSkill id="10800" lv="0" />
+            <RangeAtkSkill id="10900" lv="0" />
+            <RangeAtkSkill id="11000" lv="0" />
+            <RangeAtkSkill id="11100" lv="0" />
+            <RangeAtkSkill id="11200" lv="0" />
+            <RangeAtkSkill id="11300" lv="0" />
+            <RangeAtkSkill id="11400" lv="0" />
+            <RangeAtkSkill id="11500" lv="0" />
+        </RangeAtkSkillList>
+        <RangerOnly duration="0" criticalBonus="0" maxContinuousHit="0" />
+        <Reaction maxAdditionalGauge="400" />
+    </Template>
+</UserData>

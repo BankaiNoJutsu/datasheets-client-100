@@ -1,0 +1,366 @@
+<QuestCompensationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestCompensationData QuestCompensationData.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestCompensationData">
+    <Quest questId="2521">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2522">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2523">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2524">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2525">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2526">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2527">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2528">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2529">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2530">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2531" />
+    <Quest questId="2532">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2533">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2534">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2535">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2536">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2537">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2538" />
+    <Quest questId="2539">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2540">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2541">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2592" />
+    <Quest questId="2593" />
+    <Quest questId="2594" />
+    <Quest questId="2595" />
+    <Quest questId="2501">
+        <Compensation>
+            <CompensationType type="normal" npcGuildId="605" reputationPoint="30" gold="300000" exp="1440000" memo="" itemBag="allpay" policyPoint="0" reputationExp="1000">
+                <Item templateId="94113" quantity="2" />
+                <Item templateId="94116" quantity="2" />
+                <Item templateId="6551" quantity="5" />
+                <Item templateId="6561" quantity="5" />
+                <Item templateId="200998" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2502">
+        <Compensation>
+            <CompensationType type="normal" npcGuildId="605" reputationPoint="30" gold="400000" exp="1680000" memo="" itemBag="class" policyPoint="0" reputationExp="1000">
+                <Item templateId="19898" class="warrior" quantity="1" />
+                <Item templateId="19899" class="lancer" quantity="1" />
+                <Item templateId="19900" class="slayer" quantity="1" />
+                <Item templateId="19901" class="berserker" quantity="1" />
+                <Item templateId="19902" class="sorcerer" quantity="1" />
+                <Item templateId="19903" class="archer" quantity="1" />
+                <Item templateId="19904" class="priest" quantity="1" />
+                <Item templateId="19905" class="elementalist" quantity="1" />
+                <Item templateId="19906" class="engineer" quantity="1" />
+                <Item templateId="19907" class="fighter" quantity="1" />
+                <Item templateId="19908" class="assassin" quantity="1" />
+                <Item templateId="19909" class="glaiver" quantity="1" />
+                <Item templateId="94114" class="warrior" quantity="1" />
+                <Item templateId="94114" class="lancer" quantity="1" />
+                <Item templateId="94114" class="slayer" quantity="1" />
+                <Item templateId="94114" class="berserker" quantity="1" />
+                <Item templateId="94114" class="sorcerer" quantity="1" />
+                <Item templateId="94114" class="archer" quantity="1" />
+                <Item templateId="94114" class="priest" quantity="1" />
+                <Item templateId="94114" class="elementalist" quantity="1" />
+                <Item templateId="94114" class="engineer" quantity="1" />
+                <Item templateId="94114" class="fighter" quantity="1" />
+                <Item templateId="94114" class="assassin" quantity="1" />
+                <Item templateId="94114" class="glaiver" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2503">
+        <Compensation>
+            <CompensationType type="normal" npcGuildId="605" reputationPoint="30" gold="450000" exp="7765002" memo="" itemBag="class" policyPoint="0" reputationExp="1000">
+                <Item templateId="19770" class="warrior" quantity="1" />
+                <Item templateId="19767" class="lancer" quantity="1" />
+                <Item templateId="19770" class="slayer" quantity="1" />
+                <Item templateId="19767" class="berserker" quantity="1" />
+                <Item templateId="19773" class="sorcerer" quantity="1" />
+                <Item templateId="19770" class="archer" quantity="1" />
+                <Item templateId="19773" class="priest" quantity="1" />
+                <Item templateId="19773" class="elementalist" quantity="1" />
+                <Item templateId="19767" class="engineer" quantity="1" />
+                <Item templateId="19773" class="assassin" quantity="1" />
+                <Item templateId="19770" class="glaiver" quantity="1" />
+                <Item templateId="19767" class="fighter" quantity="1" />
+                <Item templateId="94117" class="warrior" quantity="1" />
+                <Item templateId="94117" class="lancer" quantity="1" />
+                <Item templateId="94117" class="slayer" quantity="1" />
+                <Item templateId="94117" class="berserker" quantity="1" />
+                <Item templateId="94117" class="sorcerer" quantity="1" />
+                <Item templateId="94117" class="archer" quantity="1" />
+                <Item templateId="94117" class="priest" quantity="1" />
+                <Item templateId="94117" class="elementalist" quantity="1" />
+                <Item templateId="94117" class="engineer" quantity="1" />
+                <Item templateId="94117" class="fighter" quantity="1" />
+                <Item templateId="94117" class="assassin" quantity="1" />
+                <Item templateId="94117" class="glaiver" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2504" />
+    <Quest questId="2505">
+        <Compensation>
+            <CompensationType type="normal" npcGuildId="605" reputationPoint="30" gold="500000" exp="1920000" memo="" itemBag="class" policyPoint="0" reputationExp="1000">
+                <Item templateId="200524" class="warrior" quantity="1" />
+                <Item templateId="200524" class="lancer" quantity="1" />
+                <Item templateId="200524" class="slayer" quantity="1" />
+                <Item templateId="200524" class="berserker" quantity="1" />
+                <Item templateId="200524" class="sorcerer" quantity="1" />
+                <Item templateId="200524" class="archer" quantity="1" />
+                <Item templateId="200524" class="priest" quantity="1" />
+                <Item templateId="200524" class="elementalist" quantity="1" />
+                <Item templateId="200524" class="engineer" quantity="1" />
+                <Item templateId="200524" class="assassin" quantity="1" />
+                <Item templateId="200524" class="glaiver" quantity="1" />
+                <Item templateId="200524" class="fighter" quantity="1" />
+                <Item templateId="19771" class="warrior" quantity="1" />
+                <Item templateId="19768" class="lancer" quantity="1" />
+                <Item templateId="19771" class="slayer" quantity="1" />
+                <Item templateId="19768" class="berserker" quantity="1" />
+                <Item templateId="19774" class="sorcerer" quantity="1" />
+                <Item templateId="19771" class="archer" quantity="1" />
+                <Item templateId="19774" class="priest" quantity="1" />
+                <Item templateId="19774" class="elementalist" quantity="1" />
+                <Item templateId="19768" class="engineer" quantity="1" />
+                <Item templateId="19774" class="assassin" quantity="1" />
+                <Item templateId="19771" class="glaiver" quantity="1" />
+                <Item templateId="19768" class="fighter" quantity="1" />
+                <Item templateId="19772" class="warrior" quantity="1" />
+                <Item templateId="19769" class="lancer" quantity="1" />
+                <Item templateId="19772" class="slayer" quantity="1" />
+                <Item templateId="19769" class="berserker" quantity="1" />
+                <Item templateId="19775" class="sorcerer" quantity="1" />
+                <Item templateId="19772" class="archer" quantity="1" />
+                <Item templateId="19775" class="priest" quantity="1" />
+                <Item templateId="19775" class="elementalist" quantity="1" />
+                <Item templateId="19769" class="engineer" quantity="1" />
+                <Item templateId="19775" class="assassin" quantity="1" />
+                <Item templateId="19772" class="glaiver" quantity="1" />
+                <Item templateId="19769" class="fighter" quantity="1" />
+                <Item templateId="94117" class="warrior" quantity="2" />
+                <Item templateId="94117" class="lancer" quantity="2" />
+                <Item templateId="94117" class="slayer" quantity="2" />
+                <Item templateId="94117" class="berserker" quantity="2" />
+                <Item templateId="94117" class="sorcerer" quantity="2" />
+                <Item templateId="94117" class="archer" quantity="2" />
+                <Item templateId="94117" class="priest" quantity="2" />
+                <Item templateId="94117" class="elementalist" quantity="2" />
+                <Item templateId="94117" class="engineer" quantity="2" />
+                <Item templateId="94117" class="fighter" quantity="2" />
+                <Item templateId="94117" class="assassin" quantity="2" />
+                <Item templateId="94117" class="glaiver" quantity="2" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="2570" />
+    <Quest questId="2571" />
+    <Quest questId="2572" />
+    <Quest questId="2573" />
+    <Quest questId="2574" />
+    <Quest questId="2580" />
+    <Quest questId="2542" />
+    <Quest questId="2543" />
+    <Quest questId="2544" />
+    <Quest questId="2545" />
+    <Quest questId="2546" />
+    <Quest questId="2547" />
+    <Quest questId="2548">
+        <Compensation>
+            <CompensationType type="normal" gold="1140000" exp="0" memo="" itemBag="allpay" policyPoint="0">
+                <Item templateId="94114" quantity="1" />
+                <Item templateId="94117" quantity="1" />
+                <Item templateId="98312" quantity="1" />
+                <Item templateId="6551" quantity="3" />
+                <Item templateId="6561" quantity="3" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+</QuestCompensationData>

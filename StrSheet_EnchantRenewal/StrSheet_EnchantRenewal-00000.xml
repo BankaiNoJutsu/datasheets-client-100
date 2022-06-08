@@ -1,0 +1,29 @@
+<StrSheet_EnchantRenewal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_EnchantRenewal StrSheet_EnchantRenewal.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_EnchantRenewal">
+    <String id="1" string="Success Chance: &lt;font color='#57bb35'&gt;{finalProb}%&lt;/font&gt;" />
+    <String id="2" string="&lt;font color='#57bb35'&gt;(Item XP {equipmentExp}/{maxExp})&lt;/font&gt;" />
+    <String id="3" string="{showOnDamageAvailable}Equipment may be &lt;font color='#FF0000'&gt;damaged&lt;/font&gt; on enchanting failure." />
+    <String id="4" string="{showOnStepDownAvailable}Enchantment may &lt;font color='#FF0000'&gt;drop&lt;/font&gt; on enchanting failure, and may be &lt;font color='#FF0000'&gt;damaged&lt;/font&gt;." />
+    <String id="28" string="Gold and materials will be used to enchant your equipment." />
+    <String id="5" string="Success Chance: &lt;font color='#57bb35'&gt;{finalProb}%&lt;/font&gt;" />
+    <String id="6" string="&lt;font color='#57bb35'&gt;(Item XP {equipmentExp}/{maxExp})&lt;/font&gt;" />
+    <String id="7" string="{showOnDamageAvailable}Equipment may be &lt;font color='#FF0000'&gt;damaged&lt;/font&gt; on promotion failure." />
+    <String id="8" string="{showOnDamageAvailable}Equipment may be &lt;font color='#FF0000'&gt;damaged&lt;/font&gt; or be &lt;font color='#FF0000'&gt;destroyed&lt;/font&gt; on promotion failure." />
+    <String id="9" string="Repair Chance: &lt;font color='#57bb35'&gt;{finalProb}%&lt;/font&gt;" />
+    <String id="10" string="Repair equipment before enchanting or promoting it." />
+    <String id="11" string="&lt;font color='#57bb35'&gt;Success Chance: {finalProb}%&lt;/font&gt;&lt;BR&gt;&lt;font color='#DBB006'&gt;(Total of the factors below, rounded up to 2 decimal places.)&lt;/font&gt;" />
+    <String id="13" string="- Item XP advantage {enchantEquipExp}%" />
+    <String id="14" string="- Enchanting Failure advantage {enchantFailed}%&lt;BR&gt;&lt;BR&gt;&lt;font color='#57bb35'&gt;What is Item XP?&lt;/font&gt;&lt;BR&gt;Level 65 equipment gains Item XP when you complete certain Vanguard requests. Item XP significantly increases the chance to enchant or upgrade items.&lt;BR&gt;- Reaching maximum Item XP, shown on the equipment's tooltip, grants maximum enchantment advantage. You can gain up to &lt;font color='#ff0000'&gt;{supExp}&lt;/font&gt; Item XP." />
+    <String id="15" string="" />
+    <String id="16" string="&lt;font color='#57bb35'&gt;What is Item XP?&lt;/font&gt;&lt;BR&gt;Level 65 equipment gains Item XP when you complete certain Vanguard requests. Item XP significantly increases the chance to enchant or upgrade items." />
+    <String id="17" string="- Reaching maximum Item XP, shown on the equipment's tooltip, grants maximum enchantment advantage. You can gain up to &lt;font color='#ff0000'&gt;{supExp}&lt;/font&gt; Item XP." />
+    <String id="18" string="&lt;font color='#57bb35'&gt;Upgrade Success {finalProb}%&lt;/font&gt;" />
+    <String id="19" string="&lt;font color='#DBB006'&gt;(Total of the factors below, rounded up to 2 decimal places.)&lt;/font&gt;" />
+    <String id="20" string="- Upgrade Failure advantage {enchantFailed}%" />
+    <String id="21" string="- Active Events advantage {enchantEvent}%" />
+    <String id="22" string="- Bonus Effect advantage {enchantAbnormality}%" />
+    <String id="23" string="- TERA Rewards Level advantage {enchantVipSystem}%" />
+    <String id="24" string="&lt;font color='#57bb35'&gt;Repair Chance: {finalProb}%&lt;/font&gt;" />
+    <String id="25" string="&lt;font color='#DBB006'&gt;(Total of the factors below, rounded up to 2 decimal places.)&lt;/font&gt;" />
+    <String id="26" string="- Repairing Failure advantage {enchantFailed}%" />
+    <String id="27" string="&lt;font color='#57bb35'&gt;[Damaged Equipment]&lt;/font&gt;&lt;BR&gt;Equipment is sometimes damaged when enchanting or promoting.&lt;BR&gt;Damaged equipment is usable, but cannot be enchanted or promoted.&lt;BR&gt;To enchant or promote a damaged equipment, it must be repaired first." />
+</StrSheet_EnchantRenewal>
