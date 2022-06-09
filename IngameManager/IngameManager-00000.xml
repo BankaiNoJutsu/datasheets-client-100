@@ -1,0 +1,11 @@
+<IngameManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/IngameManager IngameManager.xsd" xmlns="https://vezel.dev/novadrop/dc/IngameManager">
+    <Command type="toggle" name="icanseedeadpeople" />
+    <Command type="execute" name="iamtheflashman" />
+    <Command type="toggle" name="itisagooddaytodie" />
+    <Command type="execute" name="wakeupmywarrior" />
+    <Command type="execute" name="iwanttomove" />
+    <Command type="execute" name="bookmark" />
+    <Command type="execute" name="whereis" />
+    <Command type="execute" name="sticktogether" />
+    <Command type="toggle" name="shutupplease" />
+</IngameManager>

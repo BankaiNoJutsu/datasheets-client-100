@@ -1,0 +1,500 @@
+<HeroSkillIconData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/HeroSkillIconData HeroSkillIconData.xsd" xmlns="https://vezel.dev/novadrop/dc/HeroSkillIconData">
+    <Icon iconName="Icon_Skills.comboattack_Tex" templateId="20100" toolTip="연속 공격 I" skillId="1000" />
+    <Icon iconName="Icon_Skills.shieldattack_Tex" templateId="20200" toolTip="방패 연타" skillId="1000" />
+    <Icon iconName="Icon_Skills.ComboAttack01_Tex" templateId="20300" toolTip="연타 I" skillId="1000" />
+    <Icon iconName="Icon_Skills.comboattack_Tex" templateId="20400" toolTip="연속 공격 I" skillId="1000" />
+    <Icon iconName="Icon_Skills.comboattack_Tex" templateId="20500" toolTip="연속 공격 I" skillId="1000" />
+    <Icon iconName="Icon_Skills.C12_MeleeCombo" templateId="20600" toolTip="연속 공격" skillId="1000" />
+    <Icon iconName="Icon_Skills.spiderarrow_Tex" templateId="20700" toolTip="거미줄 화살" skillId="1000" />
+    <Icon iconName="Icon_Skills.arrowshot_Tex" templateId="20800" toolTip="일반 사격" skillId="1000" />
+    <Icon iconName="Icon_Skills.fireBall_Tex" templateId="20900" toolTip="화염구" skillId="1000" />
+    <Icon iconName="Icon_Skills.CannonShot2_Tex" templateId="21000" toolTip="일반 포탄 발사 I" skillId="1000" />
+    <Icon iconName="Icon_Skills.ComboAttack2_Tex" templateId="21100" toolTip="비검 연타" skillId="1000" />
+    <Icon iconName="Icon_Skills.fireball2_Tex" templateId="21200" toolTip="얼음구" skillId="1000" />
+    <Icon iconName="Icon_Skills.punishingshield_Tex" templateId="21300" toolTip="징벌의 장막" skillId="1000" />
+    <Icon iconName="Icon_Skills.C5_Lightningstruck" templateId="21400" toolTip="뇌격 강타" skillId="1000" />
+    <Icon iconName="Icon_Skills.comboattack_Tex" templateId="21500" toolTip="연속 공격 I" skillId="1000" />
+    <Icon iconName="Icon_Skills.comboattack_Tex" templateId="21600" toolTip="연속 공격 I" skillId="1000" />
+    <Icon iconName="Icon_Skills.ComboAttack01_Tex" templateId="21900" toolTip="연타" skillId="1000" />
+    <Icon iconName="Icon_Skills.ArcaneShockShot01_Tex" templateId="22000" toolTip="비전 충격탄" skillId="1000" />
+    <Icon iconName="Icon_Items.Union_Bomb3_Tex" templateId="22100" toolTip="휴대용 수류탄 던지기" skillId="1000" />
+    <Icon iconName="Icon_Equipments.Event_Wit_Dual_01_Tex" templateId="22300" toolTip="스패너 휘두르기" skillId="1000" />
+    <Icon iconName="Icon_Equipments.Blood_Axe_Tex" templateId="22400" toolTip="핏빛도끼" skillId="1000" />
+    <Icon iconName="Icon_Skills.Combo_Tex" templateId="22500" toolTip="연격" skillId="1000" />
+    <Icon iconName="Icon_Skills.Crossway_Tex" templateId="21800" toolTip="풍참" skillId="1100" />
+    <Icon iconName="Icon_Skills.defence_Tex" templateId="20100" toolTip="방패 방어" skillId="2000" />
+    <Icon iconName="Icon_Skills.defence_Tex" templateId="20200" toolTip="방패 방어" skillId="2000" />
+    <Icon iconName="Icon_Skills.InstanceRush_Tex" templateId="20300" toolTip="순간 돌진 (회피)" skillId="2000" />
+    <Icon iconName="Icon_Skills.weapondefence_Tex" templateId="20400" toolTip="무기 방어 I" skillId="2000" />
+    <Icon iconName="Icon_Skills.tumbling_Tex" templateId="20500" toolTip="긴급 회피 I" skillId="2000" />
+    <Icon iconName="Icon_Skills.C12_Dash" templateId="20600" toolTip="회피 기동" skillId="2000" />
+    <Icon iconName="Icon_Skills.turningkick_Tex" templateId="20700" toolTip="돌려차기" skillId="2000" />
+    <Icon iconName="Icon_Skills.escapingattack_Tex" templateId="20800" toolTip="이탈 공격" skillId="2000" />
+    <Icon iconName="Icon_Skills.VisionFirestorm2_Tex" templateId="20900" toolTip="비전 폭풍" skillId="2000" />
+    <Icon iconName="Icon_Skills.AmbushRolling_Tex" templateId="21000" toolTip="구르기: 산탄 장전" skillId="2000" />
+    <Icon iconName="Icon_Skills.ChainUppercut_Tex" templateId="21100" toolTip="비검 올려치기" skillId="2000" />
+    <Icon iconName="Icon_Skills.freezingtheearth_Tex" templateId="21200" toolTip="빙결의 대지" skillId="2000" />
+    <Icon iconName="Icon_Skills.shortteleport_Tex" templateId="21300" toolTip="순간 이동" skillId="2000" />
+    <Icon iconName="Icon_Skills.shortteleport_Tex" templateId="21400" toolTip="순간 이동" skillId="2000" />
+    <Icon iconName="Icon_Skills.shortteleport_Tex" templateId="21500" toolTip="긴급 회피 I" skillId="2000" />
+    <Icon iconName="Icon_Skills.rushattack_Tex" templateId="21600" toolTip="강습 공격" skillId="2000" />
+    <Icon iconName="Icon_Skills.Kicker2_Tex" templateId="21900" toolTip="날아차기" skillId="2000" />
+    <Icon iconName="Icon_Skills.SummonDispenser_Tex" templateId="22000" toolTip="디스펜서 출격" skillId="2000" />
+    <Icon iconName="Icon_Skills.Command_SelfDestruct_Tex" templateId="22100" toolTip="휴대용 수류탄 폭발" skillId="2000" />
+    <Icon iconName="Icon_Items.q_boxdrug_Tex" templateId="22300" toolTip="회복 캡슐" skillId="2000" />
+    <Icon iconName="Icon_Skills.Ribbreaker_Tex" templateId="22400" toolTip="늑골 부수기" skillId="2000" />
+    <Icon iconName="Icon_Skills.Brust_Tex" templateId="22500" toolTip="일격" skillId="2000" />
+    <Icon iconName="Icon_Skills.MoonGraceBuff_Tex" templateId="21800" toolTip="달빛의 가호" skillId="2100" />
+    <Icon iconName="Icon_Skills.declare_of_pk2_Tex" templateId="20100" toolTip="방벽 전개" skillId="3000" />
+    <Icon iconName="Icon_Skills.riposte_Tex" templateId="20200" toolTip="반격 찌르기" skillId="3000" />
+    <Icon iconName="Icon_Skills.Bulldozer_Tex" templateId="20300" toolTip="난폭한 돌진 I" skillId="3000" />
+    <Icon iconName="Icon_Skills.AwakenAura2_Tex" templateId="20400" toolTip="되받아 치기 I" skillId="3000" />
+    <Icon iconName="Icon_Skills.BackAttack_Tex" templateId="20500" toolTip="뒤잡기" skillId="3000" />
+    <Icon iconName="Icon_Skills.C12_DashAttack" templateId="20600" toolTip="연쇄 도약" skillId="3000" />
+    <Icon iconName="Icon_Skills.advancingleap_Tex" templateId="20700" toolTip="추격" skillId="3000" />
+    <Icon iconName="Icon_Skills.advancingleap_Tex" templateId="20800" toolTip="추격" skillId="3000" />
+    <Icon iconName="Icon_Skills.DistortionField_Tex" templateId="20900" toolTip="공간 왜곡" skillId="3000" />
+    <Icon iconName="Icon_Skills.RocketJump_Tex" templateId="21000" toolTip="로켓 도약 I" skillId="3000" />
+    <Icon iconName="Icon_Skills.InstantLeap_Tex" templateId="21100" toolTip="순간 도약" skillId="3000" />
+    <Icon iconName="Icon_Skills.mpcondensing2_Tex" templateId="21200" toolTip="마력 응집" skillId="3000" />
+    <Icon iconName="Icon_Skills.PetOrderAttack_Tex" templateId="21300" toolTip="공격해" skillId="3000" />
+    <Icon iconName="Icon_Skills.manashield2_Tex" templateId="21400" toolTip="마력 방패" skillId="3000" />
+    <Icon iconName="Icon_Skills.turnaroundattack_Tex" templateId="21500" toolTip="섬단" skillId="3000" />
+    <Icon iconName="Icon_Skills.weapondefence_Tex" templateId="21600" toolTip="무기 방어" skillId="3000" />
+    <Icon iconName="Icon_Skills.InstanceRush_Tex" templateId="21900" toolTip="순간 돌진" skillId="3000" />
+    <Icon iconName="Icon_Skills.FollowAndStay_Tex" templateId="22000" toolTip="명령: 대기/따르기" skillId="3000" />
+    <Icon iconName="Icon_Skills.backstep_Tex" templateId="22100" toolTip="물러서기" skillId="3000" />
+    <Icon iconName="Icon_Items.burrerflydust_Tex" templateId="22300" toolTip="보석화" skillId="3000" />
+    <Icon iconName="Icon_Skills.MurderousVent_Tex" templateId="22400" toolTip="살기 분출" skillId="3000" />
+    <Icon iconName="Icon_Skills.RisingShot_Tex" templateId="22500" toolTip="승격" skillId="3000" />
+    <Icon iconName="Icon_Skills.MoonGravity_Tex" templateId="21800" toolTip="달빛의 인력" skillId="3100" />
+    <Icon iconName="Icon_Skills.hookthrow_Tex" templateId="20100" toolTip="포획 I" skillId="4000" />
+    <Icon iconName="Icon_Skills.advancingcharge_Tex" templateId="20200" toolTip="진격 찌르기" skillId="4000" />
+    <Icon iconName="Icon_Skills.UpperKick_Tex" templateId="20300" toolTip="올려차기" skillId="4000" />
+    <Icon iconName="Icon_Skills.Assaultattack_Tex" templateId="20400" toolTip="강습 공격 I" skillId="4000" />
+    <Icon iconName="Icon_Skills.DoubleSwordDance2_Tex" templateId="20500" toolTip="이단검무" skillId="4000" />
+    <Icon iconName="Icon_Skills.C12_EvadeStingShot" templateId="20600" toolTip="명치 찌르기" skillId="4000" />
+    <Icon iconName="Icon_Skills.Webtraparrow_Tex" templateId="20700" toolTip="거미 덫 화살" skillId="4000" />
+    <Icon iconName="Icon_Skills.rapidshot_Tex" templateId="20800" toolTip="속사" skillId="4000" />
+    <Icon iconName="Icon_Skills.Slowball_Tex" templateId="20900" toolTip="속박의 저주" skillId="4000" />
+    <Icon iconName="Icon_Skills.ArcaneGrenadeThrow2_Tex" templateId="21000" toolTip="비전 수류탄 투척 I" skillId="4000" />
+    <Icon iconName="Icon_Skills.ChainStrike_Tex" templateId="21100" toolTip="비검 강타" skillId="4000" />
+    <Icon iconName="Icon_Skills.icestorm_Tex" templateId="21200" toolTip="얼음 폭풍" skillId="4000" />
+    <Icon iconName="Icon_Skills.rageofearth_Tex" templateId="21300" toolTip="대지의 분노" skillId="4000" />
+    <Icon iconName="Icon_Skills.shockTrap_Tex" templateId="21400" toolTip="번개의 각인" skillId="4000" />
+    <Icon iconName="Icon_Skills.tripleslash_Tex" templateId="21500" toolTip="분노의 일격 I" skillId="4000" />
+    <Icon iconName="Icon_Skills.ghostweb_Tex" templateId="21600" toolTip="강기 날리기" skillId="4000" />
+    <Icon iconName="Icon_Skills.flashball3_Tex" templateId="21900" toolTip="기공탄" skillId="4000" />
+    <Icon iconName="Icon_Skills.ArcaneBeam2_Tex" templateId="22000" toolTip="아케인 광선" skillId="4000" />
+    <Icon iconName="Icon_Items.Union_Bomb2_Tex" templateId="22100" toolTip="기절 지뢰 설치" skillId="4000" />
+    <Icon iconName="Icon_Equipments.Vehicle_Mechanic_A_Tex" templateId="22300" toolTip="드론 사출" skillId="4000" />
+    <Icon iconName="Icon_Skills.dash_Tex" templateId="22400" toolTip="질주" skillId="4000" />
+    <Icon iconName="Icon_Skills.Cutting_Tex" templateId="22500" toolTip="지격" skillId="4000" />
+    <Icon iconName="Icon_Skills.HelicopterCuts_Tex" templateId="21800" toolTip="연화참" skillId="4100" />
+    <Icon iconName="Icon_Skills.armorbreak_Tex" templateId="20100" toolTip="방어구 부수기 I" skillId="5000" />
+    <Icon iconName="Icon_Skills.Overhelm_Tex" templateId="20200" toolTip="압도" skillId="5000" />
+    <Icon iconName="Icon_Skills.RapidAttack_Tex" templateId="20300" toolTip="폭연타 I" skillId="5000" />
+    <Icon iconName="Icon_Skills.soulstrike_Tex" templateId="20400" toolTip="소용돌이 I" skillId="5000" />
+    <Icon iconName="Icon_Skills.aggravatingstrike_Tex" templateId="20500" toolTip="투지의 일격" skillId="5000" />
+    <Icon iconName="Icon_Skills.chakraEmission2_Tex" templateId="20600" toolTip="기동 공격술" skillId="5000" />
+    <Icon iconName="Icon_Skills.webtrap_Tex" templateId="20700" toolTip="거미줄 덫" skillId="5000" />
+    <Icon iconName="Icon_Skills.WindWalk2_Tex" templateId="20800" toolTip="바람 걸음" skillId="5000" />
+    <Icon iconName="Icon_Skills.ElectricShock_Tex" templateId="20900" toolTip="추적의 업화" skillId="5000" />
+    <Icon iconName="Icon_Skills.BuckShot2_Tex" templateId="21000" toolTip="산탄 발사 I" skillId="5000" />
+    <Icon iconName="Icon_Skills.ChainBrandish_Tex" templateId="21100" toolTip="비검 휘두르기" skillId="5000" />
+    <Icon iconName="Icon_Skills.C5_IceOrb" templateId="21200" toolTip="서리 구체" skillId="5000" />
+    <Icon iconName="Icon_Skills.SummonSpiritofRange_Tex" templateId="21300" toolTip="번개의 정령 소환" skillId="5000" />
+    <Icon iconName="Icon_Skills.CurseOfShackle_Tex" templateId="21400" toolTip="속박의 저주" skillId="5000" />
+    <Icon iconName="Icon_Skills.SwordBurst_Tex" templateId="21500" toolTip="일도양단 I" skillId="5000" />
+    <Icon iconName="Icon_Skills.shout2_Tex" templateId="21600" toolTip="기합" skillId="5000" />
+    <Icon iconName="Icon_Skills.PoundOnGround_Tex" templateId="21900" toolTip="지면 강타" skillId="5000" />
+    <Icon iconName="Icon_Skills.Command_CounterFlow_Tex" templateId="22000" toolTip="명령: 전하 역류" skillId="5000" />
+    <Icon iconName="Icon_Skills.C12_FlameBomb" templateId="22100" toolTip="화염탄 투척" skillId="5000" />
+    <Icon iconName="Icon_Skills.EmergencyShield_Tex" templateId="22300" toolTip="보호막" skillId="5000" />
+    <Icon iconName="Icon_Items.q_daggerblood_Tex" templateId="22400" toolTip="혈관 베기" skillId="5000" />
+    <Icon iconName="Icon_Skills.ThrowGlave_Tex" templateId="22500" toolTip="월폭" skillId="5000" />
+    <Icon iconName="Icon_Skills.HalfMoon_Tex" templateId="21800" toolTip="반월참" skillId="5100" />
+    <Icon iconName="Icon_Skills.shieldstrike_Tex" templateId="20100" toolTip="방패 치기" skillId="6000" />
+    <Icon iconName="Icon_Skills.leaprampage_Tex" templateId="20200" toolTip="도약 공격" skillId="6000" />
+    <Icon iconName="Icon_Skills.RisingBlow_Tex" templateId="20300" toolTip="승천타 I" skillId="6000" />
+    <Icon iconName="Icon_Skills.whirlwind_Tex" templateId="20400" toolTip="혼신의 일격 I" skillId="6000" />
+    <Icon iconName="Icon_Skills.Raker_Tex" templateId="20500" toolTip="질풍 가르기 I" skillId="6000" />
+    <Icon iconName="Icon_Skills.C12_TwinSlash" templateId="20600" toolTip="이단 베기" skillId="6000" />
+    <Icon iconName="Icon_Skills.ThunderDrake_Tex" templateId="20700" toolTip="뇌룡의 일격" skillId="6000" />
+    <Icon iconName="Icon_Skills.chargearrow_Tex" templateId="20800" toolTip="집중 사격" skillId="6000" />
+    <Icon iconName="Icon_Skills.hellfire_Tex" templateId="20900" toolTip="운석 낙하" skillId="6000" />
+    <Icon iconName="Icon_Skills.AimedShot2_Tex" templateId="21000" toolTip="비전 미사일 발사 I" skillId="6000" />
+    <Icon iconName="Icon_Skills.ChainBlade_Tex" templateId="21100" toolTip="비검 회전 칼날" skillId="6000" />
+    <Icon iconName="Icon_Skills.IceSpear2_Tex" templateId="21200" toolTip="얼음 창" skillId="6000" />
+    <Icon iconName="Icon_Skills.summonspiritofattack_Tex" templateId="21300" toolTip="파괴의 정령 소환" skillId="6000" />
+    <Icon iconName="Icon_Skills.blastBall_Tex" templateId="21400" toolTip="폭렬구" skillId="6000" />
+    <Icon iconName="Icon_Skills.flashball2_Tex" templateId="21500" toolTip="일섬 I" skillId="6000" />
+    <Icon iconName="Icon_Skills.flashball2_Tex" templateId="21600" toolTip="모아치기" skillId="6000" />
+    <Icon iconName="Icon_Skills.OneInchPunch2_Tex" templateId="21900" toolTip="원인치펀치" skillId="6000" />
+    <Icon iconName="Icon_Skills.MortarShot_Tex" templateId="22000" toolTip="폭격탄 발사" skillId="6000" />
+    <Icon iconName="Icon_Items.homonpcrts2c_Tex" templateId="22100" toolTip="폭탄 난사" skillId="6000" />
+    <Icon iconName="Icon_Skills.SummonSentryTower_Tex" templateId="22300" toolTip="센트리타워" skillId="6000" />
+    <Icon iconName="Icon_Skills.vampiricstrike_Tex" templateId="22400" toolTip="흡혈 광타" skillId="6000" />
+    <Icon iconName="Icon_Skills.DashCut_Tex" templateId="22500" toolTip="연환격" skillId="6000" />
+    <Icon iconName="Icon_Skills.Split_Tex" templateId="21800" toolTip="월파참" skillId="6100" />
+    <Icon iconName="Icon_Skills.ArcaneShield2_Tex" templateId="20100" toolTip="천상의 방패 I" skillId="7000" />
+    <Icon iconName="Icon_Skills.JusticeLeap2_Tex" templateId="20200" toolTip="정의의 도약" skillId="7000" />
+    <Icon iconName="Icon_Skills.DragonRisingBlow2_Tex" templateId="20300" toolTip="분노의 승천타 I (방어)" skillId="7000" />
+    <Icon iconName="Icon_Skills.Crushwave_Tex" templateId="20400" toolTip="모아 치기 I" skillId="7000" />
+    <Icon iconName="Icon_Skills.damageup2_Tex" templateId="20500" toolTip="칼날폭풍" skillId="7000" />
+    <Icon iconName="Icon_Skills.Shadowchange2_Tex" templateId="20600" toolTip="그림자 습격" skillId="7000" />
+    <Icon iconName="Icon_Skills.EyeOfTyphoon_Tex" templateId="20700" toolTip="광풍살" skillId="7000" />
+    <Icon iconName="Icon_Skills.Breeze_Tex" templateId="20800" toolTip="바람의 선율" skillId="7000" />
+    <Icon iconName="Icon_Skills.Collapse_Tex" templateId="20900" toolTip="붕괴" skillId="7000" />
+    <Icon iconName="Icon_Skills.FlashCannon2_Tex" templateId="21000" toolTip="섬멸의 빛 I" skillId="7000" />
+    <Icon iconName="Icon_Skills.RageAttack_Tex" templateId="21100" toolTip="비검 폭주" skillId="7000" />
+    <Icon iconName="Icon_Skills.UpliftedGlacier_Tex" templateId="21200" toolTip="빙하 융기" skillId="7000" />
+    <Icon iconName="Icon_Skills.SummonSpiritKing_Tex" templateId="21300" toolTip="정령왕 소환" skillId="7000" />
+    <Icon iconName="Icon_Skills.ManaBurst2_Tex" templateId="21400" toolTip="마력폭발" skillId="7000" />
+    <Icon iconName="Icon_Skills.Warbegin_Tex" templateId="21500" toolTip="내려찍기 I" skillId="7000" />
+    <Icon iconName="Icon_Skills.excution_Tex" templateId="21600" toolTip="내려찍기" skillId="7000" />
+    <Icon iconName="Icon_Skills.murderousvent2_Tex" templateId="21900" toolTip="분노의 난타" skillId="7000" />
+    <Icon iconName="Icon_Skills.GatlingShot2_Tex" templateId="22000" toolTip="속사포 발사" skillId="7000" />
+    <Icon iconName="Icon_Skills.TimebombShot_Tex" templateId="22100" toolTip="시한 포탄 던지기" skillId="7000" />
+    <Icon iconName="Icon_Skills.ExcessElectron_Tex" templateId="22300" toolTip="로봇 강화" skillId="7000" />
+    <Icon iconName="Icon_Skills.rage2_Tex" templateId="22400" toolTip="폭주" skillId="7000" />
+    <Icon iconName="Icon_Skills.Warbegin_Tex" templateId="22500" toolTip="광참" skillId="7000" />
+    <Icon iconName="Icon_Skills.Warbegin_Tex" templateId="21800" toolTip="개전" skillId="7100" />
+    <Icon iconName="Icon_Skills.rageRight_Tex" templateId="22400" toolTip="폭주: 우수" skillId="7100" />
+    <Icon iconName="Icon_Skills.rageLeft_Tex" templateId="22400" toolTip="폭주: 좌수" skillId="7400" />
+    <Icon iconName="Icon_Skills.rageRush_Tex" templateId="22400" toolTip="폭주: 돌진" skillId="7800" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="20100" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="20200" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="20300" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="20400" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="20500" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="20600" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="20700" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="20800" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="20900" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="21000" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="21100" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="21200" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="21300" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="21400" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="21500" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="21600" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="21800" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="21900" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="22000" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="22100" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="22300" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="22400" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Risingattack_Tex" templateId="22500" toolTip="기상 공격" skillId="8000" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="20100" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="20200" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="20300" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="20400" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="20500" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="20600" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="20700" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="20800" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="20900" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="21000" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="21100" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="21200" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="21300" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="21400" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="21500" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="21600" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="21800" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="21900" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="22000" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="22100" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="22300" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="22400" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Skills.Jump_Tex" templateId="22500" toolTip="긴급탈출" skillId="8500" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20100" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20200" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20300" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20400" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20500" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20600" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20700" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20800" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20900" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21000" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21100" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21200" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21300" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21400" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21500" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21600" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21700" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21800" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21900" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22000" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22100" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22300" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22400" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22500" toolTip="아이템 슬롯" skillId="8900" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20100" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20200" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20300" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20400" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20500" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20600" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20700" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20800" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20900" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21000" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21100" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21200" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21300" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21400" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21500" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21600" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21700" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21800" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21900" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22000" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22100" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22300" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22400" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22500" toolTip="아이템 슬롯" skillId="9000" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20100" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20200" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20300" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20400" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20500" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20600" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20700" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20800" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="20900" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21000" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21100" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21200" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21300" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21400" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21500" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21600" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21700" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21800" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="21900" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22000" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22100" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22300" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22400" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Items.FireWorks_Ding_Question_Tex" templateId="22500" toolTip="사용 불가" skillId="9001" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="20100" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="20200" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="20300" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="20400" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="20500" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="20600" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="20700" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="20800" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="20900" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21000" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21100" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21200" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21300" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21400" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21500" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21600" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21700" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21800" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="21900" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="22000" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="22100" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="22300" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="22400" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Skills.Paralysistrap_Tex" templateId="22500" toolTip="" skillId="9002" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="20100" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="20200" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="20300" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="20400" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="20500" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="20600" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="20700" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="20800" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="20900" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21000" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21100" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21200" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21300" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21400" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21500" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21600" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21700" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21800" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="21900" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="22000" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="22100" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="22300" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="22400" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Status.minusmove_Tex" templateId="22500" toolTip="" skillId="9003" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="20100" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="20200" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="20300" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="20400" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="20500" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="20600" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="20700" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="20800" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="20900" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21000" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21100" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21200" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21300" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21400" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21500" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21600" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21700" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21800" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="21900" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="22000" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="22100" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="22300" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="22400" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.C12_SmokeBomb" templateId="22500" toolTip="" skillId="9004" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="20100" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="20200" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="20300" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="20400" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="20500" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="20600" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="20700" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="20800" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="20900" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21000" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21100" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21200" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21300" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21400" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21500" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21600" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21700" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21800" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="21900" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="22000" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="22100" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="22300" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="22400" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Skills.HelpingHand_Tex" templateId="22500" toolTip="" skillId="9005" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="20100" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="20200" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="20300" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="20400" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="20500" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="20600" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="20700" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="20800" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="20900" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21000" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21100" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21200" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21300" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21400" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21500" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21600" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21700" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21800" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="21900" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="22000" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="22100" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="22300" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="22400" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Items.potion14_Tex" templateId="22500" toolTip="" skillId="9006" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="20100" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="20200" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="20300" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="20400" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="20500" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="20600" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="20700" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="20800" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="20900" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21000" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21100" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21200" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21300" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21400" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21500" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21600" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21700" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21800" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="21900" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="22000" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="22100" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="22300" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="22400" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.manashield_Tex" templateId="22500" toolTip="" skillId="9007" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="20100" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="20200" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="20300" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="20400" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="20500" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="20600" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="20700" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="20800" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="20900" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21000" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21100" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21200" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21300" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21400" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21500" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21600" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21700" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21800" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="21900" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="22000" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="22100" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="22300" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="22400" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.resurrect_Tex" templateId="22500" toolTip="" skillId="9008" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="20100" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="20200" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="20300" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="20400" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="20500" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="20600" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="20700" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="20800" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="20900" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21000" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21100" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21200" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21300" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21400" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21500" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21600" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21700" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21800" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="21900" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="22000" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="22100" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="22300" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="22400" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.autoresurrect_Tex" templateId="22500" toolTip="" skillId="9009" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="20100" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="20200" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="20300" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="20400" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="20500" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="20600" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="20700" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="20800" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="20900" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21000" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21100" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21200" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21300" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21400" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21500" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21600" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21700" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21800" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="21900" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="22000" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="22100" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="22300" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="22400" toolTip="" skillId="9010" />
+    <Icon iconName="Icon_Skills.recallfriend_Tex" templateId="22500" toolTip="" skillId="9010" />
+</HeroSkillIconData>

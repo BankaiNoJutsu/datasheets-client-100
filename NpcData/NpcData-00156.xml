@@ -1,0 +1,98 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="358" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="1001" name="회색마음 아우라" scale="1" gender="male" race="Baraka" size="medium" shapeId="510360" basicActionId="5002000" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" unionId="1" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="1002" name="회색마음 아우라" scale="1" gender="male" race="Baraka" size="medium" shapeId="510360" basicActionId="5002000" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="1101" name="하이츄" scale="1" gender="male" race="Popori" size="medium" shapeId="510440" basicActionId="5002600" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" unionId="1" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="1102" name="하이츄" scale="1" gender="male" race="Popori" size="medium" shapeId="510440" basicActionId="5002600" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" unionId="1" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="20" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="1201" name="무스딘 아이크" scale="1" gender="male" race="Human" size="medium" shapeId="510620" basicActionId="5000800" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" unionId="1" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="1202" name="무스딘 아이크" scale="1" gender="male" race="Human" size="medium" shapeId="510620" basicActionId="5000800" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="1301" name="유인나온 엘린" scale="1" gender="female" race="Popori" size="medium" shapeId="527043" basicActionId="5004000" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" unionId="1" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="1302" name="유인나온 엘린" scale="1" gender="female" race="Popori" size="medium" shapeId="527043" basicActionId="5004000" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+</NpcData>

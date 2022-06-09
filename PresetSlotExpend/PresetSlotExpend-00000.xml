@@ -1,0 +1,6 @@
+<PresetSlotExpend xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/PresetSlotExpend PresetSlotExpend.xsd" xmlns="https://vezel.dev/novadrop/dc/PresetSlotExpend">
+    <PresetSlotList type="card" maxSlotAmount="3">
+        <SlotExpend type="money" currentSlotAmount="1" needAmount="10000000" />
+        <SlotExpend type="money" currentSlotAmount="2" needAmount="20000000" />
+    </PresetSlotList>
+</PresetSlotExpend>

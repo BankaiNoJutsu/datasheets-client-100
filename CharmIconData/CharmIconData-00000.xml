@@ -1,0 +1,77 @@
+<CharmIconData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/CharmIconData CharmIconData.xsd" xmlns="https://vezel.dev/novadrop/dc/CharmIconData">
+    <Icon iconName="Icon_Status.minusattack_Tex" charmId="50100" toolTip="디메리트_공격력 감소 효과" />
+    <Icon iconName="Icon_Status.exhaustion_Tex" charmId="50200" toolTip="디메리트_최대 HP 및 MP 감소 효과" />
+    <Icon iconName="Icon_Status.Merit_Tex" charmId="50300" toolTip="메리트_최대 HP 및 MP 증가 효과" />
+    <Icon iconName="Icon_Items.mysterypaper1_Tex" charmId="51100" toolTip="힘 증가 I" />
+    <Icon iconName="Icon_Items.mysterypaper2_Tex" charmId="51110" toolTip="힘 증가 II" />
+    <Icon iconName="Icon_Items.mysterypaper3_Tex" charmId="51120" toolTip="힘 증가 III" />
+    <Icon iconName="Icon_Items.mysterypaper4_Tex" charmId="51130" toolTip="힘 증가 IV" />
+    <Icon iconName="Icon_Items.mysterypaper4_Tex" charmId="51140" toolTip="힘 증가 IV(신관의 증표)" />
+    <Icon iconName="Icon_Items.mysterypaper4_Tex" charmId="51150" toolTip="힘 증가 IV" />
+    <Icon iconName="Icon_Items.mysterypaper1_Tex" charmId="51200" toolTip="치명타 발생 증가 I" />
+    <Icon iconName="Icon_Items.mysterypaper2_Tex" charmId="51210" toolTip="치명타 발생 증가 II" />
+    <Icon iconName="Icon_Items.mysterypaper3_Tex" charmId="51220" toolTip="치명타 발생 증가 III" />
+    <Icon iconName="Icon_Items.mysterypaper4_Tex" charmId="51230" toolTip="치명타 발생 증가 IV" />
+    <Icon iconName="Icon_Items.mysterypaper4_Tex" charmId="512300" toolTip="치명타 발생 증가 IV" />
+    <Icon iconName="Icon_Items.mysterypaper1_Tex" charmId="51300" toolTip="공격 속도 증가 I" />
+    <Icon iconName="Icon_Items.mysterypaper2_Tex" charmId="51310" toolTip="공격 속도 증가 II" />
+    <Icon iconName="Icon_Items.mysterypaper3_Tex" charmId="51320" toolTip="공격 속도 증가 III" />
+    <Icon iconName="Icon_Items.mysterypaper4_Tex" charmId="51330" toolTip="공격 속도 증가 IV" />
+    <Icon iconName="Icon_Items.mysterypaper1_Tex" charmId="51400" toolTip="다운 발생 증가 I" />
+    <Icon iconName="Icon_Items.mysterypaper2_Tex" charmId="51410" toolTip="다운 발생 증가 II" />
+    <Icon iconName="Icon_Items.mysterypaper3_Tex" charmId="51420" toolTip="다운 발생 증가 III" />
+    <Icon iconName="Icon_Items.mysterypaper4_Tex" charmId="51430" toolTip="다운 발생 증가 IV" />
+    <Icon iconName="Icon_Items.magicalpaper1_Tex" charmId="52100" toolTip="맷집 증가 I" />
+    <Icon iconName="Icon_Items.magicalpaper2_Tex" charmId="52110" toolTip="맷집 증가 II" />
+    <Icon iconName="Icon_Items.magicalpaper3_Tex" charmId="52120" toolTip="맷집 증가 III" />
+    <Icon iconName="Icon_Items.magicalpaper4_Tex" charmId="52130" toolTip="맷집 증가 IV" />
+    <Icon iconName="Icon_Items.magicalpaper4_Tex" charmId="52140" toolTip="맷집 증가 IV(신관의 증표)" />
+    <Icon iconName="Icon_Items.magicalpaper4_Tex" charmId="52150" toolTip="맷집 증가 IV" />
+    <Icon iconName="Icon_Items.magicalpaper1_Tex" charmId="52200" toolTip="치명타 저항 증가 I" />
+    <Icon iconName="Icon_Items.magicalpaper2_Tex" charmId="52210" toolTip="치명타 저항 증가 II" />
+    <Icon iconName="Icon_Items.magicalpaper3_Tex" charmId="52220" toolTip="치명타 저항 증가 III" />
+    <Icon iconName="Icon_Items.magicalpaper4_Tex" charmId="52230" toolTip="치명타 저항 증가 IV" />
+    <Icon iconName="Icon_Items.magicalpaper1_Tex" charmId="52300" toolTip="다운 저항 증가 I" />
+    <Icon iconName="Icon_Items.magicalpaper2_Tex" charmId="52310" toolTip="다운 저항 증가 II" />
+    <Icon iconName="Icon_Items.magicalpaper3_Tex" charmId="52320" toolTip="다운 저항 증가 III" />
+    <Icon iconName="Icon_Items.magicalpaper4_Tex" charmId="52330" toolTip="다운 저항 증가 IV" />
+    <Icon iconName="Icon_Items.magicalpaper1_Tex" charmId="52400" toolTip="상태 약화 저항 증가 I" />
+    <Icon iconName="Icon_Items.magicalpaper2_Tex" charmId="52410" toolTip="상태 약화 저항 증가 II" />
+    <Icon iconName="Icon_Items.magicalpaper3_Tex" charmId="52420" toolTip="상태 약화 저항 증가 III" />
+    <Icon iconName="Icon_Items.magicalpaper4_Tex" charmId="52430" toolTip="상태 약화 저항 증가 IV" />
+    <Icon iconName="Icon_Items.magicalpaper1_Tex" charmId="52500" toolTip="지속 피해 저항 증가 I" />
+    <Icon iconName="Icon_Items.magicalpaper2_Tex" charmId="52510" toolTip="지속 피해 저항 증가 II" />
+    <Icon iconName="Icon_Items.magicalpaper3_Tex" charmId="52520" toolTip="지속 피해 저항 증가 III" />
+    <Icon iconName="Icon_Items.magicalpaper4_Tex" charmId="52530" toolTip="지속 피해 저항 증가 IV" />
+    <Icon iconName="Icon_Items.magicalpaper1_Tex" charmId="52600" toolTip="행동 불능 저항 증가 I" />
+    <Icon iconName="Icon_Items.magicalpaper2_Tex" charmId="52610" toolTip="행동 불능 저항 증가 II" />
+    <Icon iconName="Icon_Items.magicalpaper3_Tex" charmId="52620" toolTip="행동 불능 저항 증가 III" />
+    <Icon iconName="Icon_Items.magicalpaper4_Tex" charmId="52630" toolTip="행동 불능 저항 증가 IV" />
+    <Icon iconName="Icon_Items.magicalpaper1_Tex" charmId="52700" toolTip="데미지 되돌림 I" />
+    <Icon iconName="Icon_Items.magicalpaper2_Tex" charmId="52710" toolTip="데미지 되돌림 II" />
+    <Icon iconName="Icon_Items.magicalpaper3_Tex" charmId="52720" toolTip="데미지 되돌림 III" />
+    <Icon iconName="Icon_Items.magicalpaper4_Tex" charmId="52730" toolTip="데미지 되돌림 IV" />
+    <Icon iconName="Icon_Items.abnormalpaper1_Tex" charmId="53100" toolTip="최대 HP 증가 I" />
+    <Icon iconName="Icon_Items.abnormalpaper2_Tex" charmId="53110" toolTip="최대 HP 증가 II" />
+    <Icon iconName="Icon_Items.abnormalpaper3_Tex" charmId="53120" toolTip="최대 HP 증가 III" />
+    <Icon iconName="Icon_Items.abnormalpaper4_Tex" charmId="53130" toolTip="최대 HP 증가 IV" />
+    <Icon iconName="Icon_Items.abnormalpaper1_Tex" charmId="53200" toolTip="최대 MP 증가 I" />
+    <Icon iconName="Icon_Items.abnormalpaper2_Tex" charmId="53210" toolTip="최대 MP 증가 II" />
+    <Icon iconName="Icon_Items.abnormalpaper3_Tex" charmId="53220" toolTip="최대 MP 증가 III" />
+    <Icon iconName="Icon_Items.abnormalpaper4_Tex" charmId="53230" toolTip="최대 MP 증가 IV" />
+    <Icon iconName="Icon_Items.abnormalpaper1_Tex" charmId="53300" toolTip="HP 지속 회복 I" />
+    <Icon iconName="Icon_Items.abnormalpaper2_Tex" charmId="53310" toolTip="HP 지속 회복 II" />
+    <Icon iconName="Icon_Items.abnormalpaper3_Tex" charmId="53320" toolTip="HP 지속 회복 III" />
+    <Icon iconName="Icon_Items.abnormalpaper4_Tex" charmId="53330" toolTip="HP 지속 회복 IV" />
+    <Icon iconName="Icon_Items.abnormalpaper4_Tex" charmId="533300" toolTip="HP 지속 회복 IV" />
+    <Icon iconName="Icon_Items.abnormalpaper1_Tex" charmId="53400" toolTip="MP 지속 회복 I" />
+    <Icon iconName="Icon_Items.abnormalpaper2_Tex" charmId="53410" toolTip="MP 지속 회복 II" />
+    <Icon iconName="Icon_Items.abnormalpaper3_Tex" charmId="53420" toolTip="MP 지속 회복 III" />
+    <Icon iconName="Icon_Items.abnormalpaper4_Tex" charmId="53430" toolTip="MP 지속 회복 IV" />
+    <Icon iconName="Icon_Items.abnormalpaper4_Tex" charmId="53440" toolTip="MP 지속 회복 IV(신관의 증표)" />
+    <Icon iconName="Icon_Items.abnormalpaper4_Tex" charmId="53450" toolTip="MP 지속 회복 IV" />
+    <Icon iconName="Icon_Items.abnormalpaper1_Tex" charmId="53500" toolTip="이동 속도 증가 I" />
+    <Icon iconName="Icon_Items.abnormalpaper2_Tex" charmId="53510" toolTip="이동 속도 증가 II" />
+    <Icon iconName="Icon_Items.abnormalpaper3_Tex" charmId="53520" toolTip="이동 속도 증가 III" />
+    <Icon iconName="Icon_Items.abnormalpaper4_Tex" charmId="53530" toolTip="이동 속도 증가 IV" />
+</CharmIconData>

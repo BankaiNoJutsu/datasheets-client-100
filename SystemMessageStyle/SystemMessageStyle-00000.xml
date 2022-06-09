@@ -1,0 +1,90 @@
+<SystemMessageStyle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SystemMessageStyle SystemMessageStyle.xsd" xmlns="https://vezel.dev/novadrop/dc/SystemMessageStyle">
+    <Style id="0" type="normal" name="SMS_DEFAULT" />
+    <Style id="1" type="normal" name="SMS_CHAT_INFO" />
+    <Style id="2" type="normal" name="SMS_ADMIN_NOTICE" size="30" color="0xFEE134" blink="false" />
+    <Style id="3" type="normal" name="SMS_ALERT_CENTER" color="0xFF1616" />
+    <Style id="4" type="" name="SMS_CHAT_DMG_TO_TARGET" />
+    <Style id="5" type="" name="SMS_CHAT_CRI_DMG_TO_TARGET" />
+    <Style id="6" type="" name="SMS_CHAT_DMG_TO_ME" />
+    <Style id="7" type="" name="SMS_CHAT_CRI_DMG_TO_ME" />
+    <Style id="8" type="" name="SMS_CHAT_DROB_DMG" />
+    <Style id="9" type="normal" name="SMS_CHAT_WORLD_INFO" />
+    <Style id="10" type="normal" name="SMS_CHAT_ERROR_INFO" color="0xFF1616" />
+    <Style id="11" type="" name="SMS_CHAT_PARTY_INFO" />
+    <Style id="12" type="" name="SMS_CHAT_GUILD_INFO" />
+    <Style id="13" type="" name="SMS_CHAT_TEAM_INFO" />
+    <Style id="14" type="normal" name="SMS_CHAT_INTERACTION_INFO" />
+    <Style id="15" type="normal" name="SMS_CHAT_WARN_INFO" />
+    <Style id="16" type="" name="SMS_CHAT_LOOT_ITEM" />
+    <Style id="17" type="" name="SMS_CHAT_GET_EXP" />
+    <Style id="18" type="" name="SMS_CHAT_LOOT_MONEY" />
+    <Style id="19" type="normal" name="SMS_CHAT_LOOT_SPECIAL_ITEM" />
+    <Style id="20" type="normal" name="SMS_CHAT_INFO_QUEST" color="0xFF1616" />
+    <Style id="21" type="normal" name="SMS_DUEL_RESULT" />
+    <Style id="22" type="lockonother" name="SMS_ALERT_INTERACTION" blink="true" argument="0" />
+    <Style id="23" type="normal" name="SMS_PK_ALERT" color="0xFF1616" blink="false" />
+    <Style id="24" type="" name="SMS_CHAT_INFO_CHAT_ONLY" />
+    <Style id="25" type="" name="SMS_CHAT_DMG_TO_ME_FROM_SMALL" />
+    <Style id="26" type="" name="SMS_CHAT_CRI_DMG_TO_ME_FROM_SMALL" />
+    <Style id="27" type="" name="SMS_CHAT_DMG_TO_ME_FROM_MEDIUM" />
+    <Style id="28" type="" name="SMS_CHAT_CRI_DMG_TO_ME_FROM_MEDIUM" />
+    <Style id="29" type="" name="SMS_CHAT_DMG_TO_ME_FROM_LARGE" />
+    <Style id="30" type="" name="SMS_CHAT_CRI_DMG_TO_ME_FROM_LARGE" />
+    <Style id="31" type="important" name="SMS_DUNGEON_EVENT_STYLE_DEFAULT" argument="2\t4" />
+    <Style id="32" type="important" name="SMS_DUNGEON_EVENT_STYLE_ALERT" argument="2\t4" />
+    <Style id="33" type="partyraid" name="SMS_COMMAND" size="26" color="#00e4ff" blink="false" existTime="8" single="true" />
+    <Style id="34" type="lockonmode" name="SMS_CHAT_INFO_FIXED" />
+    <Style id="35" type="levelup" name="SMS_LEVEL" />
+    <Style id="36" type="" name="SMS_CHAT_ERROR_INFO_CHAT_ONLY" />
+    <Style id="37" type="important" name="SMS_MONSTER_ACTION_MESSAGE" argument="2\t4" />
+    <Style id="38" type="lockonother" name="SMS_ALLY_LOCKON_YOU" argument="0" />
+    <Style id="39" type="lockonother" name="SMS_ENEMY_LOCKON_YOU" argument="1" />
+    <Style id="40" type="normal" name="SMS_CHAT_BATTLEFIELD_INFO" />
+    <Style id="41" type="important" name="SYSTEM_MSG_COUNT_DOWN" argument="2\t4" />
+    <Style id="42" type="important" name="SYSTEM_MSG_DUNGEON_MSG" argument="2\t4" />
+    <Style id="43" type="important" name="SYSTEM_MSG_BF_OURTEAM_MSG" argument="1\t4" />
+    <Style id="44" type="important" name="SYSTEM_MSG_BF_ENEMYTEAM_MSG" argument="0\t4" />
+    <Style id="45" type="normal" name="SYSTEM_MSG_BF_NONE_MSG" />
+    <Style id="46" type="partyraid" name="SMS_CONSUL" size="36" color="0x12B581" blink="false" existTime="8" single="true" />
+    <Style id="47" type="" name="SMS_SYSTEM_POPUP" />
+    <Style id="48" type="partyraid" name="SMS_CHAT_NOTICE" />
+    <Style id="49" type="systemguide" name="SYSTEM_MSG_TUTORIAL2" />
+    <Style id="50" type="important" name="SMS_MSG_BF_NOTICE_MSG" argument="2\t4" />
+    <Style id="51" type="partyraid" name="SMS_MSG_BIG_CENTER" size="40" color="#fcff00" blink="false" existTime="3" single="true" />
+    <Style id="52" type="important" name="SMS_CITYWAR_DESTROY_BASE" argument="2\t4" />
+    <Style id="53" type="important" name="SMS_CITYWAR_START" argument="0\t4" />
+    <Style id="54" type="important" name="SMS_CITYWAR_END_WIN" argument="2\t4" />
+    <Style id="55" type="important" name="SMS_CITYWAR_END_FREE" argument="2\t4" />
+    <Style id="56" type="important" name="SMS_CITYWAR_BOSS_APPEAR" argument="2\t4" />
+    <Style id="57" type="important" name="SMS_CITYWAR_BOSS_DEATH" argument="2\t4" />
+    <Style id="58" type="important" name="SMS_GUILD_LEVEL_CHANGE" argument="2\t4" />
+    <Style id="59" type="important" name="SMS_GUILD_SKILL_LEARN" argument="2\t4" />
+    <Style id="60" type="important" name="SMS_GUILD_QUEST_START" argument="2\t4" />
+    <Style id="61" type="important" name="SMS_GUILD_QUEST_FAIL" argument="2\t4" />
+    <Style id="62" type="important" name="SMS_GUILD_QUEST_DONE" argument="2\t4" />
+    <Style id="65" type="incentive" name="SMS_GUILD_INCENTIVE" argument="2\t4" />
+    <Style id="66" type="important" name="SMS_MSG_DUNGEON_ROLLING_MSG" existTime="6" argument="1\t0" />
+    <Style id="67" type="important" name="SYSTEM_MSG_BF_ENEMYTEAM_MSG" existTime="6" argument="0\t4" />
+    <Style id="68" type="important" name="SMS_MSG_DUNGEON_ROLLING_MSG" existTime="8" argument="1\t0" />
+    <Style id="69" type="important" name="SYSTEM_MSG_BF_ENEMYTEAM_MSG" existTime="8" argument="0\t4" />
+    <Style id="70" type="important" name="SMS_MSG_DUNGEON_ROLLING_MSG" existTime="10" argument="1\t0" />
+    <Style id="71" type="important" name="SYSTEM_MSG_BF_ENEMYTEAM_MSG" existTime="10" argument="0\t4" />
+    <Style id="72" type="important" name="SMS_MSG_DUNGEON_ROLLING_MSG" existTime="12" argument="1\t0" />
+    <Style id="73" type="important" name="SYSTEM_MSG_BF_ENEMYTEAM_MSG" existTime="12" argument="0\t4" />
+    <Style id="63" type="normal" name="SMS_GUILD_WAR_DECLARE" />
+    <Style id="64" type="normal" name="SMS_GUILD_WAR_SURRENDER" />
+    <Style id="74" type="normal" name="SMS_GUILD_WAR_WITHDRAW" />
+    <Style id="75" type="important" name="SMS_GUILD_WAR_NORMAL_TOWER" argument="2\t3" />
+    <Style id="76" type="important" name="SMS_GUILD_WAR_OURTEAM_TOWER" argument="1\t3" />
+    <Style id="77" type="important" name="SMS_GUILD_WAR_ENEMYTEAM_TOWER" argument="0\t3" />
+    <Style id="80" type="important" name="SYSTEM_MSG_COUNT_DOWN" argument="2\t4" />
+    <Style id="81" type="systemguide" name="SYSTEM_MSG_TUTORIAL2_TIME" existTime="12" />
+    <Style id="82" type="lockonmode" name="SMS_LOCK_ON" />
+    <Style id="100" type="important" name="SYSTEM_MSG_BF_ROUND_MSG" argument="2\t4" />
+    <Style id="101" type="important" name="SYSTEM_MSG_BF_OURTEAM_STRONGHOLD_MSG" argument="1\t1" />
+    <Style id="102" type="important" name="SYSTEM_MSG_BF_ENEMYTEAM_STRONGHOLD_MSG" argument="0\t1" />
+    <Style id="103" type="pubg_event" name="SMS_MSG_PUBG_STYLE" />
+    <Style id="104" type="normal" name="SMS_TBA_DEFAULT" />
+    <Style id="105" type="normal" name="SMS_TBA_USE_TEAM_COLOR" />
+    <Style id="106" type="normal" name="SMS_TBA_USE_ALLY_COLOR" />
+</SystemMessageStyle>

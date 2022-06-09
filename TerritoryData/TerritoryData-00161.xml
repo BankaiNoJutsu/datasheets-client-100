@@ -1,0 +1,22 @@
+<TerritoryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TerritoryData TerritoryData.xsd" huntingZoneId="3104" xmlns="https://vezel.dev/novadrop/dc/TerritoryData">
+    <TerritoryGroup id="310400001">
+        <TerritoryList>
+            <Territory id="310400001" absoluteFenceZ="0">
+                <Fence pos="-107074.75781250,137038.12500000,-1629.47229004" />
+                <Fence pos="-106703.82812500,134532.70312500,-1682.84155273" />
+                <Fence pos="-104095.24218750,134157.12500000,-1660.01684570" />
+                <Fence pos="-104070.70312500,136980.84375000,-1592.75683594" />
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+    <TerritoryGroup id="310400002">
+        <TerritoryList>
+            <Territory id="310400002" absoluteFenceZ="0">
+                <Fence pos="-105347.83593750,135438.95312500,-1682.75463867" />
+                <Fence pos="-105324.80468750,135821.85937500,-1682.75463867" />
+                <Fence pos="-105717.99218750,135875.68750000,-1682.75170898" />
+                <Fence pos="-105723.35156250,135508.23437500,-1682.75219727" />
+            </Territory>
+        </TerritoryList>
+    </TerritoryGroup>
+</TerritoryData>

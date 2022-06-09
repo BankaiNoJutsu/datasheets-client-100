@@ -1,0 +1,18 @@
+<TradeBrokerSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/TradeBrokerSetting TradeBrokerSetting.xsd" xmlns="https://vezel.dev/novadrop/dc/TradeBrokerSetting">
+    <Deal>
+        <Suggest lifeTime="180000" maxCount="20" />
+    </Deal>
+    <SearchCondition>
+        <MaxEnchantLevel value="15" />
+        <MaxItemLevel value="513" />
+        <MaxItemRank value="22" />
+    </SearchCondition>
+    <WarningPopUp defaultValue="0.99">
+        <Check value="0.87" max="500000" min="0" />
+        <Check value="0.9" max="20000000" min="500001" />
+        <Check value="0.91" max="200000000" min="20000001" />
+        <Check value="0.93" max="700000000" min="200000001" />
+        <Check value="0.95" max="1500000000" min="700000001" />
+        <Check value="0.98" max="2100000000" min="1500000001" />
+    </WarningPopUp>
+</TradeBrokerSetting>

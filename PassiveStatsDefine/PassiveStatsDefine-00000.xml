@@ -1,0 +1,266 @@
+<PassiveStatsDefine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/PassiveStatsDefine PassiveStatsDefine.xsd" xmlns="https://vezel.dev/novadrop/dc/PassiveStatsDefine">
+    <AbnormalTooltipType>
+        <Type id="106" />
+        <Type id="189" />
+        <Type id="206" />
+        <Type id="207" />
+        <Type id="224" />
+    </AbnormalTooltipType>
+    <AddableType>
+        <Type id="1" />
+        <Type id="2" />
+        <Type id="3" />
+        <Type id="5" />
+        <Type id="6" />
+        <Type id="7" />
+        <Type id="17" />
+        <Type id="18" />
+        <Type id="26" />
+        <Type id="47" />
+        <Type id="51" />
+        <Type id="52" />
+        <Type id="64" />
+        <Type id="65" />
+        <Type id="102" />
+        <Type id="113" />
+        <Type id="152" />
+        <Type id="164" />
+        <Type id="176" />
+        <Type id="257" />
+        <Type id="258" />
+        <Type id="1001" />
+        <Type id="1002" />
+        <Type id="1003" />
+        <Type id="1004" />
+        <Type id="1005" />
+        <Type id="1006" />
+    </AddableType>
+    <ConditionStringDefine>
+        <String id="1" conditionId="1" conditionValue="0" />
+        <String id="2" conditionId="1" conditionValue="-1" />
+        <String id="3" conditionId="2" conditionValue="-1" />
+        <String id="4" conditionId="3" conditionValue="-1" />
+        <String id="5" conditionId="8" conditionValue="0" />
+        <String id="6" conditionId="9" conditionValue="4" />
+        <String id="7" conditionId="9" conditionValue="5" />
+        <String id="8" conditionId="10" conditionValue="0" />
+        <String id="9" conditionId="11" conditionValue="0" />
+        <String id="10" conditionId="11" conditionValue="1" />
+        <String id="11" conditionId="11" conditionValue="2" />
+        <String id="12" conditionId="11" conditionValue="3" />
+        <String id="13" conditionId="12" conditionValue="0" />
+        <String id="14" conditionId="13" conditionValue="0" />
+        <String id="15" conditionId="14" conditionValue="1" />
+        <String id="16" conditionId="14" conditionValue="2" />
+        <String id="17" conditionId="15" conditionValue="0" />
+        <String id="18" conditionId="15" conditionValue="3" />
+        <String id="19" conditionId="16" conditionValue="0" />
+        <String id="20" conditionId="17" conditionValue="-1" />
+        <String id="21" conditionId="18" conditionValue="0" />
+        <String id="22" conditionId="19" conditionValue="-1" />
+        <String id="23" conditionId="21" conditionValue="0" />
+        <String id="24" conditionId="21" conditionValue="1" />
+        <String id="25" conditionId="21" conditionValue="2" />
+        <String id="26" conditionId="21" conditionValue="3" />
+        <String id="27" conditionId="22" conditionValue="0" />
+        <String id="28" conditionId="24" conditionValue="1" />
+        <String id="29" conditionId="24" conditionValue="2" />
+        <String id="30" conditionId="25" conditionValue="0" />
+        <String id="31" conditionId="25" conditionValue="3" />
+        <String id="32" conditionId="26" conditionValue="4" />
+        <String id="33" conditionId="26" conditionValue="5" />
+        <String id="34" conditionId="27" conditionValue="-1" />
+        <String id="35" conditionId="28" conditionValue="-1" />
+        <String id="36" conditionId="29" conditionValue="0" />
+        <String id="37" conditionId="30" conditionValue="-1" />
+        <String id="38" conditionId="32" conditionValue="0" />
+        <String id="39" conditionId="32" conditionValue="1" />
+        <String id="40" conditionId="33" conditionValue="1" />
+        <String id="41" conditionId="33" conditionValue="2" />
+        <String id="42" conditionId="33" conditionValue="3" />
+        <String id="43" conditionId="34" conditionValue="-1" />
+        <String id="44" conditionId="35" conditionValue="-1" />
+        <String id="45" conditionId="37" conditionValue="0" />
+        <String id="46" conditionId="41" conditionValue="-1" />
+        <String id="47" conditionId="42" conditionValue="0" />
+        <String id="48" conditionId="42" conditionValue="1" />
+        <String id="49" conditionId="42" conditionValue="2" />
+        <String id="50" conditionId="42" conditionValue="3" />
+        <String id="51" conditionId="42" conditionValue="4" />
+    </ConditionStringDefine>
+    <ConditionValueAsPercent>
+        <Condition id="17" />
+    </ConditionValueAsPercent>
+    <MainStringDefine>
+        <MainString typeId="1" conditionId="-1" mainStringId="2" />
+        <MainString typeId="2" conditionId="-1" mainStringId="2" />
+        <MainString typeId="3" conditionId="-1" mainStringId="4" />
+        <MainString typeId="3" conditionId="0" mainStringId="1" />
+        <MainString typeId="5" conditionId="-1" mainStringId="2" />
+        <MainString typeId="6" conditionId="-1" mainStringId="4" />
+        <MainString typeId="6" conditionId="0" mainStringId="1" />
+        <MainString typeId="7" conditionId="-1" mainStringId="3" />
+        <MainString typeId="7" conditionId="0" mainStringId="1" />
+        <MainString typeId="17" conditionId="-1" mainStringId="2" />
+        <MainString typeId="18" conditionId="-1" mainStringId="2" />
+        <MainString typeId="20" conditionId="-1" mainStringId="1" />
+        <MainString typeId="21" conditionId="-1" mainStringId="2" />
+        <MainString typeId="26" conditionId="-1" mainStringId="2" />
+        <MainString typeId="47" conditionId="-1" mainStringId="2" />
+        <MainString typeId="51" conditionId="-1" mainStringId="4" />
+        <MainString typeId="51" conditionId="0" mainStringId="1" />
+        <MainString typeId="52" conditionId="-1" mainStringId="4" />
+        <MainString typeId="52" conditionId="0" mainStringId="1" />
+        <MainString typeId="64" conditionId="-1" mainStringId="1" />
+        <MainString typeId="65" conditionId="-1" mainStringId="2" />
+        <MainString typeId="68" conditionId="-1" mainStringId="1" />
+        <MainString typeId="102" conditionId="-1" mainStringId="3" />
+        <MainString typeId="102" conditionId="0" mainStringId="1" />
+        <MainString typeId="106" conditionId="-1" mainStringId="12" />
+        <MainString typeId="106" conditionId="0" mainStringId="10" />
+        <MainString typeId="110" conditionId="-1" mainStringId="3" />
+        <MainString typeId="110" conditionId="0" mainStringId="1" />
+        <MainString typeId="110" conditionId="15" mainStringId="7" />
+        <MainString typeId="113" conditionId="-1" mainStringId="5" />
+        <MainString typeId="113" conditionId="15" mainStringId="1" />
+        <MainString typeId="113" conditionId="17" mainStringId="5" />
+        <MainString typeId="116" conditionId="-1" mainStringId="3" />
+        <MainString typeId="116" conditionId="0" mainStringId="1" />
+        <MainString typeId="116" conditionId="15" mainStringId="7" />
+        <MainString typeId="117" conditionId="-1" mainStringId="3" />
+        <MainString typeId="117" conditionId="0" mainStringId="1" />
+        <MainString typeId="117" conditionId="15" mainStringId="7" />
+        <MainString typeId="152" conditionId="-1" mainStringId="4" />
+        <MainString typeId="152" conditionId="0" mainStringId="1" />
+        <MainString typeId="152" conditionId="21" mainStringId="17" />
+        <MainString typeId="164" conditionId="-1" mainStringId="1" />
+        <MainString typeId="176" conditionId="-1" mainStringId="1" />
+        <MainString typeId="189" conditionId="-1" mainStringId="13" />
+        <MainString typeId="189" conditionId="25" mainStringId="16" />
+        <MainString typeId="206" conditionId="-1" mainStringId="14" />
+        <MainString typeId="207" conditionId="-1" mainStringId="14" />
+        <MainString typeId="224" conditionId="-1" mainStringId="13" />
+        <MainString typeId="249" conditionId="-1" mainStringId="1" />
+        <MainString typeId="257" conditionId="-1" mainStringId="1" />
+        <MainString typeId="258" conditionId="-1" mainStringId="1" />
+        <MainString typeId="1001" conditionId="-1" mainStringId="4" />
+        <MainString typeId="1001" conditionId="0" mainStringId="1" />
+        <MainString typeId="1001" conditionId="25" mainStringId="7" />
+        <MainString typeId="1002" conditionId="-1" mainStringId="4" />
+        <MainString typeId="1002" conditionId="0" mainStringId="1" />
+        <MainString typeId="1002" conditionId="25" mainStringId="7" />
+        <MainString typeId="1003" conditionId="-1" mainStringId="3" />
+        <MainString typeId="1003" conditionId="0" mainStringId="1" />
+        <MainString typeId="1003" conditionId="15" mainStringId="7" />
+        <MainString typeId="1004" conditionId="-1" mainStringId="3" />
+        <MainString typeId="1004" conditionId="0" mainStringId="1" />
+        <MainString typeId="1004" conditionId="15" mainStringId="7" />
+        <MainString typeId="1005" conditionId="-1" mainStringId="4" />
+        <MainString typeId="1005" conditionId="0" mainStringId="1" />
+        <MainString typeId="1005" conditionId="25" mainStringId="7" />
+        <MainString typeId="1006" conditionId="-1" mainStringId="4" />
+        <MainString typeId="1006" conditionId="0" mainStringId="1" />
+        <MainString typeId="1006" conditionId="25" mainStringId="7" />
+        <MainString typeId="1101" conditionId="-1" mainStringId="4" />
+        <MainString typeId="1101" conditionId="0" mainStringId="1" />
+        <MainString typeId="1101" conditionId="25" mainStringId="7" />
+        <MainString typeId="1102" conditionId="-1" mainStringId="4" />
+        <MainString typeId="1102" conditionId="0" mainStringId="1" />
+        <MainString typeId="1102" conditionId="25" mainStringId="7" />
+        <MainString typeId="1103" conditionId="-1" mainStringId="4" />
+        <MainString typeId="1103" conditionId="0" mainStringId="1" />
+        <MainString typeId="1103" conditionId="25" mainStringId="7" />
+        <MainString typeId="1104" conditionId="-1" mainStringId="4" />
+        <MainString typeId="1104" conditionId="0" mainStringId="1" />
+        <MainString typeId="1104" conditionId="25" mainStringId="7" />
+    </MainStringDefine>
+    <TargetStringDefine>
+        <String id="1" state="attacked" mobSize="all" />
+        <String id="2" state="attacked" mobSize="player" />
+        <String id="3" state="attacked" mobSize="any" />
+        <String id="4" state="attacked" mobSize="small" />
+        <String id="5" state="attacked" mobSize="medium" />
+        <String id="6" state="attacked" mobSize="large" />
+        <String id="7" state="attack" mobSize="all" />
+        <String id="8" state="attack" mobSize="player" />
+        <String id="9" state="attack" mobSize="any" />
+        <String id="10" state="attack" mobSize="small" />
+        <String id="11" state="attack" mobSize="medium" />
+        <String id="12" state="attack" mobSize="large" />
+        <String id="1" state="attacked2" mobSize="all" />
+        <String id="2" state="attacked2" mobSize="player" />
+        <String id="3" state="attacked2" mobSize="any" />
+        <String id="4" state="attacked2" mobSize="small" />
+        <String id="5" state="attacked2" mobSize="medium" />
+        <String id="6" state="attacked2" mobSize="large" />
+        <String id="7" state="attack2" mobSize="all" />
+        <String id="8" state="attack2" mobSize="player" />
+        <String id="9" state="attack2" mobSize="any" />
+        <String id="10" state="attack2" mobSize="small" />
+        <String id="11" state="attack2" mobSize="medium" />
+        <String id="12" state="attack2" mobSize="large" />
+        <String id="1" state="attackedExceptTarget" mobSize="all" />
+        <String id="2" state="attackedExceptTarget" mobSize="player" />
+        <String id="3" state="attackedExceptTarget" mobSize="any" />
+        <String id="4" state="attackedExceptTarget" mobSize="small" />
+        <String id="5" state="attackedExceptTarget" mobSize="medium" />
+        <String id="6" state="attackedExceptTarget" mobSize="large" />
+        <String id="7" state="attackExceptTarget" mobSize="all" />
+        <String id="8" state="attackExceptTarget" mobSize="player" />
+        <String id="9" state="attackExceptTarget" mobSize="any" />
+        <String id="10" state="attackExceptTarget" mobSize="small" />
+        <String id="11" state="attackExceptTarget" mobSize="medium" />
+        <String id="12" state="attackExceptTarget" mobSize="large" />
+        <String id="1" state="attackedExceptCondition" mobSize="all" />
+        <String id="2" state="attackedExceptCondition" mobSize="player" />
+        <String id="3" state="attackedExceptCondition" mobSize="any" />
+        <String id="4" state="attackedExceptCondition" mobSize="small" />
+        <String id="5" state="attackedExceptCondition" mobSize="medium" />
+        <String id="6" state="attackedExceptCondition" mobSize="large" />
+        <String id="7" state="attackExceptCondition" mobSize="all" />
+        <String id="8" state="attackExceptCondition" mobSize="player" />
+        <String id="9" state="attackExceptCondition" mobSize="any" />
+        <String id="10" state="attackExceptCondition" mobSize="small" />
+        <String id="11" state="attackExceptCondition" mobSize="medium" />
+        <String id="12" state="attackExceptCondition" mobSize="large" />
+        <String id="1" state="attackedWithAbnormality" mobSize="all" />
+        <String id="2" state="attackedWithAbnormality" mobSize="player" />
+        <String id="3" state="attackedWithAbnormality" mobSize="any" />
+        <String id="4" state="attackedWithAbnormality" mobSize="small" />
+        <String id="5" state="attackedWithAbnormality" mobSize="medium" />
+        <String id="6" state="attackedWithAbnormality" mobSize="large" />
+        <String id="7" state="attackWithAbnormality" mobSize="all" />
+        <String id="8" state="attackWithAbnormality" mobSize="player" />
+        <String id="9" state="attackWithAbnormality" mobSize="any" />
+        <String id="10" state="attackWithAbnormality" mobSize="small" />
+        <String id="11" state="attackWithAbnormality" mobSize="medium" />
+        <String id="12" state="attackWithAbnormality" mobSize="large" />
+        <String id="1" state="attackedExceptConditionWithAbnormality" mobSize="all" />
+        <String id="2" state="attackedExceptConditionWithAbnormality" mobSize="player" />
+        <String id="3" state="attackedExceptConditionWithAbnormality" mobSize="any" />
+        <String id="4" state="attackedExceptConditionWithAbnormality" mobSize="small" />
+        <String id="5" state="attackedExceptConditionWithAbnormality" mobSize="medium" />
+        <String id="6" state="attackedExceptConditionWithAbnormality" mobSize="large" />
+        <String id="7" state="attackExceptConditionWithAbnormality" mobSize="all" />
+        <String id="8" state="attackExceptConditionWithAbnormality" mobSize="player" />
+        <String id="9" state="attackExceptConditionWithAbnormality" mobSize="any" />
+        <String id="10" state="attackExceptConditionWithAbnormality" mobSize="small" />
+        <String id="11" state="attackExceptConditionWithAbnormality" mobSize="medium" />
+        <String id="12" state="attackExceptConditionWithAbnormality" mobSize="large" />
+        <String id="13" state="attackWithCC" mobSize="all" />
+        <String id="14" state="attackWithCC" mobSize="player" />
+        <String id="15" state="attackWithCC" mobSize="any" />
+        <String id="16" state="attackWithCC" mobSize="small" />
+        <String id="17" state="attackWithCC" mobSize="medium" />
+        <String id="18" state="attackWithCC" mobSize="large" />
+    </TargetStringDefine>
+    <ValueColorDefine>
+        <ValueColor typeId="20" valueType="neutral" />
+        <ValueColor typeId="164" valueType="neutral" />
+        <ValueColor typeId="65" valueType="opposite" />
+        <ValueColor typeId="68" valueType="opposite" />
+        <ValueColor typeId="257" valueType="opposite" />
+        <ValueColor typeId="258" valueType="opposite" />
+        <ValueColor typeId="102" valueType="opposite" />
+    </ValueColorDefine>
+</PassiveStatsDefine>

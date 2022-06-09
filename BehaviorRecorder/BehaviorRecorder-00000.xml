@@ -1,0 +1,101 @@
+<BehaviorRecorder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/BehaviorRecorder BehaviorRecorder.xsd" huntingZoneId="54" xmlns="https://vezel.dev/novadrop/dc/BehaviorRecorder">
+    <Recorder templateId="260">
+        <Effect id="1">
+            <DoerAbnormality id="202" duration="0" rate="0" maxStack="0" />
+        </Effect>
+        <Effect id="2">
+            <DoeeAbnormality id="분노 유발" duration="0" rate="0" maxStack="0" />
+            <DoerAbnormality id="202" duration="0" rate="0" maxStack="0" />
+        </Effect>
+        <Effect id="3">
+            <DoerAbnormality id="2" duration="2000" rate="0" maxStack="0" />
+        </Effect>
+        <Effect id="4">
+            <DoeeBonusDamage Value="1000000" />
+        </Effect>
+        <Record id="1">
+            <Pin id="1" slot="1" effect="2">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="4" target="skillId" />
+            </Pin>
+        </Record>
+        <Record id="2">
+            <Pin id="1" slot="1" effect="2" next="9">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="1" target="skillId" />
+            </Pin>
+        </Record>
+        <Record id="9">
+            <Pin id="1" slot="1" effect="2" next="3">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="1" target="skillId" />
+            </Pin>
+        </Record>
+        <Record id="3">
+            <Pin id="1" slot="1" effect="1" exclusiveId="1" next="4">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="1" target="skillId" />
+            </Pin>
+            <Pin id="2" slot="1" effect="3" exclusiveId="1">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="10" target="skillId" />
+            </Pin>
+        </Record>
+        <Record id="4">
+            <Pin id="1" slot="1" effect="1" next="5">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="1" target="skillId" />
+            </Pin>
+        </Record>
+        <Record id="5">
+            <Pin id="1" slot="1" effect="1" next="6">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="1" target="skillId" />
+            </Pin>
+        </Record>
+        <Record id="6">
+            <Pin id="1" slot="1" effect="1" next="7" timeLimit="10000">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="5" target="skillId" />
+            </Pin>
+        </Record>
+        <Record id="7">
+            <Pin id="1" slot="1" next="8" timeLimit="5000">
+                <CompareCondition kind="equal" value="0" target="socialId" />
+            </Pin>
+        </Record>
+        <Record id="8">
+            <Pin id="1" slot="1" effect="1" next="10" timeLimit="10000">
+                <CompareCondition kind="equal" value="0" target="socialId" />
+                <CompareCondition kind="greaterThanEqual" value="2000" target="socialDuration" />
+            </Pin>
+        </Record>
+        <Record id="10">
+            <Pin id="1" slot="1" effect="4" timeLimit="10000">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="3" target="skillId" />
+            </Pin>
+        </Record>
+        <Root>
+            <Pin id="1" slot="1" effect="1" next="1">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="4" target="skillId" />
+            </Pin>
+            <Pin id="2" slot="1" effect="1" next="2">
+                <CompareCondition kind="Lancer" target="doerUserClass" />
+                <CompareCondition kind="equal" target="actionType" strValue="skill" />
+                <CompareCondition kind="equal" value="4" target="skillId" />
+            </Pin>
+        </Root>
+    </Recorder>
+</BehaviorRecorder>

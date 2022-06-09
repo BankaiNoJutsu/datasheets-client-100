@@ -1,0 +1,12 @@
+<ItemIconData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ItemIconData ItemIconData.xsd" xmlns="https://vezel.dev/novadrop/dc/ItemIconData">
+    <Icon iconName="Icon_Items.IconS1_1" itemTemplateId="1" />
+    <Icon iconName="Icon_Items.IconS1_2" itemTemplateId="2" />
+    <Icon iconName="Icon_Items.IconS1_3" itemTemplateId="3" />
+    <Icon iconName="Icon_Items.IconS1_4" itemTemplateId="4" />
+    <Icon iconName="Icon_Items.IconS1_5" itemTemplateId="5" />
+    <Icon iconName="Icon_Items.IconS1_6" itemTemplateId="6" />
+    <Icon iconName="Icon_Items.IconS1_7" itemTemplateId="7" />
+    <Icon iconName="Icon_Items.IconS1_8" itemTemplateId="8" />
+    <Icon iconName="Icon_Items.IconS1_9" itemTemplateId="9" />
+    <Icon iconName="Icon_Items.IconS1_10" itemTemplateId="10" />
+</ItemIconData>

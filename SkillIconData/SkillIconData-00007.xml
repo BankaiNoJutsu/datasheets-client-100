@@ -1,0 +1,170 @@
+<SkillIconData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SkillIconData SkillIconData.xsd" xmlns="https://vezel.dev/novadrop/dc/SkillIconData">
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Tex" gender="Common" race="Common" class="Common" toolTip="기린 소환" skillId="17000002" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Tex" gender="Common" race="Common" class="Common" toolTip="기린 소환" skillId="17000003" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Tex" gender="Common" race="Common" class="Common" toolTip="기린 소환" skillId="17000004" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Tex" gender="Common" race="Common" class="Common" toolTip="기린 소환" skillId="17000005" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Tex" gender="Common" race="Common" class="Common" toolTip="기린 소환" skillId="17000006" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Tex" gender="Common" race="Common" class="Common" toolTip="기린 소환" skillId="17000007" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Tex" gender="Common" race="Common" class="Common" toolTip="기린 소환" skillId="17000008" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Tex" gender="Common" race="Common" class="Common" toolTip="기린 소환" skillId="17000009" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Green_Tex" gender="Common" race="Common" class="Common" toolTip="청록의 기린 소환" skillId="17000010" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Green_Tex" gender="Common" race="Common" class="Common" toolTip="청록의 기린 소환" skillId="17000011" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Green_Tex" gender="Common" race="Common" class="Common" toolTip="청록의 기린 소환" skillId="17000012" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Green_Tex" gender="Common" race="Common" class="Common" toolTip="청록의 기린 소환" skillId="17000013" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Green_Tex" gender="Common" race="Common" class="Common" toolTip="청록의 기린 소환" skillId="17000014" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Green_Tex" gender="Common" race="Common" class="Common" toolTip="청록의 기린 소환" skillId="17000015" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Green_Tex" gender="Common" race="Common" class="Common" toolTip="청록의 기린 소환" skillId="17000016" />
+    <Icon iconName="Icon_Skills.Vehicle_Kirin_Green_Tex" gender="Common" race="Common" class="Common" toolTip="청록의 기린 소환" skillId="17000017" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000018" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000019" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000020" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000021" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000022" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000023" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000024" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000025" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000026" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙" skillId="17000027" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000028" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000029" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000030" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000031" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000032" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000033" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000034" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000035" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000036" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 골드" skillId="17000037" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000038" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000039" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000040" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000041" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000042" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000043" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000044" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000045" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000046" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_A_R_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 블랙 레어" skillId="17000047" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000048" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000049" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000050" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000051" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000052" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000053" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000054" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000055" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000056" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 화이트" skillId="17000057" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000058" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000059" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000060" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000061" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000062" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000063" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000064" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000065" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000066" />
+    <Icon iconName="Icon_Skills.Vehicle_GhostHorse_D_Tex" gender="Common" race="Common" class="Common" toolTip="북미 유령말 레드" skillId="17000067" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000068" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000069" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000070" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000071" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000072" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000073" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000074" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000075" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000076" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 블랙 일반" skillId="17000077" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000078" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000079" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000080" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000081" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000082" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000083" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000084" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000085" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000086" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_B_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 갈색 일반" skillId="17000087" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000088" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000089" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000090" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000091" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000092" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000093" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000094" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000095" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000096" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 일반" skillId="17000097" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000098" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000099" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000100" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000101" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000102" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000103" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000104" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000105" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000106" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_C_Tex" gender="Common" race="Common" class="Common" toolTip="북미 초밥 고양이 회색 레어" skillId="17000107" />
+    <Icon iconName="Icon_Skills.Unicon_Tex" gender="Common" race="Common" class="Common" toolTip="별빛 유니콘 소환" skillId="17000108" />
+    <Icon iconName="Icon_Skills.Unicon_Tex" gender="Common" race="Common" class="Common" toolTip="별빛 유니콘 소환" skillId="17000109" />
+    <Icon iconName="Icon_Skills.Vehicle_Ostrich_C01_Tex" gender="Common" race="Common" class="Common" toolTip="화이트 펑키 소환" skillId="17000110" />
+    <Icon iconName="Icon_Skills.Vehicle_Ostrich_C02_Tex" gender="Common" race="Common" class="Common" toolTip="블랙 펑키 소환" skillId="17000111" />
+    <Icon iconName="Icon_Skills.Trans_Tiger_A_Tex" gender="Common" race="Common" class="Common" toolTip="호랑이A 소환" skillId="17000112" />
+    <Icon iconName="Icon_Skills.Trans_Tiger_B_Tex" gender="Common" race="Common" class="Common" toolTip="호랑이B 소환" skillId="17000113" />
+    <Icon iconName="Icon_Skills.Trans_Tiger_C_Tex" gender="Common" race="Common" class="Common" toolTip="호랑이C 소환" skillId="17000114" />
+    <Icon iconName="Icon_Skills.Trans_Tiger_D_Tex" gender="Common" race="Common" class="Common" toolTip="호랑이D 소환" skillId="17000115" />
+    <Icon iconName="Icon_Skills.Trans_Tiger_D_Tex" gender="Common" race="Common" class="Common" toolTip="호랑이D 소환" skillId="17000116" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_Tex" gender="Common" race="Common" class="Common" toolTip="흰 날개의 아기돼지 꼬미 소환" skillId="17000117" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_A_Tex" gender="Common" race="Common" class="Common" toolTip="흰 날개의 얼룩돼지 똘이 소환" skillId="17000118" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_B_Tex" gender="Common" race="Common" class="Common" toolTip="흰 날개의 검정돼지 까미 소환" skillId="17000119" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_C_Tex" gender="Common" race="Common" class="Common" toolTip="흰 날개의 꽃돼지 도나 소환" skillId="17000120" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_D" gender="Common" race="Common" class="Common" toolTip="흰 날개의 폭주돼지 뭉치 소환" skillId="17000121" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_Tex" gender="Common" race="Common" class="Common" toolTip="무지개 날개의 아기돼지 꼬미 소환" skillId="17000122" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_A_Tex" gender="Common" race="Common" class="Common" toolTip="무지개 날개의 얼룩돼지 똘이 소환" skillId="17000123" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_B_Tex" gender="Common" race="Common" class="Common" toolTip="무지개 날개의 검정돼지 까미 소환" skillId="17000124" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_C_Tex" gender="Common" race="Common" class="Common" toolTip="무지개 날개의 꽃돼지 도나 소환" skillId="17000125" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_D" gender="Common" race="Common" class="Common" toolTip="무지개 날개의 폭주돼지 뭉치 소환" skillId="17000126" />
+    <Icon iconName="Icon_Skills.Vehicle_BoneDragon_A_Tex" gender="Common" race="Common" class="Common" toolTip="본드래곤[반] 소환 " skillId="17000127" />
+    <Icon iconName="Icon_Skills.Vehicle_BoneDragon_B_Tex" gender="Common" race="Common" class="Common" toolTip="본드래곤[흑] 소환 " skillId="17000128" />
+    <Icon iconName="Icon_Skills.Vehicle_BoneDragon_C_Tex" gender="Common" race="Common" class="Common" toolTip="본드래곤[금] 소환 " skillId="17000129" />
+    <Icon iconName="Icon_Skills.Vehicle_Ostrich_A_Tex" gender="Common" race="Common" class="Common" toolTip="털모자 더키 소환" skillId="17000130" />
+    <Icon iconName="Icon_Skills.Vehicle_Ostrich_A_Tex" gender="Common" race="Common" class="Common" toolTip="털모자 더키 소환" skillId="17000131" />
+    <Icon iconName="Icon_Skills.Vehicle_Ostrich_A01_Tex" gender="Common" race="Common" class="Common" toolTip="야구모자 더키 소환" skillId="17000132" />
+    <Icon iconName="Icon_Skills.Vehicle_Ostrich_A01_Tex" gender="Common" race="Common" class="Common" toolTip="야구모자 더키 소환" skillId="17000133" />
+    <Icon iconName="Icon_Skills.Vehicle_Raptor_A_Tex" gender="Common" race="Common" class="Common" toolTip="붉은 발톱 하미르 소환" skillId="17000134" />
+    <Icon iconName="Icon_Equipments.vehicle_Dragon_B_Tex" gender="Common" race="Common" class="Common" toolTip="레드 드래곤(레어) 소환 (기간제, 전투)" skillId="17000135" />
+    <Icon iconName="Icon_Skills.Vehicle_PoliceCar_Tex" gender="Common" race="Common" class="Common" toolTip="경찰차 소환" skillId="17000136" />
+    <Icon iconName="Icon_Skills.Vehicle_PoliceCar_Tex" gender="Common" race="Common" class="Common" toolTip="경찰차 소환" skillId="17000137" />
+    <Icon iconName="Icon_Skills.Vehicle_Beetle_A_Tex" gender="Common" race="Common" class="Common" toolTip="순한 땡그리(레어)" skillId="17000138" />
+    <Icon iconName="Icon_Skills.Vehicle_Beetle_A_Tex" gender="Common" race="Common" class="Common" toolTip="순한 땡그리(레어)" skillId="17000139" />
+    <Icon iconName="Icon_Skills.Vehicle_Beetle_B_Tex" gender="Common" race="Common" class="Common" toolTip="화난 앵그리(레어)" skillId="17000140" />
+    <Icon iconName="Icon_Skills.Vehicle_Beetle_B_Tex" gender="Common" race="Common" class="Common" toolTip="화난 앵그리(레어)" skillId="17000141" />
+    <Icon iconName="Icon_Skills.Vehicle_Beetle_C_Tex" gender="Common" race="Common" class="Common" toolTip="졸린 삐질이(레어)" skillId="17000142" />
+    <Icon iconName="Icon_Skills.Vehicle_Beetle_C_Tex" gender="Common" race="Common" class="Common" toolTip="졸린 삐질이(레어)" skillId="17000143" />
+    <Icon iconName="Icon_Skills.Unicon_Pink_Tex" gender="Common" race="Common" class="Common" toolTip="유럽 핑크 유니콘" skillId="17000144" />
+    <Icon iconName="Icon_Skills.Unicon_Pink_Tex" gender="Common" race="Common" class="Common" toolTip="유럽 핑크 유니콘" skillId="17000145" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_White_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 백사자 소환" skillId="17000146" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_White_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 백사자 소환" skillId="17000147" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Black_01_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 흑사자 소환" skillId="17000148" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Black_01_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 흑사자 소환" skillId="17000149" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Black_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 바하르의 사자 소환" skillId="17000150" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Black_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 바하르의 사자 소환" skillId="17000151" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Bahar_Brown_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 바하르의 사자[브라운] 소환" skillId="17000152" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Bahar_Brown_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 바하르의 사자[브라운] 소환" skillId="17000153" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Bahar_Gold_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 바하르의 사자[골드] 소환" skillId="17000154" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Bahar_Gold_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 바하르의 사자[골드] 소환" skillId="17000155" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Bahar_Silver_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 바하르의 사자[실버] 소환" skillId="17000156" />
+    <Icon iconName="Icon_Skills.Vehicle_Lion_Bahar_Silver_Tex" gender="Common" race="Common" class="Common" toolTip="해방된 바하르의 사자[실버] 소환" skillId="17000157" />
+    <Icon iconName="Icon_Skills.Vehicle_Llama_A_Tex" gender="Common" race="Common" class="Common" toolTip="귀여운 종목걸이 흰색 라마 소환" skillId="17000158" />
+    <Icon iconName="Icon_Skills.Vehicle_Llama_A_Tex" gender="Common" race="Common" class="Common" toolTip="귀여운 종목걸이 흰색 라마 소환" skillId="17000159" />
+    <Icon iconName="Icon_Skills.Vehicle_Llama_B_Tex" gender="Common" race="Common" class="Common" toolTip="멋쟁이 턱시도 넥타이 흰색 라마 소환" skillId="17000160" />
+    <Icon iconName="Icon_Skills.Vehicle_Llama_B_Tex" gender="Common" race="Common" class="Common" toolTip="멋쟁이 턱시도 넥타이 흰색 라마 소환" skillId="17000161" />
+    <Icon iconName="Icon_Skills.Vehicle_Llama_C_Tex" gender="Common" race="Common" class="Common" toolTip="귀여운 종목걸이 갈색 라마 소환" skillId="17000162" />
+    <Icon iconName="Icon_Skills.Vehicle_Llama_C_Tex" gender="Common" race="Common" class="Common" toolTip="귀여운 종목걸이 갈색 라마 소환" skillId="17000163" />
+    <Icon iconName="Icon_Skills.Vehicle_Llama_D_Tex" gender="Common" race="Common" class="Common" toolTip="멋쟁이 턱시도 넥타이 갈색 라마 소환" skillId="17000164" />
+    <Icon iconName="Icon_Skills.Vehicle_Llama_D_Tex" gender="Common" race="Common" class="Common" toolTip="멋쟁이 턱시도 넥타이 갈색 라마 소환" skillId="17000165" />
+    <Icon iconName="Icon_Skills.Vehicle_Cat_A_Tex" gender="Common" race="Common" class="Common" toolTip="턱시도 냥이 (14일)" skillId="17000166" />
+    <Icon iconName="Icon_Skills.Vehicle_Kumas_A_Tex" gender="Common" race="Common" class="Common" toolTip="함박눈 산타 쿠마스 소환" skillId="17000167" />
+    <Icon iconName="Icon_Skills.Vehicle_Snowman_Tex" gender="Common" race="Common" class="Common" toolTip="함박눈 펑펑이 소환" skillId="17000168" />
+    <Icon iconName="Icon_Skills.Vehicle_Pig_Tex" gender="Common" race="Common" class="Common" toolTip="무지개 날개의 아기돼지 꼬미 소환" skillId="17000169" />
+</SkillIconData>

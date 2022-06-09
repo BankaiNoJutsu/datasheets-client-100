@@ -1,0 +1,9 @@
+<ScriptInitData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ScriptInitData ScriptInitData.xsd" xmlns="https://vezel.dev/novadrop/dc/ScriptInitData">
+    <Instance instanceid="1000001" script="Prototyping1" />
+    <Instance instanceid="1000002" script="npc">
+        <Attr id="0" value="100.000000" name="hpratio" valtype="1" />
+        <Attr id="1" value="200.000000" name="mpratio" valtype="1" />
+        <Attr id="2" value="strvar hello world" name="strvar" valtype="4" />
+        <Attr id="3" value="strconfigure hello world &quot; hihi" name="@strconfigure" valtype="4" />
+    </Instance>
+</ScriptInitData>

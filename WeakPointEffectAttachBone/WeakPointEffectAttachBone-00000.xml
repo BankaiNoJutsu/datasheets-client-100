@@ -1,0 +1,29 @@
+<WeakPointEffectAttachBone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/WeakPointEffectAttachBone WeakPointEffectAttachBone.xsd" xmlns="https://vezel.dev/novadrop/dc/WeakPointEffectAttachBone">
+    <EffectAttachBoneInfo>
+        <AttachBone priority="1" name="FxCenter" />
+        <AttachBone priority="2" name="Bip01-Spine3" />
+        <AttachBone priority="3" name="Bip01-Neck" />
+        <AttachBone priority="4" name="Bip01-Spine2" />
+        <AttachBone priority="5" name="Bip01-Spine1" />
+        <AttachBone priority="6" name="Bip01-Spine" />
+        <AttachBone priority="7" name="Dummy_root" />
+    </EffectAttachBoneInfo>
+    <NpcData templateId="1000" huntingZone="950">
+        <AttachBone name="Bip01-L-Hand" />
+        <AttachBone name="Bip01-R-Hand" />
+        <AttachBone name="Bip01-L-Foot" />
+        <AttachBone name="Bip01-R-Foot" />
+        <AttachBone name="Bip01-HeadNub" />
+    </NpcData>
+    <NpcData templateId="3000" huntingZone="950">
+        <AttachBone name="Bip01-L-Hand" />
+        <AttachBone name="Bip01-R-Hand" />
+    </NpcData>
+    <NpcData templateId="4000" huntingZone="950">
+        <AttachBone name="Bip01-L-Hand" />
+        <AttachBone name="Bip01-R-Hand" />
+        <AttachBone name="Bip01-L-Foot" />
+        <AttachBone name="Bip01-R-Foot" />
+        <AttachBone name="Bip01-HeadNub" />
+    </NpcData>
+</WeakPointEffectAttachBone>

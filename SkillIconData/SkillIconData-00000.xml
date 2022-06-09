@@ -1,0 +1,5 @@
+<SkillIconData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SkillIconData SkillIconData.xsd" xmlns="https://vezel.dev/novadrop/dc/SkillIconData">
+    <Icon iconName="Icon_Skills.GuildSkills_CallClan_Tex" gender="Common" race="Common" class="Common" toolTip="집결" skillId="8881001" />
+    <Icon iconName="Icon_Skills.GuildSkills_CcRes2_Tex" gender="Common" race="Common" class="Common" toolTip="결전" skillId="8881002" />
+    <Icon iconName="Icon_Skills.GuildSkills_BaseHP2_Tex" gender="Common" race="Common" class="Common" toolTip="난공불락" skillId="8881003" />
+</SkillIconData>

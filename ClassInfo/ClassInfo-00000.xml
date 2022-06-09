@@ -1,0 +1,103 @@
+<ClassInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ClassInfo ClassInfo.xsd" xmlns="https://vezel.dev/novadrop/dc/ClassInfo">
+    <ClassGaugeInfoData gaugeMax="4" maxGauge="100" minGauge="0">
+        <GaugeInfo className="warrior">
+            <Info infoId="1" gaugeInfo="100" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="80" infoName="@ClassInfo:3" />
+            <Info infoId="3" gaugeInfo="80" infoName="@ClassInfo:4" />
+            <Info infoId="4" gaugeInfo="0" infoName="@ClassInfo:999" />
+        </GaugeInfo>
+        <GaugeInfo className="lancer">
+            <Info infoId="1" gaugeInfo="100" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="100" infoName="@ClassInfo:2" />
+            <Info infoId="3" gaugeInfo="40" infoName="@ClassInfo:3" />
+            <Info infoId="4" gaugeInfo="60" infoName="@ClassInfo:4" />
+        </GaugeInfo>
+        <GaugeInfo className="slayer">
+            <Info infoId="1" gaugeInfo="80" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="60" infoName="@ClassInfo:2" />
+            <Info infoId="3" gaugeInfo="80" infoName="@ClassInfo:3" />
+            <Info infoId="4" gaugeInfo="60" infoName="@ClassInfo:4" />
+        </GaugeInfo>
+        <GaugeInfo className="berserker">
+            <Info infoId="1" gaugeInfo="40" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="20" infoName="@ClassInfo:2" />
+            <Info infoId="3" gaugeInfo="100" infoName="@ClassInfo:3" />
+            <Info infoId="4" gaugeInfo="60" infoName="@ClassInfo:4" />
+        </GaugeInfo>
+        <GaugeInfo className="sorcerer">
+            <Info infoId="1" gaugeInfo="60" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="80" infoName="@ClassInfo:3" />
+            <Info infoId="3" gaugeInfo="80" infoName="@ClassInfo:4" />
+            <Info infoId="4" gaugeInfo="0" infoName="@ClassInfo:999" />
+        </GaugeInfo>
+        <GaugeInfo className="engineer">
+            <Info infoId="1" gaugeInfo="40" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="100" infoName="@ClassInfo:3" />
+            <Info infoId="3" gaugeInfo="60" infoName="@ClassInfo:4" />
+            <Info infoId="4" gaugeInfo="0" infoName="@ClassInfo:999" />
+        </GaugeInfo>
+        <GaugeInfo className="archer">
+            <Info infoId="1" gaugeInfo="20" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="60" infoName="@ClassInfo:3" />
+            <Info infoId="3" gaugeInfo="100" infoName="@ClassInfo:4" />
+            <Info infoId="4" gaugeInfo="0" infoName="@ClassInfo:999" />
+        </GaugeInfo>
+        <GaugeInfo className="priest">
+            <Info infoId="1" gaugeInfo="80" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="40" infoName="@ClassInfo:3" />
+            <Info infoId="3" gaugeInfo="100" infoName="@ClassInfo:5" />
+            <Info infoId="4" gaugeInfo="80" infoName="@ClassInfo:4" />
+        </GaugeInfo>
+        <GaugeInfo className="elementalist">
+            <Info infoId="1" gaugeInfo="100" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="40" infoName="@ClassInfo:3" />
+            <Info infoId="3" gaugeInfo="80" infoName="@ClassInfo:5" />
+            <Info infoId="4" gaugeInfo="100" infoName="@ClassInfo:4" />
+        </GaugeInfo>
+        <GaugeInfo className="soulless">
+            <Info infoId="1" gaugeInfo="60" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="100" infoName="@ClassInfo:3" />
+            <Info infoId="3" gaugeInfo="60" infoName="@ClassInfo:4" />
+        </GaugeInfo>
+        <GaugeInfo className="fighter">
+            <Info infoId="1" gaugeInfo="80" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="80" infoName="@ClassInfo:2" />
+            <Info infoId="3" gaugeInfo="100" infoName="@ClassInfo:3" />
+            <Info infoId="4" gaugeInfo="60" infoName="@ClassInfo:4" />
+        </GaugeInfo>
+        <GaugeInfo className="assassin">
+            <Info infoId="1" gaugeInfo="60" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="80" infoName="@ClassInfo:3" />
+            <Info infoId="3" gaugeInfo="80" infoName="@ClassInfo:4" />
+            <Info infoId="4" gaugeInfo="0" infoName="@ClassInfo:999" />
+        </GaugeInfo>
+        <GaugeInfo className="glaiver">
+            <Info infoId="1" gaugeInfo="80" infoName="@ClassInfo:1" />
+            <Info infoId="2" gaugeInfo="100" infoName="@ClassInfo:3" />
+            <Info infoId="3" gaugeInfo="80" infoName="@ClassInfo:4" />
+            <Info infoId="4" gaugeInfo="0" infoName="@ClassInfo:999" />
+        </GaugeInfo>
+    </ClassGaugeInfoData>
+    <ClassPopupInfo restrictedString="@ClassInfo:100">
+        <Popup id="1" string="@ClassInfo:18" title="@ClassInfo:20" class="soulless">
+            <Button id="1" type="select" string="@ClassInfo:17" gender="female" race="popori" class="soulless" />
+        </Popup>
+        <Popup id="2" string="@ClassInfo:11" title="@ClassInfo:20" class="engineer">
+            <Button id="1" type="select" string="@ClassInfo:14" gender="female" race="castanic" class="engineer" />
+            <Button id="2" type="select" string="@ClassInfo:15" gender="female" race="highelf" class="engineer" />
+            <Button id="3" type="select" string="@ClassInfo:22" gender="female" race="popori" class="engineer" />
+        </Popup>
+        <Popup id="3" string="@ClassInfo:12" title="@ClassInfo:20" class="fighter">
+            <Button id="1" type="select" string="@ClassInfo:23" gender="male" race="human" class="fighter" />
+            <Button id="2" type="select" string="@ClassInfo:22" gender="female" race="popori" class="fighter" />
+            <Button id="3" type="select" string="@ClassInfo:24" gender="male" race="popori" class="fighter" />
+        </Popup>
+        <Popup id="4" string="@ClassInfo:13" title="@ClassInfo:20" class="assassin">
+            <Button id="1" type="select" string="@ClassInfo:17" gender="female" race="popori" class="assassin" />
+        </Popup>
+        <Popup id="5" string="@ClassInfo:21" title="@ClassInfo:20" class="glaiver">
+            <Button id="1" type="select" string="@ClassInfo:14" gender="female" race="castanic" class="glaiver" />
+            <Button id="2" type="select" string="@ClassInfo:22" gender="female" race="popori" class="glaiver" />
+        </Popup>
+    </ClassPopupInfo>
+</ClassInfo>

@@ -1,0 +1,65 @@
+<QuestCompensationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestCompensationData QuestCompensationData.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestCompensationData">
+    <Quest questId="200201">
+        <Compensation>
+            <CompensationType type="normal" exp="376787612" itemBag="allpay" skillPolishingExp="55656" />
+        </Compensation>
+    </Quest>
+    <Quest questId="200202">
+        <Compensation>
+            <CompensationType type="normal" exp="388091240" itemBag="allpay" skillPolishingExp="57327" />
+        </Compensation>
+    </Quest>
+    <Quest questId="200203">
+        <Compensation>
+            <CompensationType type="normal" exp="399394868" itemBag="class" skillPolishingExp="58997">
+                <Item templateId="89293" class="warrior" quantity="1" />
+                <Item templateId="89297" class="warrior" quantity="1" />
+                <Item templateId="89285" class="lancer" quantity="1" />
+                <Item templateId="89289" class="lancer" quantity="1" />
+                <Item templateId="89293" class="slayer" quantity="1" />
+                <Item templateId="89297" class="slayer" quantity="1" />
+                <Item templateId="89285" class="berserker" quantity="1" />
+                <Item templateId="89289" class="berserker" quantity="1" />
+                <Item templateId="89301" class="sorcerer" quantity="1" />
+                <Item templateId="89305" class="sorcerer" quantity="1" />
+                <Item templateId="89293" class="archer" quantity="1" />
+                <Item templateId="89297" class="archer" quantity="1" />
+                <Item templateId="89301" class="priest" quantity="1" />
+                <Item templateId="89305" class="priest" quantity="1" />
+                <Item templateId="89301" class="elementalist" quantity="1" />
+                <Item templateId="89305" class="elementalist" quantity="1" />
+                <Item templateId="89293" class="soulless" quantity="1" />
+                <Item templateId="89297" class="soulless" quantity="1" />
+                <Item templateId="89285" class="engineer" quantity="1" />
+                <Item templateId="89289" class="engineer" quantity="1" />
+                <Item templateId="89285" class="fighter" quantity="1" />
+                <Item templateId="89289" class="fighter" quantity="1" />
+                <Item templateId="89301" class="assassin" quantity="1" />
+                <Item templateId="89305" class="assassin" quantity="1" />
+                <Item templateId="89293" class="glaiver" quantity="1" />
+                <Item templateId="89297" class="glaiver" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="200220">
+        <Compensation>
+            <CompensationType type="normal" exp="183162857" itemBag="allpay" skillPolishingExp="29212">
+                <Item templateId="6553" quantity="7" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="200221">
+        <Compensation>
+            <CompensationType type="normal" exp="183162857" itemBag="allpay" skillPolishingExp="29212">
+                <Item templateId="6563" quantity="7" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="200222">
+        <Compensation>
+            <CompensationType type="normal" exp="183162857" itemBag="allpay" skillPolishingExp="14916">
+                <Item templateId="98676" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+</QuestCompensationData>

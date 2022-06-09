@@ -1,0 +1,17 @@
+<PvpSystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/PvpSystem PvpSystem.xsd" xmlns="https://vezel.dev/novadrop/dc/PvpSystem">
+    <CurseRemoveScroll itemTemplateId="90" removeProbability="0.5" />
+    <CursedDreamPiece value="1.2" itemTemplateId="58" destroyRevision="1" guildWarRevision="1.3" revisionRate="1.1" />
+    <PkConsumptionModTable>
+        <PkConsumptionMod maxLevel="3" minLevel="2" mod="2" />
+        <PkConsumptionMod maxLevel="6" minLevel="4" mod="5" />
+        <PkConsumptionMod maxLevel="60" minLevel="7" mod="10" />
+    </PkConsumptionModTable>
+    <PkConsumptionTable>
+        <PkComsumption maxLevel="10" minLevel="1" count="5" />
+        <PkComsumption maxLevel="20" minLevel="11" count="15" />
+        <PkComsumption maxLevel="30" minLevel="21" count="30" />
+        <PkComsumption maxLevel="40" minLevel="31" count="40" />
+        <PkComsumption maxLevel="60" minLevel="41" count="50" />
+    </PkConsumptionTable>
+    <PkEnvironment pkCompensationRate="1" pkConsumptionItemTemplateId="13" pkDeclareRange="1000" pkSetTime="10000" pkUpkeepTime="60000" />
+</PvpSystem>

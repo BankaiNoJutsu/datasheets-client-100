@@ -1,0 +1,3 @@
+<AccountData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AccountData AccountData.xsd" xmlns="https://vezel.dev/novadrop/dc/AccountData">
+    <Account id="bert" arbiter="bert.bluehole-dev.net:7801" character="버트테스트" ip="teradb" port="7600" />
+</AccountData>

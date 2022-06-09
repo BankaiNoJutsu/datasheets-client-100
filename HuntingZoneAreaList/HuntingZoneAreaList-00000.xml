@@ -1,0 +1,2312 @@
+<HuntingZoneAreaList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/HuntingZoneAreaList HuntingZoneAreaList.xsd" xmlns="https://vezel.dev/novadrop/dc/HuntingZoneAreaList">
+    <Continent id="2000">
+        <Area id="2000" name="FDI_A_P" desc="Floating_Dragon_Island">
+            <HuntingZoneList>
+                <HuntingZone id="2000" name="1지역 메인섬" />
+                <HuntingZone id="2009" name="점프기어" />
+                <HuntingZone id="2010" name="낚시섬1" />
+                <HuntingZone id="2011" name="낚시섬2" />
+                <HuntingZone id="2012" name="낚시섬3" />
+                <HuntingZone id="2020" name="외각섬" />
+                <HuntingZone id="2051" name="점프기어" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="2001" name="FDI_B_P" desc="Floating_Dragon_Island">
+            <HuntingZoneList>
+                <HuntingZone id="2001" name="2지역 메인섬" />
+                <HuntingZone id="2009" name="점프기어" />
+                <HuntingZone id="2010" name="낚시섬" />
+                <HuntingZone id="2020" name="외각섬" />
+                <HuntingZone id="2051" name="점프기어" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="2002" name="FDI_C_P" desc="Floating_Dragon_Island">
+            <HuntingZoneList>
+                <HuntingZone id="2002" name="3지역 메인섬" />
+                <HuntingZone id="2003" name="4지역 메인섬" />
+                <HuntingZone id="2009" name="점프기어" />
+                <HuntingZone id="2013" name="낚시섬4" />
+                <HuntingZone id="2014" name="낚시섬5" />
+                <HuntingZone id="2015" name="낚시섬6" />
+                <HuntingZone id="2020" name="외각섬" />
+                <HuntingZone id="2051" name="점프기어" />
+                <HuntingZone id="2053" name="점프기어" />
+                <HuntingZone id="2055" name="점프기어" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2050">
+        <Area id="2050" name="FDI_Core_P" desc="용계 코어섬">
+            <HuntingZoneList>
+                <HuntingZone id="2050" name="코어섬" />
+                <HuntingZone id="2009" name="점프기어" />
+                <HuntingZone id="2051" name="점프기어" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2052">
+        <Area id="2052" name="FDI_Core_A_P" desc="공격선 착륙지">
+            <HuntingZoneList>
+                <HuntingZone id="2052" name="공격선 착륙지" />
+                <HuntingZone id="2009" name="점프기어" />
+                <HuntingZone id="2053" name="점프기어" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2054">
+        <Area id="2054" name="FDI_Core_B_P" desc="용계 코어섬">
+            <HuntingZoneList>
+                <HuntingZone id="2054" name="코어섬" />
+                <HuntingZone id="2009" name="점프기어" />
+                <HuntingZone id="2055" name="점프기어" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2100">
+        <Area id="2100" name="FDI_A_Quest_P" desc="엑소도르_용족건물">
+            <HuntingZoneList>
+                <HuntingZone id="2100" name="용족 건물" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2101">
+        <Area id="2101" name="FDI_A_Quest_P" desc="엑소도르_유충부화장">
+            <HuntingZoneList>
+                <HuntingZone id="2101" name="유충 부화장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2102">
+        <Area id="2102" name="FDI_Cliff_Prison_P" desc="엑소도르_습곡절벽감옥">
+            <HuntingZoneList>
+                <HuntingZone id="2102" name="엑소도르_습곡절벽감옥" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2103">
+        <Area id="2103" name="FDI_EngineRoom_P" desc="엑소도르_성채기관실">
+            <HuntingZoneList>
+                <HuntingZone id="2103" name="엑소도르_성채기관실" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2501">
+        <Area id="2501" name="Campaign_DeathAncient_P" desc="캠페인_파괴된 고대도시">
+            <HuntingZoneList>
+                <HuntingZone id="2501" name="캠페인1스테이지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2502">
+        <Area id="2502" name="Campaign_ExtremeSnow_P" desc="캠페인_극한의 설원">
+            <HuntingZoneList>
+                <HuntingZone id="2502" name="캠페인2스테이지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2503">
+        <Area id="2503" name="RNC_Durion_P" desc="캠페인_듀리온의 방(퀘스트)">
+            <HuntingZoneList>
+                <HuntingZone id="2503" name="듀리온의 방" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2504">
+        <Area id="2504" name="FDI_EngineRoom_P" desc="캠페인_엑소도르_성채기관실">
+            <HuntingZoneList>
+                <HuntingZone id="2504" name="엑소도르_성채기관실" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2530">
+        <Area id="2530" name="EX_UnionTC_SD_CE_P" desc="신규모드용 허수아비 던전">
+            <HuntingZoneList>
+                <HuntingZone id="2530" name="신규모드용 허수아비 던전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="1">
+        <Area id="1" name="ACN_P" desc="타락의숲/발데론">
+            <HuntingZoneList>
+                <HuntingZone id="1" name="타락의 숲" />
+                <HuntingZone id="58" name="발데론" />
+                <HuntingZone id="201" name="[사회]타락의 숲" />
+                <HuntingZone id="301" name="타락의 숲" />
+                <HuntingZone id="358" name="발데론" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7005">
+        <Area id="32" name="VK_P" desc="벨리카">
+            <HuntingZoneList>
+                <HuntingZone id="63" name="벨리카" />
+                <HuntingZone id="363" name="[정치]벨리카" />
+                <HuntingZone id="628" name="수호자 임무" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="53" name="VK_FA_P" desc="벨리카 외곽">
+            <HuntingZoneList>
+                <HuntingZone id="63" name="벨리카" />
+                <HuntingZone id="363" name="[정치]벨리카" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2">
+        <Area id="201" name="AL_P" desc="알레만시아">
+            <HuntingZoneList>
+                <HuntingZone id="72" name="알레만시아" />
+                <HuntingZone id="372" name="[정치]알레만시아" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="202" name="AL_FB_P" desc="알레만시아 남부">
+            <HuntingZoneList>
+                <HuntingZone id="72" name="알레만시아" />
+                <HuntingZone id="372" name="[정치]알레만시아" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="203" name="HX1_P" desc="알레만시아 서부 관문">
+            <HuntingZoneList>
+                <HuntingZone id="72" name="알레만시아" />
+                <HuntingZone id="372" name="[정치]알레만시아" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="204" name="HX2_P" desc="알레만시아 동부 관문">
+            <HuntingZoneList>
+                <HuntingZone id="72" name="알레만시아" />
+                <HuntingZone id="372" name="[정치]알레만시아" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="518" name="AL_CommandCenter_P" desc="알레만시아 사령관실">
+            <HuntingZoneList>
+                <HuntingZone id="518" name="알레만시아 사령관실" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="519" name="AL_ConsuleRoom_P" desc="알레만시아 집정관실">
+            <HuntingZoneList>
+                <HuntingZone id="519" name="알레만시아 사령관실" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3">
+        <Area id="30" name="KA_P" desc="카이아도르">
+            <HuntingZoneList>
+                <HuntingZone id="84" name="카이아도르" />
+                <HuntingZone id="384" name="[정치]카이아도르" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="55" name="KA_FA_P" desc="카이아도르 외곽">
+            <HuntingZoneList>
+                <HuntingZone id="84" name="카이아도르" />
+                <HuntingZone id="384" name="[정치]카이아도르" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="13">
+        <Area id="7" name="ATW_Death_P" desc="여명의정원/탐험단 보급기지">
+            <HuntingZoneList>
+                <HuntingZone id="13" name="여명의 정원" />
+                <HuntingZone id="64" name="탐험단 보급기지" />
+                <HuntingZone id="213" name="[사회]여명의 정원" />
+                <HuntingZone id="313" name="[정치]여명의 정원" />
+                <HuntingZone id="364" name="탐험단 보급기지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="5">
+        <Area id="599" name="A_Island_P" desc="태고의 섬(파괴 당한 후 마을 포함, 기본 필드)">
+            <HuntingZoneList>
+                <HuntingZone id="599" name="태고의 섬" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9829">
+        <Area id="829" name="A_Island_Boss_P" desc="태고의 섬_세계수 특수공간">
+            <HuntingZoneList>
+                <HuntingZone id="829" name="태고의 섬_세계수 특수공간" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9827">
+        <Area id="827" name="A_Island_02_P" desc="평화 상태 태고의 섬 수호자 마을까지">
+            <HuntingZoneList>
+                <HuntingZone id="827" name="평화 상태 태고의 섬 수호자 마을까지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9828">
+        <Area id="828" name="A_Island_SD_P" desc="수호자 마을 내부 특수공간">
+            <HuntingZoneList>
+                <HuntingZone id="828" name="수호자 마을 내부 특수공간" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="152">
+        <Area id="152" name="VK_War_P" desc="벨리카 도시 공방전">
+            <HuntingZoneList>
+                <HuntingZone id="152" name="과거 벨리카" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="156">
+        <Area id="156" name="BF_NewBattle_P" desc="도시 공방전 외곽">
+            <HuntingZoneList>
+                <HuntingZone id="156" name="과거 벨리카" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2500">
+        <Area id="2500" name="BF_Blockade_P" desc="신규모드 로비">
+            <HuntingZoneList>
+                <HuntingZone id="2500" name="신규모드 로비" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9069">
+        <Area id="469" name="Laknan_Memory_P" desc="시나리오 던전_라크난 성의 기억">
+            <HuntingZoneList>
+                <HuntingZone id="469" name="라크난성_빌리저" />
+                <HuntingZone id="569" name="라크난성_몬스터" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9818">
+        <Area id="0" name="RNC_Experiment_P" desc="바라카 유적터 비밀 실험실">
+            <HuntingZoneList>
+                <HuntingZone id="818" name="818" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7001">
+        <Area id="2" name="ANC_A_P" desc="서부 벌목지/벌목꾼 마을/포효의 침략지 일부">
+            <HuntingZoneList>
+                <HuntingZone id="2" name="서부 벌목지" />
+                <HuntingZone id="60" name="벌목꾼 마을" />
+                <HuntingZone id="202" name="[사회]서부 벌목지" />
+                <HuntingZone id="302" name="[정치]서부 벌목지" />
+                <HuntingZone id="360" name="[정치]벌목꾼 마을" />
+                <HuntingZone id="6" name="포효의 침략지" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="3" name="ANC_B_P" desc="후키안 보호구역/포효의 침략지/영원의 분지">
+            <HuntingZoneList>
+                <HuntingZone id="5" name="후키안 보호구역" />
+                <HuntingZone id="6" name="포효의 침략지" />
+                <HuntingZone id="7" name="영원의 분지" />
+                <HuntingZone id="205" name="[사회]후키안 보호구역" />
+                <HuntingZone id="206" name="[사회]포효의 침략지" />
+                <HuntingZone id="207" name="[사회]영원의 분지" />
+                <HuntingZone id="305" name="[정치]후키안 보호구역" />
+                <HuntingZone id="307" name="[정치]영원의 분지" />
+                <HuntingZone id="306" name="[정치]포효의 침략지" />
+                <HuntingZone id="60" name="벌목꾼 마을" />
+                <HuntingZone id="2" name="서부 벌목지" />
+                <HuntingZone id="623" name="수호자 임무" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="50" name="ANC_C_P" desc="잊혀진 숲/초승달 마을">
+            <HuntingZoneList>
+                <HuntingZone id="3" name="잊혀진 숲" />
+                <HuntingZone id="59" name="초승달 마을" />
+                <HuntingZone id="203" name="[사회]잊혀진 숲" />
+                <HuntingZone id="303" name="[정치]잊혀진 숲" />
+                <HuntingZone id="359" name="[정치]초승달 마을" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="52" name="AX2_P" desc="영원의 분지 (남부)">
+            <HuntingZoneList>
+                <HuntingZone id="7" name="영원의 분지" />
+                <HuntingZone id="207" name="[사회]영원의 분지" />
+                <HuntingZone id="307" name="[정치]영원의 분지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7002">
+        <Area id="8" name="ASE_A_P" desc="광기의 언덕/밤피르의 언덕/파라논 협곡/포폴리온">
+            <HuntingZoneList>
+                <HuntingZone id="15" name="광기의 언덕" />
+                <HuntingZone id="16" name="밤피르의 언덕" />
+                <HuntingZone id="17" name="파라논 협곡" />
+                <HuntingZone id="67" name="포폴리온" />
+                <HuntingZone id="215" name="[사회]광기의 언덕" />
+                <HuntingZone id="216" name="[사회]밤피르의 언덕" />
+                <HuntingZone id="217" name="[사회]파라논 협곡" />
+                <HuntingZone id="315" name="[정치]광기의 언덕" />
+                <HuntingZone id="316" name="[정치]밤피르의 언덕" />
+                <HuntingZone id="317" name="[정치]파라논 협곡" />
+                <HuntingZone id="367" name="[정치]포폴리온" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="9" name="ASE_B_P" desc="달의 호수/포라 엘리누">
+            <HuntingZoneList>
+                <HuntingZone id="23" name="달의 호수" />
+                <HuntingZone id="68" name="포라 엘리누" />
+                <HuntingZone id="223" name="[사회]달의 호수" />
+                <HuntingZone id="323" name="[정치]달의 호수" />
+                <HuntingZone id="368" name="[정치]포라 엘리누" />
+                <HuntingZone id="22" name="마녀의 성" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="35" name="ASE_ENC_P" desc="마녀의 성">
+            <HuntingZoneList>
+                <HuntingZone id="22" name="마녀의 성" />
+                <HuntingZone id="222" name="[사회]마녀의 성" />
+                <HuntingZone id="322" name="[정치]마녀의 성" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7003">
+        <Area id="10" name="ASW_A_P" desc="잊혀진 거인의 도시/망자의 토굴 (포함)">
+            <HuntingZoneList>
+                <HuntingZone id="18" name="잊혀진 거인의 도시" />
+                <HuntingZone id="218" name="[사회]잊혀진 거인의 도시" />
+                <HuntingZone id="318" name="[정치]잊혀진 거인의 도시" />
+                <HuntingZone id="20" name="망자의 토굴" />
+                <HuntingZone id="220" name="[사회]망자의 토굴" />
+                <HuntingZone id="320" name="[정치]망자의 토굴" />
+                <HuntingZone id="630" name="비행 비전투" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="37" name="ASW_MOD_P" desc="망자의 토굴">
+            <HuntingZoneList>
+                <HuntingZone id="20" name="망자의 토굴" />
+                <HuntingZone id="220" name="[사회]망자의 토굴" />
+                <HuntingZone id="320" name="[정치]망자의 토굴" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="11" name="ASW_B_P" desc="바실리스크 둥지/리카노르 평야/선인장 마을">
+            <HuntingZoneList>
+                <HuntingZone id="21" name="바실리스크 둥지" />
+                <HuntingZone id="19" name="리카노르 평야" />
+                <HuntingZone id="65" name="선인장 마을" />
+                <HuntingZone id="221" name="[사회]바실리스크 둥지" />
+                <HuntingZone id="219" name="[사회]리카노르 평야" />
+                <HuntingZone id="321" name="[정치]바실리스크 둥지" />
+                <HuntingZone id="319" name="[정치]리카노르 평야" />
+                <HuntingZone id="365" name="[정치]선인장 마을" />
+                <HuntingZone id="630" name="비행 비전투" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="12" name="ASW_C_P" desc="황금의 길/사막의 쉼터/사교도의 신전 (입구)">
+            <HuntingZoneList>
+                <HuntingZone id="24" name="황금의 길" />
+                <HuntingZone id="66" name="사막의 쉼터" />
+                <HuntingZone id="25" name="사교도의 신전" />
+                <HuntingZone id="224" name="[사회]황금의 길" />
+                <HuntingZone id="225" name="[사회]사교도의 신전" />
+                <HuntingZone id="324" name="[정치]황금의 길" />
+                <HuntingZone id="325" name="[정치]사교도의 신전" />
+                <HuntingZone id="366" name="[정치]사막의 쉼터" />
+                <HuntingZone id="626" name="수호자 임무" />
+                <HuntingZone id="630" name="비행 비전투" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="43" name="ASW_TOC_P" desc="사교도의 신전">
+            <HuntingZoneList>
+                <HuntingZone id="25" name="사교도의 신전" />
+                <HuntingZone id="225" name="[사회]사교도의 신전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7004">
+        <Area id="20005" name="AEN_B_P" desc="탐욕의 미궁 (입구)/식인종 소굴 (입구)/케스타니카">
+            <HuntingZoneList>
+                <HuntingZone id="8" name="식인종 소굴 (입구)" />
+                <HuntingZone id="9" name="탐욕의 미궁 (입구)" />
+                <HuntingZone id="61" name="케스타니카" />
+                <HuntingZone id="209" name="[사회]탐욕의 미궁 (입구)" />
+                <HuntingZone id="309" name="[정치]탐욕의 미궁 (입구)" />
+                <HuntingZone id="361" name="[정치]케스타니카" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="33" name="AEN_CIC_P" desc="식인종 소굴">
+            <HuntingZoneList>
+                <HuntingZone id="8" name="식인종 소굴" />
+                <HuntingZone id="208" name="[사회]식인종 소굴" />
+                <HuntingZone id="308" name="[정치]식인종 소굴" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="11005" name="AEN_B_P" desc="뱀의 섬">
+            <HuntingZoneList>
+                <HuntingZone id="10" name="뱀의 섬" />
+                <HuntingZone id="210" name="[사회]뱀의 섬" />
+                <HuntingZone id="310" name="[정치]뱀의 섬" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="6" name="AEN_C_P" desc="거친 항구/절망의 섬/해적 소굴 (지상)">
+            <HuntingZoneList>
+                <HuntingZone id="62" name="거친 항구" />
+                <HuntingZone id="12" name="절망의 섬" />
+                <HuntingZone id="11" name="해적 소굴" />
+                <HuntingZone id="212" name="[사회]절망의 섬" />
+                <HuntingZone id="211" name="[사회]해적 소굴" />
+                <HuntingZone id="312" name="[정치]절망의 섬" />
+                <HuntingZone id="311" name="[정치]해적 소굴" />
+                <HuntingZone id="362" name="[정치]거친 항구" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="38" name="AEN_PIC_P" desc="해적 소굴 (지하)">
+            <HuntingZoneList>
+                <HuntingZone id="11" name="해적 소굴" />
+                <HuntingZone id="211" name="[사회]해적 소굴" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="29" name="AEN_GDT_P" desc="탐욕의 미궁">
+            <HuntingZoneList>
+                <HuntingZone id="9" name="탐욕의 미궁" />
+                <HuntingZone id="209" name="[사회]탐욕의 미궁" />
+                <HuntingZone id="309" name="[정치]탐욕의 미궁" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="4" name="AEN_A_P" desc="폭염의 산맥">
+            <HuntingZoneList>
+                <HuntingZone id="4" name="폭염의 산맥" />
+                <HuntingZone id="204" name="[사회]폭염의 산맥" />
+                <HuntingZone id="304" name="[정치]폭염의 산맥" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7011">
+        <Area id="13" name="HNC_A_P" desc="생명의 계곡/트랄리온">
+            <HuntingZoneList>
+                <HuntingZone id="26" name="생명의 계곡" />
+                <HuntingZone id="69" name="트랄리온" />
+                <HuntingZone id="226" name="[사회]생명의 계곡" />
+                <HuntingZone id="326" name="[정치]생명의 계곡" />
+                <HuntingZone id="369" name="[정치]트랄리온" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="14" name="HNC_B_P" desc="오염된 숲/고대의 숲/트리아/에세니아 구릉지대 (일부)">
+            <HuntingZoneList>
+                <HuntingZone id="28" name="오염된 숲" />
+                <HuntingZone id="29" name="고대의 숲" />
+                <HuntingZone id="70" name="트리아" />
+                <HuntingZone id="228" name="[사회]오염된 숲" />
+                <HuntingZone id="229" name="[사회]고대의 숲" />
+                <HuntingZone id="328" name="[정치]오염된 숲" />
+                <HuntingZone id="329" name="[정치]고대의 숲" />
+                <HuntingZone id="370" name="[정치]트리아" />
+                <HuntingZone id="27" name="에세니아 구릉지대" />
+                <HuntingZone id="227" name="[사회]에세니아 구릉지대" />
+                <HuntingZone id="327" name="[정치]에세니아 구릉지대" />
+                <HuntingZone id="622" name="수호자 임무" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="51" name="HNC_C_P" desc="에세니아 구릉지대">
+            <HuntingZoneList>
+                <HuntingZone id="27" name="에세니아 구릉지대" />
+                <HuntingZone id="227" name="[사회]에세니아 구릉지대" />
+                <HuntingZone id="327" name="[정치]에세니아 구릉지대" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7012">
+        <Area id="16" name="HWC_A_P" desc="폭풍의 해안">
+            <HuntingZoneList>
+                <HuntingZone id="31" name="폭풍의 해안" />
+                <HuntingZone id="231" name="[사회]폭풍의 해안" />
+                <HuntingZone id="331" name="[정치]폭풍의 해안" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="44" name="HWC_C_P" desc="얼음평원">
+            <HuntingZoneList>
+                <HuntingZone id="34" name="얼음 평원" />
+                <HuntingZone id="83" name="콜드락" />
+                <HuntingZone id="234" name="[사회]얼음 평원" />
+                <HuntingZone id="334" name="[정치]얼음 평원" />
+                <HuntingZone id="383" name="[아카룸]콜드락" />
+                <HuntingZone id="627" name="[수호자 임무]보급마차 호위" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="34" name="HWC_HAC_P" desc="악령의 고성">
+            <HuntingZoneList>
+                <HuntingZone id="33" name="악령의 고성" />
+                <HuntingZone id="233" name="[사회]악령의 고성" />
+                <HuntingZone id="333" name="[정치]악령의 고성" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="17" name="HWC_B_P" desc="폭군의 고원/아카룸">
+            <HuntingZoneList>
+                <HuntingZone id="32" name="폭군의 고원" />
+                <HuntingZone id="73" name="아카룸" />
+                <HuntingZone id="232" name="[사회]폭군의 고원" />
+                <HuntingZone id="234" name="[사회]얼음 평원" />
+                <HuntingZone id="332" name="[정치]폭군의 고원" />
+                <HuntingZone id="334" name="[정치]얼음 평원" />
+                <HuntingZone id="373" name="[정치]아카룸" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7013">
+        <Area id="42" name="HEC_TOD_P" desc="다곤의 신전">
+            <HuntingZoneList>
+                <HuntingZone id="42" name="다곤의 신전" />
+                <HuntingZone id="242" name="[사회]다곤의 신전" />
+                <HuntingZone id="342" name="[정치]다곤의 신전" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="20" name="HEC_A_P" desc="미아 아라크네아 (입구)">
+            <HuntingZoneList>
+                <HuntingZone id="39" name="미아 아라크네아" />
+                <HuntingZone id="239" name="[사회]미아 아라크네아" />
+                <HuntingZone id="339" name="[정치]미아 아라크네아" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="39" name="HEC_MIA_P" desc="미아 아라크네아">
+            <HuntingZoneList>
+                <HuntingZone id="39" name="미아 아라크네아" />
+                <HuntingZone id="239" name="[사회]미아 아라크네아" />
+                <HuntingZone id="339" name="[정치]미아 아라크네아" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="48" name="HEC_C_P" desc="다곤의 신전 (입구)">
+            <HuntingZoneList>
+                <HuntingZone id="42" name="다곤의 신전" />
+                <HuntingZone id="242" name="[사회]다곤의 신전" />
+                <HuntingZone id="342" name="[정치]다곤의 신전" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="47" name="HEC_B_P" desc="야만의 계곡">
+            <HuntingZoneList>
+                <HuntingZone id="41" name="야만의 계곡" />
+                <HuntingZone id="241" name="[사회]야만의 계곡" />
+                <HuntingZone id="341" name="[정치]야만의 계곡" />
+                <HuntingZone id="624" name="수호자 임무" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="75" name="HEC_A_P" desc="격리 구역/개척민 마을/ (야만의 계곡)">
+            <HuntingZoneList>
+                <HuntingZone id="40" name="격리 구역" />
+                <HuntingZone id="75" name="개척민 마을" />
+                <HuntingZone id="41" name="야만의 계곡" />
+                <HuntingZone id="241" name="[사회]야만의 계곡" />
+                <HuntingZone id="240" name="[사회]격리 구역" />
+                <HuntingZone id="341" name="[정치]야만의 계곡" />
+                <HuntingZone id="340" name="[정치]격리 구역" />
+                <HuntingZone id="375" name="[정치]개척민 마을" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7014">
+        <Area id="36" name="HSC_DOD_P" desc="배반의 암굴">
+            <HuntingZoneList>
+                <HuntingZone id="37" name="배반의 암굴" />
+                <HuntingZone id="237" name="[사회]배반의 암굴" />
+                <HuntingZone id="337" name="[정치]배반의 암굴" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="19" name="HSC_B_P" desc="고대 전쟁의 폐허/배반의 암굴 (지상A)">
+            <HuntingZoneList>
+                <HuntingZone id="38" name="고대 전쟁의 폐허" />
+                <HuntingZone id="37" name="배반의 암굴" />
+                <HuntingZone id="238" name="[사회]고대 전쟁의 폐허" />
+                <HuntingZone id="237" name="[사회]배반의 암굴" />
+                <HuntingZone id="338" name="[정치]고대 전쟁의 폐허" />
+                <HuntingZone id="337" name="[정치]배반의 암굴" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="18" name="HSC_A_P" desc="고룡의 협곡/추방자의 계곡/뉴 엘레논/배반의 암굴 (지상A)">
+            <HuntingZoneList>
+                <HuntingZone id="35" name="고룡의 협곡" />
+                <HuntingZone id="36" name="추방자의 계곡" />
+                <HuntingZone id="74" name="뉴 엘레논" />
+                <HuntingZone id="37" name="배반의 암굴" />
+                <HuntingZone id="235" name="[사회]약탈의 황야" />
+                <HuntingZone id="236" name="[사회]추방자의 계곡" />
+                <HuntingZone id="237" name="[사회]배반의 암굴" />
+                <HuntingZone id="335" name="[정치]고룡의 협곡" />
+                <HuntingZone id="336" name="[정치]추방자의 계곡" />
+                <HuntingZone id="337" name="[정치]배반의 암굴" />
+                <HuntingZone id="374" name="[정치]뉴엘레논" />
+                <HuntingZone id="621" name="수호자임무" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7015">
+        <Area id="15" name="HEN_P" desc="태양의 정원/아지스 연구소">
+            <HuntingZoneList>
+                <HuntingZone id="30" name="태양의 정원" />
+                <HuntingZone id="71" name="아지스 연구소" />
+                <HuntingZone id="230" name="[사회]태양의 정원" />
+                <HuntingZone id="330" name="[정치]태양의 정원" />
+                <HuntingZone id="371" name="[정치]아지스 연구소" />
+                <HuntingZone id="620" name="수호자임무" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7021">
+        <Area id="26" name="SSC_A_P" desc="요정의 숲/그림자 숲/요정의 안식처">
+            <HuntingZoneList>
+                <HuntingZone id="54" name="요정의 숲" />
+                <HuntingZone id="55" name="그림자의 숲" />
+                <HuntingZone id="81" name="요정의 안식처" />
+                <HuntingZone id="254" name="[사회]요정의 숲" />
+                <HuntingZone id="255" name="[사회]그림자의 숲" />
+                <HuntingZone id="354" name="[정치]요정의 숲" />
+                <HuntingZone id="355" name="[정치]그림자의 숲" />
+                <HuntingZone id="381" name="[정치]요정의 안식처" />
+                <HuntingZone id="625" name="수호자 임무" />
+                <HuntingZone id="631" name="비행 비전투 컨텐츠" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="27" name="SSC_B_P" desc="어둠의 숲/아메나 콰틀라">
+            <HuntingZoneList>
+                <HuntingZone id="56" name="어둠의 숲" />
+                <HuntingZone id="57" name="아메나 콰틀라" />
+                <HuntingZone id="256" name="[사회]어둠의 숲" />
+                <HuntingZone id="257" name="[사회]아메나 콰틀라" />
+                <HuntingZone id="356" name="[정치]어둠의 숲" />
+                <HuntingZone id="357" name="[정치]아메나 콰틀라" />
+                <HuntingZone id="631" name="비행 비전투 컨텐츠" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="28" name="SX3_P" desc="드래곤 폴">
+            <HuntingZoneList>
+                <HuntingZone id="80" name="드래곤 폴" />
+                <HuntingZone id="56" name="어둠의 숲" />
+                <HuntingZone id="380" name="[정치]드래곤 폴" />
+                <HuntingZone id="356" name="[정치]어둠의 숲" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7022">
+        <Area id="1025" name="SEC_P" desc="아카디아 협곡/잊혀진 자들의 설원/희망의 마을">
+            <HuntingZoneList>
+                <HuntingZone id="51" name="아카디아 협곡" />
+                <HuntingZone id="52" name="잊혀진 자들의 설원" />
+                <HuntingZone id="79" name="희망의 마을" />
+                <HuntingZone id="251" name="[사회]아카디아 협곡" />
+                <HuntingZone id="252" name="[사회]잊혀진 자들의 설원" />
+                <HuntingZone id="253" name="[사회]잊혀진 자들의 설원 (공포의 미궁 입구)" />
+                <HuntingZone id="351" name="[정치]아카디아 협곡" />
+                <HuntingZone id="352" name="[정치]잊혀진 자들의 설원" />
+                <HuntingZone id="379" name="[정치]희망의 마을" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7023">
+        <Area id="2302" name="SWC_P" desc="45 청공의 계곡/ 46 세 개의 탑 (지상)/ 47 티르카이 숲/ 77 티르카이 보급소">
+            <HuntingZoneList>
+                <HuntingZone id="45" name="청공의 계곡" />
+                <HuntingZone id="46" name="세 개의 탑 (지상)" />
+                <HuntingZone id="47" name="티르카이 숲" />
+                <HuntingZone id="77" name="티르카이 보급소" />
+                <HuntingZone id="245" name="[사회]청공의 계곡" />
+                <HuntingZone id="246" name="[사회]세 개의 탑 (지상)" />
+                <HuntingZone id="247" name="[사회]티르카이 숲" />
+                <HuntingZone id="345" name="[정치]청공의 계곡" />
+                <HuntingZone id="346" name="[정치]세 개의 탑 (지상)" />
+                <HuntingZone id="347" name="[정치]티르카이 숲" />
+                <HuntingZone id="377" name="[정치]티르카이 보급소" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="2302" name="SWC_P" desc="47 티르카이 숲/77 티르카이 보급소">
+            <HuntingZoneList>
+                <HuntingZone id="47" name="티르카이 숲" />
+                <HuntingZone id="77" name="티르카이 보급소" />
+                <HuntingZone id="247" name="[사회]티르카이 숲" />
+                <HuntingZone id="347" name="[정치]티르카이 숲" />
+                <HuntingZone id="377" name="[정치]티르카이 보급소" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="2302" name="SWC_P" desc="45 청공의 계곡/ 77 티르카이 보급소">
+            <HuntingZoneList>
+                <HuntingZone id="45" name="청공의 계곡" />
+                <HuntingZone id="77" name="티르카이 보급소" />
+                <HuntingZone id="245" name="[사회]청공의 계곡" />
+                <HuntingZone id="345" name="[정치]청공의 계곡" />
+                <HuntingZone id="377" name="[정치]티르카이 보급소" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="2302" name="SWC_P" desc="46 세 개의 탑 (지상)">
+            <HuntingZoneList>
+                <HuntingZone id="46" name="세 개의 탑 (지상)" />
+                <HuntingZone id="246" name="[사회]세 개의 탑 (지상)" />
+                <HuntingZone id="346" name="[정치]세 개의 탑 (지상)" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="45" name="SWC_TES_P" desc="46 세 개의 탑">
+            <HuntingZoneList>
+                <HuntingZone id="46" name="세 개의 탑" />
+                <HuntingZone id="246" name="[사회]세 개의 탑" />
+                <HuntingZone id="346" name="[정치]세 개의 탑" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7031">
+        <Area id="60" name="RWS_P" desc="카마이족 군락지">
+            <HuntingZoneList>
+                <HuntingZone id="172" name="카마이족 군락지" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="61" name="RNW_A_P" desc="바라카니아 구릉지">
+            <HuntingZoneList>
+                <HuntingZone id="182" name="바라카니아 구릉지" />
+                <HuntingZone id="1022" name="검은 틈" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="62" name="RNW_B_P" desc="바라카 유적터">
+            <HuntingZoneList>
+                <HuntingZone id="181" name="바라카 유적터" />
+                <HuntingZone id="1022" name="검은 틈" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="63" name="RNW_C_P" desc="바라카마을">
+            <HuntingZoneList>
+                <HuntingZone id="183" name="바라카마을" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="64" name="RNC_P" desc="제국의 땅">
+            <HuntingZoneList>
+                <HuntingZone id="191" name="제국의 땅" />
+                <HuntingZone id="1022" name="검은 틈" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="7087">
+        <Area id="23" name="EX_ASE_SD_P" desc="불타는 포라 엘리누">
+            <HuntingZoneList>
+                <HuntingZone id="87" name="불타는 포라 엘리누" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="8001">
+        <Area id="21" name="SNC_A_P" desc="아르고네아/칸스트리아">
+            <HuntingZoneList>
+                <HuntingZone id="49" name="아르고네아" />
+                <HuntingZone id="249" name="[사회]아르고네아" />
+                <HuntingZone id="349" name="[정치]아르고네아" />
+                <HuntingZone id="76" name="칸스트리아" />
+                <HuntingZone id="376" name="[정치]칸스트리아" />
+                <HuntingZone id="1022" name="검은 틈" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="22" name="SNC_B_P" desc="카르고네아">
+            <HuntingZoneList>
+                <HuntingZone id="50" name="카르고네아" />
+                <HuntingZone id="85" name="다반의 성지" />
+                <HuntingZone id="250" name="[사회]아르곤의 마을" />
+                <HuntingZone id="350" name="[정치]아르곤의 마을" />
+                <HuntingZone id="385" name="[정치]다반의 성지" />
+                <HuntingZone id="1022" name="검은 틈" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="24" name="SWN_P" desc="카노비아 전선/연합군 지휘소">
+            <HuntingZoneList>
+                <HuntingZone id="48" name="카노비아 전선" />
+                <HuntingZone id="78" name="연합군 지휘소" />
+                <HuntingZone id="248" name="[사회]카노비아 전선" />
+                <HuntingZone id="348" name="[정치]카노비아 전선" />
+                <HuntingZone id="378" name="[정치]연합군 지휘소" />
+                <HuntingZone id="1022" name="검은 틈" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="40" name="SEC_JOK_P" desc="킬리언의감옥">
+            <HuntingZoneList>
+                <HuntingZone id="53" name="킬리언의 감옥" />
+                <HuntingZone id="253" name="[사회]킬리언의 감옥" />
+                <HuntingZone id="353" name="[정치]킬리언의 감옥" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="41" name="SNC_BLC_P" desc="검은 동굴">
+            <HuntingZoneList>
+                <HuntingZone id="44" name="검은 동굴" />
+                <HuntingZone id="244" name="[사회]검은 동굴" />
+                <HuntingZone id="344" name="[정치]검은 동굴" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="528" name="KA_CommandCenter_P" desc="카이아도르 사령관실">
+            <HuntingZoneList>
+                <HuntingZone id="528" name="카이아 도르 사령관실" />
+            </HuntingZoneList>
+        </Area>
+        <Area id="529" name="KA_ConsuleRoom_P" desc="카이아도르 집정관실">
+            <HuntingZoneList>
+                <HuntingZone id="529" name="카이아도르 집정령관실" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="102">
+        <Area id="102" name="BF_SnowBattle_P" desc="겨울이벤트 눈싸움전장">
+            <HuntingZoneList>
+                <HuntingZone id="102" name="겨울이벤트 눈싸움전장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="103">
+        <Area id="103" name="BF_SnowBattleEveryDay_P" desc="상시오픈 눈싸움전장">
+            <HuntingZoneList>
+                <HuntingZone id="103" name="상시오픈 눈싸움전장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="110">
+        <Area id="110" name="BF_FreeFight_P" desc="지하의 격전장">
+            <HuntingZoneList>
+                <HuntingZone id="110" name="지하의 격전장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="111">
+        <Area id="111" name="BF_01_P" desc="거점 점령전 맵1">
+            <HuntingZoneList>
+                <HuntingZone id="111" name="거점 점령전 맵1" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="112">
+        <Area id="112" name="BF_02_P" desc="거점 점령전 맵2">
+            <HuntingZoneList>
+                <HuntingZone id="112" name="거점 점령전 맵2" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="113">
+        <Area id="113" name="BF_5x5_P" desc="거점 점령전 맵2">
+            <HuntingZoneList>
+                <HuntingZone id="113" name="5:5맵" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="115">
+        <Area id="115" name="BF_3x3_P" desc="3:3 투지의 전장">
+            <HuntingZoneList>
+                <HuntingZone id="115" name="3:3 투지의 전장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="116">
+        <Area id="116" name="BF_RainFire_P" desc="포화의 전장">
+            <HuntingZoneList>
+                <HuntingZone id="116" name="포화의 전장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="117">
+        <Area id="117" name="BF_KumasWorld_P" desc="쿠마스 월드">
+            <HuntingZoneList>
+                <HuntingZone id="117" name="쿠마스 월드" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="118">
+        <Area id="118" name="BF_KumasWorld_R_P" desc="쿠마스의 놀이터">
+            <HuntingZoneList>
+                <HuntingZone id="118" name="쿠마스의 놀이터" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="1200">
+        <Area id="1200" name="BF_Honor_P" desc="해안 점령지">
+            <HuntingZoneList>
+                <HuntingZone id="1200" name="해안 점령지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="8999">
+        <Area id="409" name="Cut_Velic_P" desc="벨릭의 신전 (벨리카 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="409" name="벨릭의 신전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9001">
+        <Area id="401" name="VK_SD_P" desc="사마엘의 관저 (벨리카 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="401" name="사마엘의 관저" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9002">
+        <Area id="402" name="HNC_A_P" desc="생명의 샘 (생명의 계곡 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="402" name="생명의 샘" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9003">
+        <Area id="403" name="AEN_A_P" desc="폭염의 산맥 심층부 (폭염의 산맥 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="403" name="폭염의 산맥 심층부" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9004">
+        <Area id="404" name="SEC_P" desc="미사용">
+            <HuntingZoneList>
+                <HuntingZone id="404" name="아카디아 협곡 퀘스트 특수공간" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9005">
+        <Area id="405" name="HSC_DOD_P" desc="미사용">
+            <HuntingZoneList>
+                <HuntingZone id="405" name="속박의 암굴 (추방자의 탑 특수공간)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9006">
+        <Area id="406" name="SEC_JOK_P" desc="미사용">
+            <HuntingZoneList>
+                <HuntingZone id="406" name="공포의 미궁 (악몽의 왕좌)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9007">
+        <Area id="407" name="HEC_MIA_P" desc="툴사의 군단 지휘소 (미아 아라크네아 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="407" name="툴사의 군단 지휘소" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9008">
+        <Area id="408" name="AL_A_Quest_P" desc="말라키의 실험실 (가면을 벗겨라2)">
+            <HuntingZoneList>
+                <HuntingZone id="408" name="말라키의 실험실 (가면을 벗겨라2)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9010">
+        <Area id="410" name="KA_CommandCenter_P" desc="카이아도르 사령부 (카이아도르 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="410" name="카이아도르 사령부" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9011">
+        <Area id="411" name="SEC_Forge_P" desc="철기장의 작업실 (희망의 마을)">
+            <HuntingZoneList>
+                <HuntingZone id="411" name="철기장의 작업실" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9012">
+        <Area id="412" name="SWC_SD_03_P" desc="T4미션특수공간 (세 개의 탑)">
+            <HuntingZoneList>
+                <HuntingZone id="412" name="T4미션특수공간 (세 개의 탑)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9013">
+        <Area id="413" name="SNC_SD_P" desc="T4미션특수공간 (아르고네아)">
+            <HuntingZoneList>
+                <HuntingZone id="413" name="T4미션특수공간 (아르고네아)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9014">
+        <Area id="414" name="SWN_SD_P" desc="T4미션특수공간 (카노비아 전선)">
+            <HuntingZoneList>
+                <HuntingZone id="414" name="T4미션특수공간 (카노비아 전선)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9017">
+        <Area id="417" name="HEN_SD_P" desc="일일퀘스트01 (태양의 정원)">
+            <HuntingZoneList>
+                <HuntingZone id="417" name="일일퀘스트01 (태양의 정원)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9018">
+        <Area id="418" name="SWN_SD_02_P" desc="일일퀘스트01 (카노비아)">
+            <HuntingZoneList>
+                <HuntingZone id="418" name="일일퀘스트01 (카노비아)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9019">
+        <Area id="419" name="AX2_P" desc="미스테리움 연구소 앞마당 (영원의 분지 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="419" name="미스테리움 연구소 앞마당" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9020">
+        <Area id="420" name="ANC_A_SD_P" desc="비밀기지 후문 (포효의 침략지 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="420" name="비밀기지 후문" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9021">
+        <Area id="421" name="ASW_A_Quest_Kubel_P" desc="숨겨진 토굴 (망자의 토굴 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="421" name="숨겨진 토굴" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9022">
+        <Area id="422" name="ASW_A_Quest_02_P" desc="고통의 전당 (잊혀진 거인 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="422" name="고통의 전당" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9023">
+        <Area id="423" name="ASW_A_Quest_P" desc="쿠트마슈크의 은신처 (탐욕의 미궁 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="423" name="쿠트마슈크의 은신처" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9024">
+        <Area id="424" name="AEN_C_SD_P" desc="버려진 회당 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="424" name="버려진 회당" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9821">
+        <Area id="821" name="RNC_Durion_P" desc="듀리온의 방(퀘스트)">
+            <HuntingZoneList>
+                <HuntingZone id="821" name="듀리온의 방" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9822">
+        <Area id="822" name="EX_RNW_SecretCamp_P" desc="아크데바 아지트(퀘스트)">
+            <HuntingZoneList>
+                <HuntingZone id="822" name="아크데바 아지트" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9814">
+        <Area id="814" name="EX_RNW_Arcana_P" desc="아르카나 그나이아(퀘스트)">
+            <HuntingZoneList>
+                <HuntingZone id="814" name="아르카나 그나이아" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9823">
+        <Area id="823" name="Airship_Quest_P" desc="엘카이아호(퀘스트)">
+            <HuntingZoneList>
+                <HuntingZone id="823" name="엘카이아호" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9826">
+        <Area id="826" name="RNC_Durion_Room_P" desc="듀리온의방(퀘스트)">
+            <HuntingZoneList>
+                <HuntingZone id="826" name="듀리온의방" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9724">
+        <Area id="724" name="AEN_C_SD_P" desc="버려진 회당 (상급) (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="724" name="버려진 회당 (상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9025">
+        <Area id="425" name="HEN_SD_02_P" desc="발더의 신전 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="425" name="발더의 신전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9725">
+        <Area id="725" name="HEN_SD_02_P" desc="발더의 신전 (상급) (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="725" name="발더의 신전 (상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9026">
+        <Area id="426" name="SWC_SD_02_P" desc="아르곤 멜디티아 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="426" name="아르곤 멜디티아" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9726">
+        <Area id="726" name="SWC_SD_02_P" desc="아르곤 멜디티아 (상급) (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="726" name="아르곤 멜디티아 (상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9727">
+        <Area id="727" name="SWC_SD_02_P" desc="샨드라 마나이아 (하급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="727" name="샨드라 마나이아 (하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9027">
+        <Area id="427" name="SWC_SD_02_P" desc="샨드라 마나이아 (상급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="427" name="샨드라 마나이아 (상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9028">
+        <Area id="428" name="AL_A_Quest_P" desc="말라키의 실험실 (T4.1 소인던 용)">
+            <HuntingZoneList>
+                <HuntingZone id="428" name="말라키의 실험실 (T4.1 소인던 용)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9036">
+        <Area id="436" name="ATW_A_SD_P" desc="카라스챠 소환지 (여명의 정원 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="436" name="카라스챠 소환지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9037">
+        <Area id="437" name="ATW_Death_P" desc="검은틈 입구 (여명의 정원 일반)">
+            <HuntingZoneList>
+                <HuntingZone id="437" name="검은틈 입구" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9038">
+        <Area id="438" name="AEN_C_Quest_P" desc="미지의 정글 (절망의 섬 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="438" name="미지의 정글" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9039">
+        <Area id="439" name="ASE_A_P" desc="호송대 습격지 (광기의 언덕 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="439" name="호송대 습격지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9040">
+        <Area id="440" name="VK_DQ_SD_01_P" desc="벨리카 광장 (일일퀘스트)">
+            <HuntingZoneList>
+                <HuntingZone id="440" name="벨리카 광장 (일일퀘스트)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9041">
+        <Area id="441" name="VK_DQ_SD_03_P" desc="벨리카 동문 (일일퀘스트)">
+            <HuntingZoneList>
+                <HuntingZone id="441" name="벨리카 동문 (일일퀘스트)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9042">
+        <Area id="442" name="VK_DQ_SD_02_P" desc="벨리카 사령부 (일일퀘스트)">
+            <HuntingZoneList>
+                <HuntingZone id="442" name="벨리카 사령부 (일일퀘스트)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9043">
+        <Area id="443" name="EX_VK_SD1_T42_P" desc="마법사의 요새 (상급)">
+            <HuntingZoneList>
+                <HuntingZone id="443" name="마법사의 요새 (상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9643">
+        <Area id="643" name="EX_VK_SD1_T42_P" desc="마법사의 요새 Lv.65">
+            <HuntingZoneList>
+                <HuntingZone id="643" name="마법사의 요새 Lv.65" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9743">
+        <Area id="743" name="EX_VK_SD1_T42_P" desc="마법사의 요새 (하급)">
+            <HuntingZoneList>
+                <HuntingZone id="743" name="마법사의 요새 (하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9046">
+        <Area id="446" name="EX_HSC_A_T42_03_P" desc="T4.2_소규모인던(3)_골렘(가칭) ">
+            <HuntingZoneList>
+                <HuntingZone id="446" name="T4.2_소규모인던(3)_골렘(가칭) " />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9047">
+        <Area id="447" name="EX_Halloween_T42_P" desc="T4.2_할로윈 인던(가칭) ">
+            <HuntingZoneList>
+                <HuntingZone id="447" name="T4.2_할로윈 인던(가칭) " />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9050">
+        <Area id="450" name="EX01_Kamai_SD_P" desc="탐욕의 카슈바르 협곡">
+            <HuntingZoneList>
+                <HuntingZone id="450" name="탐욕의 카슈바르 협곡" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9750">
+        <Area id="750" name="EX01_Kamai_SD_P" desc="카슈바르 협곡">
+            <HuntingZoneList>
+                <HuntingZone id="750" name="카슈바르 협곡" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9061">
+        <Area id="461" name="HSC_B_Quest_P" desc="거인의 유적지 (고대 전쟁의 폐허 일반)">
+            <HuntingZoneList>
+                <HuntingZone id="461" name="거인의 유적지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9062">
+        <Area id="462" name="HSC_A_Quest_P" desc="광대의 별장 (추방자의 계곡 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="462" name="광대의 별장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9063">
+        <Area id="463" name="SSC_B_Quest_P" desc="칠흑의 제단 (어둠의 숲 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="463" name="칠흑의 제단" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9064">
+        <Area id="464" name="SEC_Quest_P" desc="용암의 홀 (신들의 용광로 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="464" name="용암의 홀" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9065">
+        <Area id="465" name="SSC_A_Quest_P" desc="여신의 화원 (요정의 숲 일반)">
+            <HuntingZoneList>
+                <HuntingZone id="465" name="여신의 화원" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9071">
+        <Area id="471" name="HWC_B_SD_P" desc="사령술 연구소 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="471" name="사령술 연구소" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9072">
+        <Area id="472" name="AEN_B_SD_P" desc="황금의 미궁 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="472" name="황금의 미궁" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9073">
+        <Area id="473" name="HSC_A_SD_P" desc="검은 탑 (하급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="473" name="검은 탑 (하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9773">
+        <Area id="473" name="HSC_A_SD_P" desc="검은 탑 (상급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="773" name="검은 탑 (상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9074">
+        <Area id="474" name="SWC_Quest_P" desc="부활의 성소 (아메나 콰틀라 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="474" name="부활의 성소" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9075">
+        <Area id="475" name="SWC_SD_P" desc="켈사이크의 둥지 (하급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="475" name="켈사이크의 둥지 (하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9775">
+        <Area id="475" name="SWC_SD_P" desc="켈사이크의 둥지 (상급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="775" name="켈사이크의 둥지 (상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9911">
+        <Area id="911" name="SWC_SD_Raid20_P" desc="켈사이크의 둥지 (하급 20인 레이드)">
+            <HuntingZoneList>
+                <HuntingZone id="911" name="켈사이크의 둥지 (하급 20인 레이드)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9975">
+        <Area id="975" name="SWC_SD_Raid20_P" desc="켈사이크의 둥지 (상급 20인 레이드)">
+            <HuntingZoneList>
+                <HuntingZone id="975" name="켈사이크의 둥지 (상급 20인 레이드)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9076">
+        <Area id="476" name="SEC_JOK_SD_P" desc="공포의 미궁 (하급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="476" name="공포의 미궁 (하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9776">
+        <Area id="476" name="SEC_JOK_SD_P" desc="공포의 미궁 (상급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="776" name="공포의 미궁 (상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9079">
+        <Area id="479" name="EX_HNC_A_SD_P" desc="자바르만 돔 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="479" name="자바르만 돔" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9087">
+        <Area id="487" name="ANC_A_SD_P" desc="비밀 기지 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="487" name="비밀 기지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9088">
+        <Area id="488" name="ASE_A_SD_P" desc="밤피르의 저택 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="488" name="밤피르의 저택" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9089">
+        <Area id="489" name="ASW_C_SD_P" desc="사교도 은신처 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="489" name="사교도 은신처" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9090">
+        <Area id="490" name="ANC_A_P" desc="숲의 오솔길 (서부 벌목지 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="490" name="숲의 오솔길" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9091">
+        <Area id="491" name="ASE_ENC_SD_P" desc="차원의 결계 (마녀의 성 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="491" name="차원의 결계" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9092">
+        <Area id="492" name="HEC_TOD_SD_P" desc="다곤의 무덤 (다곤의 신전 미션)">
+            <HuntingZoneList>
+                <HuntingZone id="492" name="다곤의 무덤" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9093">
+        <Area id="493" name="AEN_A_SD_P" desc="아카샤의 은신처 (하급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="493" name="아카샤의 은신처 (하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9793">
+        <Area id="793" name="AEN_A_SD_P" desc="아카샤의 은신처 (상급/인던)">
+            <HuntingZoneList>
+                <HuntingZone id="793" name="아카샤의 은신처 (상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9094">
+        <Area id="494" name="HSC_DOD_SD_P" desc="살레론의 공중정원 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="494" name="살레론의 공중정원" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9095">
+        <Area id="495" name="EX_AL_SD1_T41_P" desc="T4.2 인던_기록경쟁 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="495" name="T4.2인던_기록경쟁 (인던)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9126">
+        <Area id="126" name="EX_UnionTC_SD_CE_P" desc="페트레 양성소">
+            <HuntingZoneList>
+                <HuntingZone id="126" name="페트레 양성소" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9053">
+        <Area id="453" name="EX_HEC_B_SD_02_P" desc="거인의숲 (인던)">
+            <HuntingZoneList>
+                <HuntingZone id="453" name="거인의숲" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9051">
+        <Area id="451" name="FV_SUM_Balder_P" desc="더러워진 신전">
+            <HuntingZoneList>
+                <HuntingZone id="451" name="더러워진 신전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9052">
+        <Area id="452" name="FV_SUM_Vampir_P" desc="여름 축제 밤피르의 저택 지하">
+            <HuntingZoneList>
+                <HuntingZone id="452" name="밤피르의 저택 지하" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9777">
+        <Area id="777" name="VK_Sewer_P" desc="지하수로">
+            <HuntingZoneList>
+                <HuntingZone id="777" name="지하수로" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9766">
+        <Area id="766" name="Pirateship_p" desc="해적선">
+            <HuntingZoneList>
+                <HuntingZone id="766" name="해적선" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9825">
+        <Area id="825" name="HEN_SD_02_P" desc="발더의 신전(1인)(인던)">
+            <HuntingZoneList>
+                <HuntingZone id="825" name="발더의 신전(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9714">
+        <Area id="714" name="Cut_Velic_P" desc="PC방 전용 공간">
+            <HuntingZoneList>
+                <HuntingZone id="714" name="PC방 전용 공간" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9713">
+        <Area id="713" name="EX_Ghillian_SD_P" desc="길리안의 숲 (PC방 전용)">
+            <HuntingZoneList>
+                <HuntingZone id="713" name="길리안의 숲 (PC방 전용)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9813">
+        <Area id="813" name="EX_Ghillian_SD_P" desc="길리안의 숲">
+            <HuntingZoneList>
+                <HuntingZone id="813" name="길리안의 숲" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9811">
+        <Area id="811" name="RNW_DarkCave_P" desc="어둠의 동굴">
+            <HuntingZoneList>
+                <HuntingZone id="811" name="어둠의 동굴" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9511">
+        <Area id="511" name="RNW_DarkCave_P" desc="어둠의 동굴">
+            <HuntingZoneList>
+                <HuntingZone id="511" name="어둠의 동굴" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9711">
+        <Area id="711" name="RNW_DarkCave_P" desc="어둠의 동굴">
+            <HuntingZoneList>
+                <HuntingZone id="711" name="어둠의 동굴" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9611">
+        <Area id="611" name="RNW_DarkCave_P" desc="어둠의 동굴">
+            <HuntingZoneList>
+                <HuntingZone id="611" name="어둠의 동굴" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9810">
+        <Area id="810" name="Lakan_Altor_P" desc="라칸의 제단">
+            <HuntingZoneList>
+                <HuntingZone id="810" name="라칸의 제단" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9887">
+        <Area id="887" name="ANC_A_SD_P" desc="비밀 기지(인던)">
+            <HuntingZoneList>
+                <HuntingZone id="887" name="비밀 기지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9888">
+        <Area id="888" name="ASE_A_SD_P" desc="밤피르의 저택(인던)">
+            <HuntingZoneList>
+                <HuntingZone id="888" name="밤피르의 저택" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9889">
+        <Area id="889" name="ASW_C_SD_P" desc="사교도 은신처(인던)">
+            <HuntingZoneList>
+                <HuntingZone id="889" name="사교도 은신처" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9871">
+        <Area id="871" name="HWC_B_SD_P" desc="사령술 연구소(인던)">
+            <HuntingZoneList>
+                <HuntingZone id="871" name="사령술 연구소" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9872">
+        <Area id="872" name="AEN_B_SD_P" desc="황금의 미궁(인던)">
+            <HuntingZoneList>
+                <HuntingZone id="872" name="황금의 미궁" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9873">
+        <Area id="873" name="HSC_A_SD_P" desc="검은 탑(인던)">
+            <HuntingZoneList>
+                <HuntingZone id="873" name="검은 탑" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9808">
+        <Area id="808" name="RNW_ArcDevaArmory_SD_P" desc="아크데바 무기고(62Lv 인던)">
+            <HuntingZoneList>
+                <HuntingZone id="808" name="아크데바 무기고" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9809">
+        <Area id="809" name="EX_RNC_Laboratory_P" desc="데모크론 실험실(64Lv 인던)">
+            <HuntingZoneList>
+                <HuntingZone id="809" name="데모크론 실험실" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9055">
+        <Area id="455" name="AncientForest_P" desc="하르키아의 안식처">
+            <HuntingZoneList>
+                <HuntingZone id="455" name="하르키아의 안식처" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9054">
+        <Area id="454" name="Orca_Temple_P" desc="사악한 오르카의 신전">
+            <HuntingZoneList>
+                <HuntingZone id="454" name="사악한 오르카의 신전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9754">
+        <Area id="754" name="Orca_Temple_P" desc="오르카의 신전">
+            <HuntingZoneList>
+                <HuntingZone id="754" name="오르카의 신전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9916">
+        <Area id="916" name="Airship_P" desc="폭풍의 엘카라스 호">
+            <HuntingZoneList>
+                <HuntingZone id="916" name="폭풍의 엘카라스 호" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9716">
+        <Area id="716" name="Airship_P" desc="엘카라스 호">
+            <HuntingZoneList>
+                <HuntingZone id="716" name="엘카라스 호" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9804">
+        <Area id="804" name="SWC_SD_P" desc="켈사이크의 둥지 (일본오프라인)">
+            <HuntingZoneList>
+                <HuntingZone id="804" name="켈사이크의 둥지 (일본오프라인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9979">
+        <Area id="979" name="EX_HNC_A_SD_P" desc="자바르만 돔(저렙)">
+            <HuntingZoneList>
+                <HuntingZone id="979" name="자바르만 돔" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9057">
+        <Area id="457" name="BurningCave_P" desc="오만한 아케론의 염옥">
+            <HuntingZoneList>
+                <HuntingZone id="457" name="오만한 아케론의 염옥" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9757">
+        <Area id="757" name="BurningCave_P" desc="아케론의 염옥">
+            <HuntingZoneList>
+                <HuntingZone id="757" name="아케론의 염옥" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9029">
+        <Area id="429" name="EX_AEN_ArcDevaTemple_SD_P" desc="부활한 회당">
+            <HuntingZoneList>
+                <HuntingZone id="429" name="부활한 회당" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9056">
+        <Area id="456" name="Parallel_P" desc="발로나의 시공간(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="456" name="발로나의 시공간(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9756">
+        <Area id="756" name="Parallel_P" desc="발로나의 시공간(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="756" name="발로나의 시공간(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9060">
+        <Area id="460" name="Caliban_ShipWreck_P" desc="악인 켈리반의 난파선(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="460" name="악인 켈리반의 난파선(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9760">
+        <Area id="760" name="Caliban_ShipWreck_P" desc="켈리반의 난파선(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="760" name="켈리반의 난파선(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9860">
+        <Area id="860" name="Caliban_ShipWreck_P" desc="켈리반의 난파선(튜토리얼)">
+            <HuntingZoneList>
+                <HuntingZone id="860" name="켈리반의 난파선(튜토리얼)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9059">
+        <Area id="459" name="Lilith_DarkTown_P" desc="번스타인의 악령섬">
+            <HuntingZoneList>
+                <HuntingZone id="459" name="번스타인의 악령섬" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9759">
+        <Area id="759" name="Lilith_DarkTown_P" desc="저주받은 번스타인의 악령섬">
+            <HuntingZoneList>
+                <HuntingZone id="759" name="저주받은 번스타인의 악령섬" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9830">
+        <Area id="830" name="Roundup_Hunting_P" desc="몰이사냥 솔로던전">
+            <HuntingZoneList>
+                <HuntingZone id="830" name="몰이사냥 솔로던전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9033">
+        <Area id="433" name="RNW_DarkCave_P" desc="어둠의 동굴(솔로던전)">
+            <HuntingZoneList>
+                <HuntingZone id="433" name="어둠의 동굴(솔로)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9032">
+        <Area id="432" name="SD_GOLDMAZE_P" desc="황금의 미궁(솔로던전)">
+            <HuntingZoneList>
+                <HuntingZone id="432" name="황굼의 미궁(솔로던전)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9031">
+        <Area id="431" name="AEN_A_SD_P" desc="아카샤의 은신처 (솔로던전)">
+            <HuntingZoneList>
+                <HuntingZone id="431" name="아카샤의 은신처 (솔로)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9070">
+        <Area id="470" name="Liar_P" desc="거짓말쟁이 타르스키의 놀이터">
+            <HuntingZoneList>
+                <HuntingZone id="470" name="거짓말쟁이 타르스키의 놀이터" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9068">
+        <Area id="468" name="Durion_Hideout_P" desc="폭군 듀리온의 안식처(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="468" name="폭군 듀리온의 안식처(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9768">
+        <Area id="768" name="Durion_Hideout_P" desc="듀리온의 안식처(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="768" name="듀리온의 안식처(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9067">
+        <Area id="467" name="AbandonedLaboratory_P" desc="베로노의 실험실">
+            <HuntingZoneList>
+                <HuntingZone id="467" name="베로노의 실험실" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9767">
+        <Area id="767" name="AbandonedLaboratory_P" desc="베로노의 실험실">
+            <HuntingZoneList>
+                <HuntingZone id="767" name="베로노의 실험실" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9769">
+        <Area id="769" name="Lilith_Castle_P" desc="릴리스의 성(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="769" name="릴리스의 성" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9969">
+        <Area id="969" name="Lilith_Castle_P" desc="릴리스의 성(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="969" name="릴리스의 성" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9795">
+        <Area id="795" name="EX_AL_SD1_T41_P" desc="VIP 전용 던전">
+            <HuntingZoneList>
+                <HuntingZone id="795" name="VIP 전용 던전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9970">
+        <Area id="970" name="Lachelith_Castle_P" desc="라켈리스의 성(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="970" name="라켈리스의 성(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9770">
+        <Area id="770" name="Lachelith_Castle_P" desc="라켈리스의 성(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="970" name="라켈리스의 성(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9950">
+        <Area id="950" name="HugeDragon_P" desc="거대 레이드 몬스터">
+            <HuntingZoneList>
+                <HuntingZone id="950" name="거대 레이드 몬스터" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9710">
+        <Area id="710" name="Lakan_Twisted_Altar_P" desc="뒤틀린 라칸의 제단">
+            <HuntingZoneList>
+                <HuntingZone id="710" name="뒤틀린 라칸의 제단" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9505">
+        <Area id="505" name="AWAKEN_VK_D_P" desc="파괴된 벨리카 연회장">
+            <HuntingZoneList>
+                <HuntingZone id="505" name="파괴된 벨리카 연회장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9506">
+        <Area id="506" name="AWAKEN_VK_N_P" desc="벨리카 연회장">
+            <HuntingZoneList>
+                <HuntingZone id="506" name="벨리카 연회장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9507">
+        <Area id="507" name="AWAKEN_Dragon_P" desc="용계">
+            <HuntingZoneList>
+                <HuntingZone id="507" name="용계" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9508">
+        <Area id="508" name="AWAKEN_Inner_P" desc="내면세계">
+            <HuntingZoneList>
+                <HuntingZone id="508" name="용계" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9509">
+        <Area id="509" name="AWAKEN_VK_N_P" desc="벨리카 연회장">
+            <HuntingZoneList>
+                <HuntingZone id="509" name="벨리카 연회장" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9833">
+        <Area id="833" name="AWAKEN_HSC_Loot_P" desc="고룡의 협곡">
+            <HuntingZoneList>
+                <HuntingZone id="833" name="고룡의 협곡" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9503">
+        <Area id="503" name="VK_SD_P" desc="연합 총사령관 관저">
+            <HuntingZoneList>
+                <HuntingZone id="503" name="연합 총사령관 관저" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9780">
+        <Area id="780" name="VK_Basement_DG_P" desc="벨리카 지하 관문">
+            <HuntingZoneList>
+                <HuntingZone id="780" name="벨리카 지하 관문" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9980">
+        <Area id="980" name="VK_Basement_DG_P" desc="무너진 벨리카 지하 관문">
+            <HuntingZoneList>
+                <HuntingZone id="980" name="무너진 벨리카 지하 관문" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9981">
+        <Area id="981" name="Velik_Palace_DG_P" desc="벨릭의 궁전(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="981" name="벨릭의 궁전(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9781">
+        <Area id="781" name="Velik_Palace_DG_P" desc="벨릭의 궁전(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="781" name="벨릭의 궁전(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9681">
+        <Area id="681" name="Velik_Palace_DG_P" desc="벨릭의 궁전(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="681" name="벨릭의 궁전(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9066">
+        <Area id="466" name="Nightmare_P" desc="주사위던전">
+            <HuntingZoneList>
+                <HuntingZone id="466" name="주사위던전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9994">
+        <Area id="994" name="ArcDeva_Laboratory_P" desc="알파 사이럭스 연구 기지(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="994" name="알파 사이럭스 연구 기지(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9794">
+        <Area id="794" name="ArcDeva_Laboratory_P" desc="사이럭스 연구 기지(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="794" name="사이럭스 연구 기지(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9735">
+        <Area id="735" name="Robot_Factory_P" desc="RK-9 격납고(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="735" name="RK-9 격납고(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9935">
+        <Area id="935" name="Robot_Factory_P" desc="궁극의 RK-9 격납고(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="935" name="궁극의 RK-9 격납고(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9739">
+        <Area id="739" name="Revolt_Village_P" desc="혁명단 은거지(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="739" name="혁명단 은거지(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9939">
+        <Area id="939" name="Revolt_Village_P" desc="삼엄한 혁명단 은거지(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="939" name="삼엄한 혁명단 은거지(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9720">
+        <Area id="720" name="MagicalPrison_P" desc="안타로스의 심연">
+            <HuntingZoneList>
+                <HuntingZone id="720" name="안타로스의 심연" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9920">
+        <Area id="920" name="MagicalPrison_P" desc="공허한 안타로스의 심연">
+            <HuntingZoneList>
+                <HuntingZone id="920" name="공허한 안타로스의 심연" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9618">
+        <Area id="618" name="VK_OX_P" desc="OX퀴즈">
+            <HuntingZoneList>
+                <HuntingZone id="618" name="OX퀴즈" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9783">
+        <Area id="783" name="Kubel_Fortress_P" desc="테네브리스 성채">
+            <HuntingZoneList>
+                <HuntingZone id="783" name="테네브리스 성채" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9983">
+        <Area id="983" name="Kubel_Fortress_P" desc="칠흑의 테네브리스 성채">
+            <HuntingZoneList>
+                <HuntingZone id="983" name="칠흑의 테네브리스 성채" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9782">
+        <Area id="782" name="Kubel_Temple_P" desc="리안의 지하 전당">
+            <HuntingZoneList>
+                <HuntingZone id="782" name="리안의 지하 전당" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9982">
+        <Area id="982" name="Kubel_Temple_P" desc="왜곡된 리안의 지하 전당">
+            <HuntingZoneList>
+                <HuntingZone id="982" name="왜곡된 리안의 지하 전당" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3028">
+        <Area id="3028" name="Kubel_Temple_P" desc="왜곡된 리안의 지하 전당">
+            <HuntingZoneList>
+                <HuntingZone id="3028" name="왜곡된 리안의 지하 전당" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="9044">
+        <Area id="444" name="Baharr_Sanctuary_P" desc="바하르의 신전">
+            <HuntingZoneList>
+                <HuntingZone id="444" name="바하르의 신전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3012">
+        <Area id="3012" name="EX_UnionTC_SD_CE_P" desc="허수아비 던전">
+            <HuntingZoneList>
+                <HuntingZone id="3012" name="허수아비 던전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3016">
+        <Area id="3016" name="Lilith_Castle_P" desc="시험의 던전">
+            <HuntingZoneList>
+                <HuntingZone id="3016" name="시험의 던전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3018">
+        <Area id="3018" name="Kubel_Fortress_P" desc="칠흑의 테네브리스 성채">
+            <HuntingZoneList>
+                <HuntingZone id="3018" name="칠흑의 테네브리스 성채" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3019">
+        <Area id="3019" name="Kubel_Temple_P" desc="왜곡된 리안의 지하 전당">
+            <HuntingZoneList>
+                <HuntingZone id="3019" name="왜곡된 리안의 지하 전당" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3017">
+        <Area id="3017" name="MagicalPrison_P" desc="공허한 안타로스의 심연">
+            <HuntingZoneList>
+                <HuntingZone id="3017" name="공허한 안타로스의 심연" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3001">
+        <Area id="3001" name="ANC_A_SD_P" desc="비밀 기지(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3001" name="비밀 기지(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3002">
+        <Area id="3002" name="ASE_A_SD_P" desc="밤피르의 저택(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3002" name="밤피르의 저택(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3003">
+        <Area id="3003" name="ASW_C_SD_P" desc="사교도의 은신처(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3003" name="사교도의 은신처(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3004">
+        <Area id="3004" name="HWC_B_SD_P" desc="사령술 연구소(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3004" name="사령술 연구소(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3005">
+        <Area id="3005" name="AEN_B_SD_P" desc="황금의 미궁(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3005" name="황금의 미궁(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3006">
+        <Area id="3006" name="AEN_A_SD_P" desc="아카샤의 은신처(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3006" name="아카샤의 은신처(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3007">
+        <Area id="3007" name="HSC_DOD_SD_P" desc="살레론의 공중정원(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3007" name="살레론의 공중정원(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3008">
+        <Area id="3008" name="SEC_JOK_SD_P" desc="공포의 미궁(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3008" name="공포의 미궁(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3009">
+        <Area id="3009" name="HSC_A_SD_P" desc="검은탑(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3009" name="검은탑(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3010">
+        <Area id="3010" name="SWC_SD_P" desc="켈사이크의 둥지(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3010" name="켈사이크의 둥지(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3011">
+        <Area id="3011" name="SWC_SD_02_P" desc="샨드라 마나이아(1인)">
+            <HuntingZoneList>
+                <HuntingZone id="3011" name="샨드라 마나이아(1인)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3101">
+        <Area id="3101" name="Queen_Nest_P" desc="파르퀴나의 둥지">
+            <HuntingZoneList>
+                <HuntingZone id="3101" name="파르퀴나의 둥지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3201">
+        <Area id="3201" name="Queen_Nest_P" desc="찬란한 파르퀴나의 둥지">
+            <HuntingZoneList>
+                <HuntingZone id="3201" name="찬란한 파르퀴나의 둥지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3024">
+        <Area id="3024" name="EX_Guladsh_SD_P" desc="필드 보너스 던전">
+            <HuntingZoneList>
+                <HuntingZone id="3024" name="필드 보너스 던전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3025">
+        <Area id="3025" name="EX_Guladsh_SD_P" desc="필드 보너스 파티 던전">
+            <HuntingZoneList>
+                <HuntingZone id="3025" name="필드 보너스 파티 던전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3023">
+        <Area id="3023" name="NewArg_P" desc="신규 아르곤">
+            <HuntingZoneList>
+                <HuntingZone id="3023" name="신규 아르곤" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3032">
+        <Area id="3032" name="NewArg_P" desc="신규 아르곤">
+            <HuntingZoneList>
+                <HuntingZone id="3032" name="신규 아르곤" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3026">
+        <Area id="3026" name="Akalath_Argon_P" desc="아카칼라쉬 켈사이크(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="3026" name="아르곤 켈사이크" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3126">
+        <Area id="3126" name="Akalath_Argon_P" desc="아카칼라쉬 켈사이크(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="3126" name="아르곤 켈사이크" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3020">
+        <Area id="3020" name="SeaShip_P" desc="항해인던">
+            <HuntingZoneList>
+                <HuntingZone id="3020" name="항해인던" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3027">
+        <Area id="3027" name="Colosseum_P" desc="광기의 투기장">
+            <HuntingZoneList>
+                <HuntingZone id="3027" name="불멸의 투사" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="2105">
+        <Area id="2105" name="Kaligar_P" desc="칼리가르(스토리)">
+            <HuntingZoneList>
+                <HuntingZone id="2105" name="칼리가르(스토리)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3102">
+        <Area id="3102" name="Kaligar_P" desc="칼리가르(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="3102" name="칼리가르(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3202">
+        <Area id="3202" name="Kaligar_P" desc="칼리가르(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="3202" name="칼리가르(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3103">
+        <Area id="3103" name="Gaun_Traning_P" desc="권술사 던전(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="3103" name="권술사 던전(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3203">
+        <Area id="3203" name="Gaun_Traning_P" desc="권술사 던전(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="3203" name="권술사 던전(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3030">
+        <Area id="3030" name="FDI_FieldBossRaid_P" desc="필드 보스 레이드 마흐나크">
+            <HuntingZoneList>
+                <HuntingZone id="3030" name="필드 보스 레이드" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3029">
+        <Area id="3029" name="MagicalPrison_P" desc="[연습] 공허한 안타로스의 심연">
+            <HuntingZoneList>
+                <HuntingZone id="3029" name="[연습] 공허한 안타로스의 심연" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3031">
+        <Area id="3031" name="FDI_Core_PK_P" desc="PK섬">
+            <HuntingZoneList>
+                <HuntingZone id="3031" name="PK섬" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3033">
+        <Area id="3033" name="Queen_Nest_P" desc="[연습] 찬란한 파르퀴나의 둥지">
+            <HuntingZoneList>
+                <HuntingZone id="3033" name="[연습] 찬란한 파르퀴나의 둥지" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3034">
+        <Area id="3034" name="Robot_Factory_P" desc="폭주하는 RK-9 격납고">
+            <HuntingZoneList>
+                <HuntingZone id="3034" name="폭주하는 RK-9 격납고" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3035">
+        <Area id="3035" name="Cut_Velic_P" desc="벨릭의 성소">
+            <HuntingZoneList>
+                <HuntingZone id="3035" name="벨릭의 성소" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3036">
+        <Area id="3036" name="Airship_P" desc="폭풍의 엘카라스 호">
+            <HuntingZoneList>
+                <HuntingZone id="3036" name="폭풍의 엘카라스 호" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3037">
+        <Area id="3037" name="Baharr_Sanctuary_P" desc="[연습] 바하르의 신전">
+            <HuntingZoneList>
+                <HuntingZone id="3037" name="[연습] 바하르의 신전" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3104">
+        <Area id="3104" name="Rucmia_P" desc="루크미아(하급)">
+            <HuntingZoneList>
+                <HuntingZone id="3104" name="루크미아(하급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+    <Continent id="3204">
+        <Area id="3204" name="Rucmia_P" desc="루크미아(상급)">
+            <HuntingZoneList>
+                <HuntingZone id="3204" name="루크미아(상급)" />
+            </HuntingZoneList>
+        </Area>
+    </Continent>
+</HuntingZoneAreaList>

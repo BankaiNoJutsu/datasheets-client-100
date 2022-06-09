@@ -1,0 +1,80 @@
+<AIData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AIData AIData.xsd" xmlns="https://vezel.dev/novadrop/dc/AIData">
+    <Ai>
+        <CautionState />
+        <CombatState>
+            <Avoid avoidSkillId="0" cooltime="10000" />
+            <Idle duration="1000" />
+            <Move targetDistance="100" timeout="5000" />
+            <Social socialMotionId="1" />
+        </CombatState>
+        <PeaceState />
+    </Ai>
+    <Ai>
+        <CautionState hpResetWhenCombatEnd="false" />
+        <CombatState>
+            <Avoid avoidSkillId="0" cooltime="10000" />
+            <CounterFlee />
+            <Idle duration="1000" />
+            <MonsterSummon />
+            <Move targetDistance="150" timeout="1000" />
+            <Social socialMotionId="0" />
+        </CombatState>
+        <EventList />
+        <PeaceState />
+    </Ai>
+    <Ai>
+        <CautionState />
+        <CombatState>
+            <Avoid avoidSkillId="0" cooltime="10000" />
+            <Idle duration="1000" />
+            <Move targetDistance="100" timeout="5000" />
+            <Social socialMotionId="1" />
+        </CombatState>
+        <PeaceState />
+    </Ai>
+    <Ai>
+        <CautionState />
+        <CombatState>
+            <Avoid avoidSkillId="0" cooltime="10000" />
+            <Idle duration="1000" />
+            <Move targetDistance="100" timeout="5000" />
+            <Social socialMotionId="1" />
+        </CombatState>
+        <PeaceState />
+    </Ai>
+    <Ai>
+        <CautionState />
+        <CombatState>
+            <Avoid avoidSkillId="0" cooltime="10000" />
+            <Idle duration="1000" />
+            <Move targetDistance="100" timeout="5000" />
+            <Social socialMotionId="1" />
+        </CombatState>
+        <PeaceState />
+    </Ai>
+    <Ai>
+        <CautionState />
+        <CombatState>
+            <Avoid avoidSkillId="0" cooltime="10000" />
+            <Idle duration="1000" />
+            <Move targetDistance="100" timeout="5000" />
+            <Social socialMotionId="1" />
+        </CombatState>
+        <PeaceState />
+    </Ai>
+    <Ai>
+        <CautionState hpResetWhenCombatEnd="false" />
+        <CombatState>
+            <AbsolutelyAttack>
+                <CutAllBehaviorList />
+            </AbsolutelyAttack>
+            <Avoid avoidSkillId="0" cooltime="10000" />
+            <CounterFlee />
+            <Idle duration="1000" />
+            <MonsterSummon />
+            <Move targetDistance="100" timeout="5000" />
+            <Social socialMotionId="1" />
+        </CombatState>
+        <PeaceState />
+    </Ai>
+</AIData>

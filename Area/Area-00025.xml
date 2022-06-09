@@ -1,0 +1,8 @@
+<Area xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Area Area.xsd" id="2501" areaName="Campaign_DeathAncient_P" continentId="2501" nameId="2501" pcMoveCylinder="true" protect="false" recallReviveContinentIdB="0" recallReviveContinentIdC="0" ride="true" worldMapGuardId="28" worldMapWorldId="2" xmlns="https://vezel.dev/novadrop/dc/Area">
+    <Section id="1" priority="0" huntingZoneId="-1" nameId="2501" pcMoveCylinder="true" protect="false" ride="true" addMaxZ="256" subtractMinZ="256" campId="0" desTex="false" disableItemId="" fishing="false" floor="1" ignoreObstacleShortTel="false" maze="false" optimizeOption="0" pk="false" restBonus="false" vender="false" worldMapSectionId="2501">
+        <Fence pos="-15630,0,2699" />
+        <Fence pos="-15630,30720,2994" />
+        <Fence pos="-30720,30720,1672" />
+        <Fence pos="-30720,0,-250" />
+    </Section>
+</Area>

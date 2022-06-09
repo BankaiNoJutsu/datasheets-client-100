@@ -1,0 +1,53 @@
+<WeaponMaterialParam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/WeaponMaterialParam WeaponMaterialParam.xsd" xmlns="https://vezel.dev/novadrop/dc/WeaponMaterialParam">
+    <MaterialData id="1" name="2016드래곤무기 신화무기">
+        <EnchantLevel level="23">
+            <Param paramName="BodyColor" paramType="Vector" vectorParam="0.3, 1.2, 1.2, 10.0" />
+            <Param paramName="CenterColor" paramType="Vector" vectorParam="0.5, 1.0, 1.8, 8.0" />
+            <Param paramName="CoreColor" paramType="Vector" vectorParam="0.7, 0.8, 0.9, 7.0" />
+            <Param paramName="LavaColor" paramType="Vector" vectorParam="0.2, 0.8, 1.0, 9.0" />
+            <Param paramName="ShineColor" paramType="Vector" vectorParam="0.2, 0.5, 1.0, 1.0" />
+            <Param paramName="LavaPanning" paramType="Scalar" scalarParam="-2" />
+        </EnchantLevel>
+        <EnchantLevel level="24">
+            <Param paramName="BodyColor" paramType="Vector" vectorParam="0.1, 0.5, 1.2, 10.0" />
+            <Param paramName="CenterColor" paramType="Vector" vectorParam="0.2, 0.8, 1.8, 10.0" />
+            <Param paramName="CoreColor" paramType="Vector" vectorParam="0.8, 1.0, 2.0, 10.0" />
+            <Param paramName="LavaColor" paramType="Vector" vectorParam="0.4, 0.3, 1.0, 6.0" />
+            <Param paramName="ShineColor" paramType="Vector" vectorParam="0.4, 0.4, 1.0, 1.0" />
+            <Param paramName="LavaPanning" paramType="Scalar" scalarParam="-3" />
+        </EnchantLevel>
+        <EnchantLevel level="25">
+            <Param paramName="BodyColor" paramType="Vector" vectorParam="0.9, 0.9, 1.5, 30.0" />
+            <Param paramName="CenterColor" paramType="Vector" vectorParam="2.0, 1.0, 1.5, 8.0" />
+            <Param paramName="CoreColor" paramType="Vector" vectorParam="1.5, 0.5, 1.2, 8.0" />
+            <Param paramName="LavaColor" paramType="Vector" vectorParam="0.9, 0.5, 2.0, 10.0" />
+            <Param paramName="ShineColor" paramType="Vector" vectorParam="0.4, 0.8, 1.5, 1.0" />
+            <Param paramName="SpakleColorVar" paramType="Vector" vectorParam="1.0, 0.8, 1.5, 1.0" />
+            <Param paramName="LavaPanning" paramType="Scalar" scalarParam="-4" />
+        </EnchantLevel>
+        <EnchantLevel level="26">
+            <Param paramName="BodyColor" paramType="Vector" vectorParam="1.5, 0.5, 0.8, 10.0" />
+            <Param paramName="CenterColor" paramType="Vector" vectorParam="3.0, 0.5, 0.1, 8.0" />
+            <Param paramName="CoreColor" paramType="Vector" vectorParam="1.2, 0.8, 3.0, 5.0" />
+            <Param paramName="LavaColor" paramType="Vector" vectorParam="1.2, 0.4, 0.6, 5.0" />
+            <Param paramName="ShineColor" paramType="Vector" vectorParam="1.5, 0.5, 0.6, 1.0" />
+            <Param paramName="LavaPanning" paramType="Scalar" scalarParam="-5" />
+        </EnchantLevel>
+        <EnchantLevel level="27">
+            <Param paramName="BodyColor" paramType="Vector" vectorParam="1.5, 0.3, 0.1, 15.0" />
+            <Param paramName="CenterColor" paramType="Vector" vectorParam="3.0, 0.5, 0.1, 8.0" />
+            <Param paramName="CoreColor" paramType="Vector" vectorParam="3.0, 2.0, 1.0, 5.0" />
+            <Param paramName="LavaColor" paramType="Vector" vectorParam="1.0, 0.1, 0.0, 10.0" />
+            <Param paramName="ShineColor" paramType="Vector" vectorParam="1.5, 0.15, 0.2, 1.0" />
+            <Param paramName="LavaPanning" paramType="Scalar" scalarParam="-6" />
+        </EnchantLevel>
+        <EnchantLevel level="28">
+            <Param paramName="BodyColor" paramType="Vector" vectorParam="1.5, 0.8, 0.3, 30.0" />
+            <Param paramName="CenterColor" paramType="Vector" vectorParam="3.0, 0.5, 0.1, 8.0" />
+            <Param paramName="CoreColor" paramType="Vector" vectorParam="3.0, 2.0, 1.0, 10.0" />
+            <Param paramName="LavaColor" paramType="Vector" vectorParam="1.0, 0.2, 0.1, 10.0" />
+            <Param paramName="ShineColor" paramType="Vector" vectorParam="1.5, 0.8, 0.2, 1.0" />
+            <Param paramName="LavaPanning" paramType="Scalar" scalarParam="-7" />
+        </EnchantLevel>
+    </MaterialData>
+</WeaponMaterialParam>

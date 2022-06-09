@@ -1,0 +1,192 @@
+<QuestCompensationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestCompensationData QuestCompensationData.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestCompensationData">
+    <Quest questId="59901">
+        <Compensation>
+            <CompensationType type="normal" gold="19" exp="198" />
+        </Compensation>
+    </Quest>
+    <Quest questId="59902">
+        <Compensation>
+            <CompensationType type="normal" gold="48" exp="480" />
+        </Compensation>
+    </Quest>
+    <Quest questId="59903">
+        <Compensation>
+            <CompensationType type="normal" gold="116" exp="1165" />
+        </Compensation>
+    </Quest>
+    <Quest questId="59904">
+        <Compensation>
+            <CompensationType type="normal" gold="150" exp="1507" itemBag="class" />
+        </Compensation>
+        <Compensation>
+            <CompensationType type="normal" gold="309" exp="3100" itemBag="class">
+                <Item templateId="12401" class="warrior" quantity="1" />
+                <Item templateId="12402" class="lancer" quantity="1" />
+                <Item templateId="12403" class="slayer" quantity="1" />
+                <Item templateId="12404" class="berserker" quantity="1" />
+                <Item templateId="12405" class="sorcerer" quantity="1" />
+                <Item templateId="12406" class="archer" quantity="1" />
+                <Item templateId="12407" class="priest" quantity="1" />
+                <Item templateId="12408" class="elementalist" quantity="1" />
+                <Item templateId="55305" class="engineer" quantity="1" />
+                <Item templateId="82305" class="fighter" quantity="1" />
+                <Item templateId="58374" class="assassin" quantity="1" />
+                <Item templateId="59353" class="glaiver" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="59905">
+        <Compensation>
+            <CompensationType type="normal" gold="110" exp="1104" />
+        </Compensation>
+    </Quest>
+    <Quest questId="59906">
+        <Compensation>
+            <CompensationType type="normal" gold="998" exp="7892" itemBag="class">
+                <Item templateId="17710" class="lancer" quantity="1" />
+                <Item templateId="17710" class="berserker" quantity="1" />
+                <Item templateId="17713" class="warrior" quantity="1" />
+                <Item templateId="17713" class="slayer" quantity="1" />
+                <Item templateId="17713" class="archer" quantity="1" />
+                <Item templateId="17716" class="sorcerer" quantity="1" />
+                <Item templateId="17716" class="priest" quantity="1" />
+                <Item templateId="17716" class="elementalist" quantity="1" />
+                <Item templateId="17710" class="engineer" quantity="1" />
+                <Item templateId="17710" class="fighter" quantity="1" />
+                <Item templateId="17716" class="assassin" quantity="1" />
+                <Item templateId="17713" class="glaiver" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="59909">
+        <Compensation>
+            <CompensationType type="normal">
+                <Item templateId="81257" quantity="1" />
+            </CompensationType>
+        </Compensation>
+        <Compensation>
+            <CompensationType type="normal" gold="3115" exp="13961" itemBag="class">
+                <Item templateId="10017" class="warrior" quantity="1" />
+                <Item templateId="10018" class="lancer" quantity="1" />
+                <Item templateId="10019" class="slayer" quantity="1" />
+                <Item templateId="10020" class="berserker" quantity="1" />
+                <Item templateId="10021" class="sorcerer" quantity="1" />
+                <Item templateId="10022" class="archer" quantity="1" />
+                <Item templateId="10023" class="priest" quantity="1" />
+                <Item templateId="10024" class="elementalist" quantity="1" />
+                <Item templateId="55007" class="engineer" quantity="1" />
+                <Item templateId="82007" class="fighter" quantity="1" />
+                <Item templateId="58173" class="assassin" quantity="1" />
+                <Item templateId="59055" class="glaiver" quantity="1" />
+                <Item templateId="15022" class="warrior" quantity="1" />
+                <Item templateId="15019" class="lancer" quantity="1" />
+                <Item templateId="15022" class="slayer" quantity="1" />
+                <Item templateId="15019" class="berserker" quantity="1" />
+                <Item templateId="15025" class="sorcerer" quantity="1" />
+                <Item templateId="15022" class="archer" quantity="1" />
+                <Item templateId="15025" class="priest" quantity="1" />
+                <Item templateId="15025" class="elementalist" quantity="1" />
+                <Item templateId="15019" class="engineer" quantity="1" />
+                <Item templateId="15019" class="fighter" quantity="1" />
+                <Item templateId="15025" class="assassin" quantity="1" />
+                <Item templateId="15022" class="glaiver" quantity="1" />
+                <Item templateId="15023" class="warrior" quantity="1" />
+                <Item templateId="15020" class="lancer" quantity="1" />
+                <Item templateId="15023" class="slayer" quantity="1" />
+                <Item templateId="15020" class="berserker" quantity="1" />
+                <Item templateId="15026" class="sorcerer" quantity="1" />
+                <Item templateId="15023" class="archer" quantity="1" />
+                <Item templateId="15026" class="priest" quantity="1" />
+                <Item templateId="15026" class="elementalist" quantity="1" />
+                <Item templateId="15020" class="engineer" quantity="1" />
+                <Item templateId="15020" class="fighter" quantity="1" />
+                <Item templateId="15026" class="assassin" quantity="1" />
+                <Item templateId="15023" class="glaiver" quantity="1" />
+                <Item templateId="15024" class="warrior" quantity="1" />
+                <Item templateId="15021" class="lancer" quantity="1" />
+                <Item templateId="15024" class="slayer" quantity="1" />
+                <Item templateId="15021" class="berserker" quantity="1" />
+                <Item templateId="15027" class="sorcerer" quantity="1" />
+                <Item templateId="15024" class="archer" quantity="1" />
+                <Item templateId="15027" class="priest" quantity="1" />
+                <Item templateId="15027" class="elementalist" quantity="1" />
+                <Item templateId="15021" class="engineer" quantity="1" />
+                <Item templateId="15021" class="fighter" quantity="1" />
+                <Item templateId="15027" class="assassin" quantity="1" />
+                <Item templateId="15024" class="glaiver" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="59910">
+        <Compensation>
+            <CompensationType type="normal">
+                <Item templateId="200997" quantity="1" />
+                <Item templateId="202015" quantity="1" />
+            </CompensationType>
+        </Compensation>
+        <Compensation>
+            <CompensationType type="normal" gold="1281" exp="12812" itemBag="class">
+                <Item templateId="12121" class="warrior" quantity="1" />
+                <Item templateId="12122" class="lancer" quantity="1" />
+                <Item templateId="12123" class="slayer" quantity="1" />
+                <Item templateId="12124" class="berserker" quantity="1" />
+                <Item templateId="12125" class="sorcerer" quantity="1" />
+                <Item templateId="12126" class="archer" quantity="1" />
+                <Item templateId="12127" class="priest" quantity="1" />
+                <Item templateId="12128" class="elementalist" quantity="1" />
+                <Item templateId="55270" class="engineer" quantity="1" />
+                <Item templateId="82270" class="fighter" quantity="1" />
+                <Item templateId="58436" class="assassin" quantity="1" />
+                <Item templateId="59318" class="glaiver" quantity="1" />
+                <Item templateId="17398" class="warrior" quantity="1" />
+                <Item templateId="17395" class="lancer" quantity="1" />
+                <Item templateId="17398" class="slayer" quantity="1" />
+                <Item templateId="17395" class="berserker" quantity="1" />
+                <Item templateId="17401" class="sorcerer" quantity="1" />
+                <Item templateId="17398" class="archer" quantity="1" />
+                <Item templateId="17401" class="priest" quantity="1" />
+                <Item templateId="17401" class="elementalist" quantity="1" />
+                <Item templateId="17401" class="assassin" quantity="1" />
+                <Item templateId="17398" class="glaiver" quantity="1" />
+                <Item templateId="17395" class="engineer" quantity="1" />
+                <Item templateId="17395" class="fighter" quantity="1" />
+                <Item templateId="17399" class="warrior" quantity="1" />
+                <Item templateId="17396" class="lancer" quantity="1" />
+                <Item templateId="17399" class="slayer" quantity="1" />
+                <Item templateId="17396" class="berserker" quantity="1" />
+                <Item templateId="17402" class="sorcerer" quantity="1" />
+                <Item templateId="17399" class="archer" quantity="1" />
+                <Item templateId="17402" class="priest" quantity="1" />
+                <Item templateId="17402" class="elementalist" quantity="1" />
+                <Item templateId="17396" class="engineer" quantity="1" />
+                <Item templateId="17396" class="fighter" quantity="1" />
+                <Item templateId="17402" class="assassin" quantity="1" />
+                <Item templateId="17399" class="glaiver" quantity="1" />
+                <Item templateId="17400" class="warrior" quantity="1" />
+                <Item templateId="17397" class="lancer" quantity="1" />
+                <Item templateId="17400" class="slayer" quantity="1" />
+                <Item templateId="17397" class="berserker" quantity="1" />
+                <Item templateId="17403" class="sorcerer" quantity="1" />
+                <Item templateId="17400" class="archer" quantity="1" />
+                <Item templateId="17403" class="priest" quantity="1" />
+                <Item templateId="17403" class="elementalist" quantity="1" />
+                <Item templateId="17397" class="engineer" quantity="1" />
+                <Item templateId="17397" class="fighter" quantity="1" />
+                <Item templateId="17403" class="assassin" quantity="1" />
+                <Item templateId="17400" class="glaiver" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="59911">
+        <Compensation>
+            <CompensationType type="normal" gold="278" exp="2780">
+                <Item templateId="70" quantity="1" />
+            </CompensationType>
+        </Compensation>
+    </Quest>
+    <Quest questId="59912">
+        <Compensation>
+            <CompensationType type="normal" gold="1388" exp="13881" />
+        </Compensation>
+    </Quest>
+</QuestCompensationData>

@@ -1,0 +1,30 @@
+<WorldFestival xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/WorldFestival WorldFestival.xsd" xmlns="https://vezel.dev/novadrop/dc/WorldFestival">
+    <EventObject>
+        <SpawnEvent lifeTime="600" />
+    </EventObject>
+    <EventObject>
+        <SpawnEvent lifeTime="600" />
+    </EventObject>
+    <EventObject>
+        <SpawnEvent lifeTime="600" />
+    </EventObject>
+    <EventObject>
+        <SpawnEvent lifeTime="600" />
+    </EventObject>
+    <EventObject>
+        <SpawnEvent lifeTime="600" />
+    </EventObject>
+    <EventObject>
+        <SpawnEvent lifeTime="0" />
+        <SpawnEvent lifeTime="0" />
+    </EventObject>
+    <EventObject />
+    <EventObject />
+    <EventObject />
+    <EventObject />
+    <EventObject />
+    <EventObject />
+    <EventObject />
+    <EventObject />
+    <EventObject />
+</WorldFestival>

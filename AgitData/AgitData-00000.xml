@@ -1,0 +1,69 @@
+<AgitData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/AgitData AgitData.xsd" xmlns="https://vezel.dev/novadrop/dc/AgitData">
+    <AgitSite id="1" codeName="Vk1-1" mapGuardId="1" mapSectionId="1" mapWorldId="1">
+        <Agit id="1" grade="LUXURY" codeName="V1-1" baseSellPrice="3000" rent="100" size="LARGE">
+            <EnterLocation pos="7901.3569,23003.7422,17" continent="1" />
+            <EnterLocation pos="7919.4717,23047.8809,17" continent="1" />
+            <EnterLocation pos="7946.3774,23044.6699,17" continent="1" />
+            <LeaveLocation pos="744.7940,3197.9006,1224.7480" continent="1" />
+            <LeaveLocation pos="759.0857,2994.4871,1224.7485" continent="1" />
+            <LeaveLocation pos="365.6697,3439.8354,1224.7433" continent="1" />
+            <ShownLocation pos="100, 2000, 2155" continent="1" />
+        </Agit>
+        <Agit id="2" grade="LUXURY" codeName="V1-1" baseSellPrice="3000" rent="100" size="LARGE">
+            <EnterLocation pos="7901.3569,23003.7422,17" continent="1" />
+            <EnterLocation pos="7919.4717,23047.8809,17" continent="1" />
+            <EnterLocation pos="7946.3774,23044.6699,17" continent="1" />
+            <LeaveLocation pos="744.7940,3197.9006,1224.7480" continent="1" />
+            <LeaveLocation pos="759.0857,2994.4871,1224.7485" continent="1" />
+            <LeaveLocation pos="365.6697,3439.8354,1224.7433" continent="1" />
+            <ShownLocation pos="500, 1500, 2155" continent="1" />
+        </Agit>
+        <Agit id="3" grade="GOOD" codeName="Vk2-1" baseSellPrice="200" rent="10" size="BIG">
+            <EnterLocation pos="7633.0391,38461.6836,322.1039" continent="1" />
+            <EnterLocation pos="7666.6768,38489.6563,322.0838" continent="1" />
+            <EnterLocation pos="7714.5464,38256.9648,322.1058" continent="1" />
+            <LeaveLocation pos="744.7940,3197.9006,1224.7480" continent="1" />
+            <LeaveLocation pos="759.0857,2994.4871,1224.7485" continent="1" />
+            <LeaveLocation pos="365.6697,3439.8354,1224.7433" continent="1" />
+            <ShownLocation pos="-4248, 8356, 2185" continent="1" />
+        </Agit>
+        <Agit id="4" grade="BAD" codeName="Vk2-1" baseSellPrice="100" rent="10" size="SMALL">
+            <EnterLocation pos="7603.1104,53827.0547,291.2831" continent="1" />
+            <EnterLocation pos="17650.2539,53818.6055,291.2655" continent="1" />
+            <EnterLocation pos="7696.6406,53806.1719,291.2672" continent="1" />
+            <LeaveLocation pos="1941.9764,3985.1230,1224.7444" continent="1" />
+            <LeaveLocation pos="1850.7080,4310.1279,1224.7467" continent="1" />
+            <LeaveLocation pos="2222.8870,3545.2742,1224.7499" continent="1" />
+            <ShownLocation pos="-4348, 8356, 2185" continent="1" />
+        </Agit>
+    </AgitSite>
+    <AgitSite id="2" codeName="SOUTH" mapGuardId="3" mapSectionId="14" mapWorldId="1">
+        <Agit id="5" grade="LUXURY" codeName="SOUTH_1" baseSellPrice="300" rent="10" size="LARGE">
+            <EnterLocation pos="100, 200, 300" continent="1" />
+            <EnterLocation pos="110, 200, 300" continent="1" />
+            <EnterLocation pos="120, 200, 300" continent="1" />
+            <LeaveLocation pos="100, 200, 300" continent="1" />
+            <LeaveLocation pos="110, 200, 300" continent="1" />
+            <LeaveLocation pos="120, 200, 300" continent="1" />
+            <ShownLocation pos="100, 200, 300" continent="1" />
+        </Agit>
+        <Agit id="6" grade="GOOD" codeName="SOUTH_2" baseSellPrice="200" rent="10" size="BIG">
+            <EnterLocation pos="100, 200, 300" continent="1" />
+            <EnterLocation pos="110, 200, 300" continent="1" />
+            <EnterLocation pos="120, 200, 300" continent="1" />
+            <LeaveLocation pos="100, 200, 300" continent="1" />
+            <LeaveLocation pos="110, 200, 300" continent="1" />
+            <LeaveLocation pos="120, 200, 300" continent="1" />
+            <ShownLocation pos="100, 200, 300" continent="1" />
+        </Agit>
+        <Agit id="7" grade="BAD" codeName="SOUTH_3" baseSellPrice="100" rent="10" size="SMALL">
+            <EnterLocation pos="100, 200, 300" continent="1" />
+            <EnterLocation pos="110, 200, 300" continent="1" />
+            <EnterLocation pos="120, 200, 300" continent="1" />
+            <LeaveLocation pos="100, 200, 300" continent="1" />
+            <LeaveLocation pos="110, 200, 300" continent="1" />
+            <LeaveLocation pos="120, 200, 300" continent="1" />
+            <ShownLocation pos="100, 200, 300" continent="1" />
+        </Agit>
+    </AgitSite>
+</AgitData>

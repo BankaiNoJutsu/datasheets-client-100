@@ -1,0 +1,403 @@
+<NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="2003" xmlns="https://vezel.dev/novadrop/dc/NpcData">
+    <Template id="100" name="리벤즈1" scale="1.4" gender="male" race="fdi_naga" size="medium" shapeId="303621" basicActionId="3036210" resourceSize="100" resourceType="medium" parentId="30362100" elite="false" invincible="true" isObjectNpc="false" unionElite="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="225" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="67" def="8960" atk="1500" maxHp="12448770" />
+    </Template>
+    <Template id="101" name="리벤즈2" scale="1.4" gender="male" race="fdi_naga" size="medium" shapeId="303621" basicActionId="3036210" resourceSize="100" resourceType="medium" parentId="30362100" elite="false" invincible="true" isObjectNpc="false" unionElite="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="225" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="67" def="8960" atk="1500" maxHp="12448770" />
+    </Template>
+    <Template id="110" name="쟈넬라1" scale="1" gender="female" race="Castanic" size="medium" shapeId="520080" basicActionId="5001600" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" isWideBroadcaster="false" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="111" name="쟈넬라2" scale="1" gender="female" race="Castanic" size="medium" shapeId="520080" basicActionId="5001600" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" isWideBroadcaster="false" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="112" name="쟈넬라3" scale="1" gender="female" race="Castanic" size="medium" shapeId="520080" basicActionId="5001600" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" isWideBroadcaster="false" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="113" name="쟈넬라4" scale="1" gender="female" race="Castanic" size="medium" shapeId="520080" basicActionId="5001600" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" collideOnMove="false" dontTurn="false" invincible="true" isObjectNpc="false" isWideBroadcaster="false" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="120" name="[스토리용]fdi_용족_무투가" scale="1" gender="male" race="fdi_dragonian" size="medium" shapeId="303850" basicActionId="3038500" resourceSize="100" resourceType="medium" parentId="30385000" despawnScriptId="2003010005" elite="false" invincible="true" isObjectNpc="false" isWideBroadcaster="true" unionElite="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="225" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="68" def="8960" atk="86400" maxHp="2761600000" />
+    </Template>
+    <Template id="130" name="[빌리저]나가_여성D_1" scale="1.4" gender="female" race="fdi_naga" size="medium" shapeId="303631" basicActionId="3036310" resourceSize="100" resourceType="medium" parentId="30363100" elite="false" invincible="true" isObjectNpc="false" unionElite="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="225" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="67" def="8960" atk="1500" maxHp="12448770" />
+    </Template>
+    <Template id="131" name="[빌리저]나가_여성D_2" scale="1.4" gender="female" race="fdi_naga" size="medium" shapeId="303631" basicActionId="3036310" resourceSize="100" resourceType="medium" parentId="30363100" elite="false" invincible="true" isObjectNpc="false" unionElite="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="225" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="67" def="8960" atk="1500" maxHp="12448770" />
+    </Template>
+    <Template id="132" name="[빌리저]나가_여성D_3" scale="1.4" gender="female" race="fdi_naga" size="medium" shapeId="303631" basicActionId="3036310" resourceSize="100" resourceType="medium" parentId="30363100" elite="false" invincible="true" isObjectNpc="false" unionElite="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="225" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="67" def="8960" atk="1500" maxHp="12448770" />
+    </Template>
+    <Template id="140" name="변장한 트로" scale="1" gender="male" race="fdi_dragonian" size="medium" shapeId="303880" basicActionId="3038800" resourceSize="100" resourceType="medium" parentId="30388000" elite="false" invincible="true" isObjectNpc="false" unionElite="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <AltAnimation />
+        <Anger gaugeSize="225" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="67" def="8960" atk="1500" maxHp="12448770" />
+    </Template>
+    <Template id="1000" name="fdi_용족_인형사1" scale="1" gender="female" race="fdi_dragonian" size="medium" shapeId="303770" basicActionId="3037700" resourceSize="100" resourceType="medium" parentId="30377000" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <NamePlate nameplateHeight="40" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1001" name="fdi_용족_관리자" scale="1.18" gender="female" race="fdi_dragonian" size="medium" shapeId="303680" basicActionId="3036800" resourceSize="100" resourceType="medium" parentId="30368000" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1002" name="fdi_용족_기술자1" scale="1" gender="male" race="fdi_dragonian" size="medium" shapeId="303870" basicActionId="3038700" resourceSize="100" resourceType="medium" parentId="30387000" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1003" name="fdi_용족_기술자2" scale="1" gender="male" race="fdi_dragonian" size="medium" shapeId="303880" basicActionId="3038800" resourceSize="100" resourceType="medium" parentId="30388000" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1004" name="fdi_용족_무투가" scale="1" gender="male" race="fdi_dragonian" size="medium" shapeId="303850" basicActionId="3038500" resourceSize="100" resourceType="medium" parentId="30385000" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1005" name="fdi_용족_인형사2" scale="1" gender="female" race="fdi_dragonian" size="medium" shapeId="303780" basicActionId="3037800" resourceSize="100" resourceType="medium" parentId="30378000" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <NamePlate nameplateHeight="40" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1100" name="fdi_나가_전투_가신" scale="1.4" gender="female" race="fdi_naga" size="medium" shapeId="303601" basicActionId="3036010" resourceSize="100" resourceType="medium" parentId="30360100" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1101" name="fdi_나가_전투_경비" scale="1.4" gender="female" race="fdi_naga" size="medium" shapeId="303600" basicActionId="3036000" resourceSize="100" resourceType="medium" parentId="30360000" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1102" name="fdi_나가_왜소_가신" scale="1.4" gender="male" race="fdi_naga" size="medium" shapeId="303614" basicActionId="3036140" resourceSize="100" resourceType="medium" parentId="30361400" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1103" name="fdi_나가_여성_가신" scale="1.4" gender="female" race="fdi_naga" size="medium" shapeId="303631" basicActionId="3036310" resourceSize="100" resourceType="medium" parentId="30363100" elite="false" invincible="false" isObjectNpc="false" speciesId="6" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1200" name="fdi_BLS_거미" scale="1" gender="male" race="BLS_Souleater" size="medium" shapeId="303700" basicActionId="3037000" resourceSize="100" resourceType="medium" parentId="30370000" elite="false" invincible="false" isObjectNpc="false" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="2956609" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1201" name="fdi_BLS_겅중이" scale="1.85" gender="male" race="BLS_Otyugh" size="medium" shapeId="303690" basicActionId="3036900" resourceSize="100" resourceType="medium" parentId="30369000" elite="false" invincible="false" isObjectNpc="false" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="5913218" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="33114021.6" />
+    </Template>
+    <Template id="1501" name="베르아크 성채 입장 차원의 마법석" scale="0.625" race="object" size="medium" shapeId="600920" basicActionId="200010" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" balanceType="" collideOnMove="true" dontTurn="true" elite="false" invincible="true" isFreeNamed="false" isObjectNpc="false" isWideBroadcaster="false" partyMember="0" showAggroTarget="false" showShorttermTarget="false" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <BalanceRef ignoreAttr="" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="50" maxHp="10000" />
+    </Template>
+    <Template id="1502" name="칼리가르 스토리 입장 차원의 마법석" scale="0.625" race="object" size="medium" shapeId="600920" basicActionId="200010" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" balanceType="" collideOnMove="true" dontTurn="true" elite="false" invincible="true" isFreeNamed="false" isObjectNpc="false" isWideBroadcaster="false" partyMember="0" showAggroTarget="false" showShorttermTarget="false" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <BalanceRef ignoreAttr="" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="50" maxHp="10000" />
+    </Template>
+    <Template id="1503" name="칼리가르 입장 차원의 마법석" scale="0.625" race="object" size="medium" shapeId="600920" basicActionId="200010" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" balanceType="" collideOnMove="true" dontTurn="true" elite="false" invincible="true" isFreeNamed="false" isObjectNpc="false" isWideBroadcaster="false" partyMember="0" showAggroTarget="false" showShorttermTarget="false" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <BalanceRef ignoreAttr="" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="50" maxHp="10000" />
+    </Template>
+    <Template id="5000" name="fdi_중형_습곡포식자" scale="1" gender="male" race="Vally Predator" size="large" shapeId="303560" basicActionId="3035600" resourceSize="100" resourceType="large" parentId="30356000" elite="true" invincible="false" isObjectNpc="false" unionElite="false" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation>
+            <AltAnim type="run" altAnimName="activeMove_Loop" />
+        </AltAnimation>
+        <Anger gaugeSize="12811996" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="71747180.8" />
+    </Template>
+    <Template id="5100" name="fdi_중형_큰나가" scale="1" gender="male" race="beast" size="large" shapeId="303830" basicActionId="3038300" resourceSize="100" resourceType="large" parentId="30383000" balanceType="파티_중형" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="true" showShorttermTarget="true" speciesId="6" unionElite="false" useAutoTurnTime="true" villager="false">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="12811996" />
+        <BalanceRef ignoreAttr="atk,def,maxHp,exp,statRes,basicRes" />
+        <NamePlate nameplateHeight="35" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="73" def="8960" atk="1318340" maxHp="71747180.8" />
+    </Template>
+    <Template id="6000" name="리베란츠평판상인" scale="1" gender="male" race="fdi_naga" size="medium" shapeId="303612" basicActionId="3036120" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" balanceType="" collideOnMove="false" dontTurn="false" elite="false" invincible="true" isFreeNamed="false" isObjectNpc="false" isWideBroadcaster="false" partyMember="0" showAggroTarget="false" showShorttermTarget="false" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <BalanceRef ignoreAttr="" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+    <Template id="10000" name="쟈넬라" scale="1" gender="female" race="Castanic" size="medium" shapeId="521010" basicActionId="5210100" resourceSize="100" resourceType="medium" parentId="52101000" elite="false" invincible="true" isObjectNpc="false" unionElite="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation />
+        <Anger gaugeSize="331" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="32" def="113" atk="50" maxHp="945.951111" />
+    </Template>
+    <Template id="20000" name="용족 포탈" scale="2.5" gender="male" race="NPC" size="medium" shapeId="652990" basicActionId="6529910" spawnScriptId="2050001" resourceSize="100" resourceType="medium" parentId="65299000" balanceType="" dontTurn="true" elite="false" invincible="true" isFreeNamed="false" isObjectNpc="false" partyMember="0" showAggroTarget="false" showShorttermTarget="false" unionElite="false" villager="true">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <AltAnimation>
+            <AltAnim type="unarmedwait" altAnimName="OpenWait" />
+        </AltAnimation>
+        <Anger gaugeSize="3076" />
+        <BalanceRef ignoreAttr="" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="13" def="99999999" atk="30" maxHp="99999" />
+    </Template>
+    <Template id="50011" name="사냥터 이동 마법석" scale="0.2" gender="male" race="object" size="medium" shapeId="303990" basicActionId="3039900" class="" spawnScriptId="0" resourceSize="100" resourceType="medium" despawnScriptId="0" balanceType="" collideOnMove="false" dontTurn="true" elite="false" invincible="true" isFreeNamed="false" isObjectNpc="false" isWideBroadcaster="false" partyMember="0" showAggroTarget="false" showShorttermTarget="false" unionId="1" villager="true" villagerVolumeActiveRange="0" villagerVolumeHalfHeight="0" villagerVolumeInteractionDist="0" villagerVolumeOffset="">
+        <AbnormalityResistanceOverride>
+            <Abnormality />
+            <Abnormality />
+            <Abnormality />
+        </AbnormalityResistanceOverride>
+        <Aggro />
+        <Anger gaugeSize="403799" />
+        <BalanceRef ignoreAttr="" />
+        <NamePlate nameplateHeight="0" deathNameplateHeight="0" />
+        <Reaction maxAdditionalGauge="600000" />
+        <Stat level="40" def="2000" atk="100" maxHp="10000" />
+    </Template>
+</NpcData>

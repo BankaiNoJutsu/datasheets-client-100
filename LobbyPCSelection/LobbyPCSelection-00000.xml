@@ -1,0 +1,259 @@
+<LobbyPCSelection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/LobbyPCSelection LobbyPCSelection.xsd" xmlns="https://vezel.dev/novadrop/dc/LobbyPCSelection">
+    <AnimationList>
+        <EnterMotion>
+            <Info animName="Run" animRate="1" genderInfo="female" raceInfo="castanic" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="male" raceInfo="castanic" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="male" raceInfo="human" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="female" raceInfo="human" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="female" raceInfo="popori" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="male" raceInfo="popori" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="female" raceInfo="highelf" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="male" raceInfo="highelf" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="male" raceInfo="baraka" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="female" raceInfo="aman" weaponIn="false" />
+            <Info animName="Run" animRate="1" genderInfo="male" raceInfo="aman" weaponIn="false" />
+        </EnterMotion>
+        <IdleMotion>
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="female" raceInfo="castanic" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="male" raceInfo="castanic" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.7" genderInfo="male" raceInfo="human" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="female" raceInfo="human" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.6" genderInfo="female" raceInfo="popori" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.8" genderInfo="male" raceInfo="popori" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="female" raceInfo="highelf" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.7" genderInfo="male" raceInfo="highelf" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.7" genderInfo="male" raceInfo="baraka" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="female" raceInfo="aman" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.7" genderInfo="male" raceInfo="aman" weaponIn="true" />
+        </IdleMotion>
+        <SelectMotion>
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="female" raceInfo="castanic" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="male" raceInfo="castanic" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.7" genderInfo="male" raceInfo="human" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="female" raceInfo="human" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.6" genderInfo="female" raceInfo="popori" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.8" genderInfo="male" raceInfo="popori" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="female" raceInfo="highelf" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.7" genderInfo="male" raceInfo="highelf" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.7" genderInfo="male" raceInfo="baraka" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.5" genderInfo="female" raceInfo="aman" weaponIn="true" />
+            <Info animName="unarmedwait" animRate="0.7" genderInfo="male" raceInfo="aman" weaponIn="true" />
+        </SelectMotion>
+    </AnimationList>
+    <CameraPath>
+        <Path id="999" fromCamera="0" pathName="P01" toCamera="0" />
+        <Path id="1" fromCamera="0" pathName="P01" toCamera="1" />
+        <Path id="2" fromCamera="0" pathName="P02" toCamera="2" />
+        <Path id="3" fromCamera="0" pathName="P03" toCamera="3" />
+        <Path id="4" fromCamera="0" pathName="P04" toCamera="4" />
+        <Path id="5" fromCamera="0" pathName="P05" toCamera="5" />
+        <Path id="6" fromCamera="0" pathName="P06" toCamera="6" />
+        <Path id="7" fromCamera="0" pathName="P07" toCamera="7" />
+        <Path id="8" fromCamera="0" pathName="P08" toCamera="8" />
+        <Path id="9" fromCamera="1" pathName="P10" toCamera="0" />
+        <Path id="10" fromCamera="1" pathName="P12" toCamera="2" />
+        <Path id="11" fromCamera="1" pathName="P13" toCamera="3" />
+        <Path id="12" fromCamera="1" pathName="P14" toCamera="4" />
+        <Path id="13" fromCamera="1" pathName="P15" toCamera="5" />
+        <Path id="14" fromCamera="1" pathName="P16" toCamera="6" />
+        <Path id="15" fromCamera="1" pathName="P17" toCamera="7" />
+        <Path id="16" fromCamera="1" pathName="P18" toCamera="8" />
+        <Path id="17" fromCamera="2" pathName="P20" toCamera="0" />
+        <Path id="18" fromCamera="2" pathName="P21" toCamera="1" />
+        <Path id="19" fromCamera="2" pathName="P23" toCamera="3" />
+        <Path id="20" fromCamera="2" pathName="P24" toCamera="4" />
+        <Path id="21" fromCamera="2" pathName="P25" toCamera="5" />
+        <Path id="22" fromCamera="2" pathName="P26" toCamera="6" />
+        <Path id="23" fromCamera="2" pathName="P27" toCamera="7" />
+        <Path id="24" fromCamera="2" pathName="P28" toCamera="8" />
+        <Path id="25" fromCamera="3" pathName="P30" toCamera="0" />
+        <Path id="26" fromCamera="3" pathName="P31" toCamera="1" />
+        <Path id="27" fromCamera="3" pathName="P32" toCamera="2" />
+        <Path id="28" fromCamera="3" pathName="P34" toCamera="4" />
+        <Path id="29" fromCamera="3" pathName="P35" toCamera="5" />
+        <Path id="30" fromCamera="3" pathName="P36" toCamera="6" />
+        <Path id="31" fromCamera="3" pathName="P37" toCamera="7" />
+        <Path id="32" fromCamera="3" pathName="P38" toCamera="8" />
+        <Path id="33" fromCamera="4" pathName="P40" toCamera="0" />
+        <Path id="34" fromCamera="4" pathName="P41" toCamera="1" />
+        <Path id="35" fromCamera="4" pathName="P42" toCamera="2" />
+        <Path id="36" fromCamera="4" pathName="P43" toCamera="3" />
+        <Path id="37" fromCamera="4" pathName="P45" toCamera="5" />
+        <Path id="38" fromCamera="4" pathName="P46" toCamera="6" />
+        <Path id="39" fromCamera="4" pathName="P47" toCamera="7" />
+        <Path id="40" fromCamera="4" pathName="P48" toCamera="8" />
+        <Path id="41" fromCamera="5" pathName="P50" toCamera="0" />
+        <Path id="42" fromCamera="5" pathName="P51" toCamera="1" />
+        <Path id="43" fromCamera="5" pathName="P52" toCamera="2" />
+        <Path id="44" fromCamera="5" pathName="P53" toCamera="3" />
+        <Path id="45" fromCamera="5" pathName="P54" toCamera="4" />
+        <Path id="46" fromCamera="5" pathName="P56" toCamera="6" />
+        <Path id="47" fromCamera="5" pathName="P57" toCamera="7" />
+        <Path id="48" fromCamera="5" pathName="P58" toCamera="8" />
+        <Path id="49" fromCamera="6" pathName="P60" toCamera="0" />
+        <Path id="50" fromCamera="6" pathName="P61" toCamera="1" />
+        <Path id="51" fromCamera="6" pathName="P62" toCamera="2" />
+        <Path id="52" fromCamera="6" pathName="P63" toCamera="3" />
+        <Path id="53" fromCamera="6" pathName="P64" toCamera="4" />
+        <Path id="54" fromCamera="6" pathName="P65" toCamera="5" />
+        <Path id="55" fromCamera="6" pathName="P67" toCamera="7" />
+        <Path id="56" fromCamera="6" pathName="P68" toCamera="8" />
+        <Path id="57" fromCamera="7" pathName="P70" toCamera="0" />
+        <Path id="58" fromCamera="7" pathName="P71" toCamera="1" />
+        <Path id="59" fromCamera="7" pathName="P72" toCamera="2" />
+        <Path id="60" fromCamera="7" pathName="P73" toCamera="3" />
+        <Path id="61" fromCamera="7" pathName="P74" toCamera="4" />
+        <Path id="62" fromCamera="7" pathName="P75" toCamera="5" />
+        <Path id="63" fromCamera="7" pathName="P76" toCamera="6" />
+        <Path id="64" fromCamera="7" pathName="P78" toCamera="8" />
+        <Path id="65" fromCamera="8" pathName="P80" toCamera="0" />
+        <Path id="66" fromCamera="8" pathName="P81" toCamera="1" />
+        <Path id="67" fromCamera="8" pathName="P82" toCamera="2" />
+        <Path id="68" fromCamera="8" pathName="P83" toCamera="3" />
+        <Path id="69" fromCamera="8" pathName="P84" toCamera="4" />
+        <Path id="70" fromCamera="8" pathName="P85" toCamera="5" />
+        <Path id="71" fromCamera="8" pathName="P86" toCamera="6" />
+        <Path id="72" fromCamera="8" pathName="P87" toCamera="7" />
+    </CameraPath>
+    <DeletionEffect nameColor="150,150,150" />
+    <LobbyPCList>
+        <LobbyPC templateId="10101" animSet="Human_M_ANI.Anim.Human_M_Class01_Anim" animSetShare="Human_M_ANI.Anim.Human_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10102" animSet="Human_M_ANI.Anim.Human_M_Class02_Anim" animSetShare="Human_M_ANI.Anim.Human_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10103" animSet="Human_M_ANI.Anim.Human_M_Class03_Anim" animSetShare="Human_M_ANI.Anim.Human_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10104" animSet="Human_M_ANI.Anim.Human_M_Class04_Anim" animSetShare="Human_M_ANI.Anim.Human_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10105" animSet="Human_M_ANI.Anim.Human_M_Class05_Anim" animSetShare="Human_M_ANI.Anim.Human_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10106" animSet="Human_M_ANI.Anim.Human_M_Class06_Anim" animSetShare="Human_M_ANI.Anim.Human_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10107" animSet="Human_M_ANI.Anim.Human_M_Class07_Anim" animSetShare="Human_M_ANI.Anim.Human_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10108" animSet="Human_M_ANI.Anim.Human_M_Class08_Anim" animSetShare="Human_M_ANI.Anim.Human_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10111" animSet="Human_M_ANI.Anim.Human_M_Class11_Anim" animSetShare="Human_M_ANI.Anim.Human_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10201" animSet="Human_F_ANI.Anim.Human_F_Class01_Anim" animSetShare="Human_F_ANI.Anim.Human_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10202" animSet="Human_F_ANI.Anim.Human_F_Class02_Anim" animSetShare="Human_F_ANI.Anim.Human_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10203" animSet="Human_F_ANI.Anim.Human_F_Class03_Anim" animSetShare="Human_F_ANI.Anim.Human_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10204" animSet="Human_F_ANI.Anim.Human_F_Class04_Anim" animSetShare="Human_F_ANI.Anim.Human_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10205" animSet="Human_F_ANI.Anim.Human_F_Class05_Anim" animSetShare="Human_F_ANI.Anim.Human_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10206" animSet="Human_F_ANI.Anim.Human_F_Class06_Anim" animSetShare="Human_F_ANI.Anim.Human_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10207" animSet="Human_F_ANI.Anim.Human_F_Class07_Anim" animSetShare="Human_F_ANI.Anim.Human_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10208" animSet="Human_F_ANI.Anim.Human_F_Class08_Anim" animSetShare="Human_F_ANI.Anim.Human_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10211" animSet="Human_F_ANI.Anim.Human_F_Class11_Anim" animSetShare="Human_F_ANI.Anim.Human_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10301" animSet="HighElf_M_ANI.Anim.HighElf_M_Class01_Anim" animSetShare="HighElf_M_ANI.Anim.HighElf_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10302" animSet="HighElf_M_ANI.Anim.HighElf_M_Class02_Anim" animSetShare="HighElf_M_ANI.Anim.HighElf_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10303" animSet="HighElf_M_ANI.Anim.HighElf_M_Class03_Anim" animSetShare="HighElf_M_ANI.Anim.HighElf_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10304" animSet="HighElf_M_ANI.Anim.HighElf_M_Class04_Anim" animSetShare="HighElf_M_ANI.Anim.HighElf_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10305" animSet="HighElf_M_ANI.Anim.HighElf_M_Class05_Anim" animSetShare="HighElf_M_ANI.Anim.HighElf_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10306" animSet="HighElf_M_ANI.Anim.HighElf_M_Class06_Anim" animSetShare="HighElf_M_ANI.Anim.HighElf_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10307" animSet="HighElf_M_ANI.Anim.HighElf_M_Class07_Anim" animSetShare="HighElf_M_ANI.Anim.HighElf_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10308" animSet="HighElf_M_ANI.Anim.HighElf_M_Class08_Anim" animSetShare="HighElf_M_ANI.Anim.HighElf_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10401" animSet="HighElf_F_ANI.Anim.HighElf_F_Class01_Anim" animSetShare="HighElf_F_ANI.Anim.HighElf_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10402" animSet="HighElf_F_ANI.Anim.HighElf_F_Class02_Anim" animSetShare="HighElf_F_ANI.Anim.HighElf_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10403" animSet="HighElf_F_ANI.Anim.HighElf_F_Class03_Anim" animSetShare="HighElf_F_ANI.Anim.HighElf_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10404" animSet="HighElf_F_ANI.Anim.HighElf_F_Class04_Anim" animSetShare="HighElf_F_ANI.Anim.HighElf_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10405" animSet="HighElf_F_ANI.Anim.HighElf_F_Class05_Anim" animSetShare="HighElf_F_ANI.Anim.HighElf_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10406" animSet="HighElf_F_ANI.Anim.HighElf_F_Class06_Anim" animSetShare="HighElf_F_ANI.Anim.HighElf_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10407" animSet="HighElf_F_ANI.Anim.HighElf_F_Class07_Anim" animSetShare="HighElf_F_ANI.Anim.HighElf_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10408" animSet="HighElf_F_ANI.Anim.HighElf_F_Class08_Anim" animSetShare="HighElf_F_ANI.Anim.HighElf_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10410" animSet="HighElf_F_ANI.Anim.HighElf_F_Class10_Anim" animSetShare="HighElf_F_ANI.Anim.HighElf_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10501" animSet="Aman_M_ANI.Anim.Aman_M_Class01_Anim" animSetShare="Aman_M_ANI.Anim.Aman_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="10502" animSet="Aman_M_ANI.Anim.Aman_M_Class02_Anim" animSetShare="Aman_M_ANI.Anim.Aman_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="10503" animSet="Aman_M_ANI.Anim.Aman_M_Class03_Anim" animSetShare="Aman_M_ANI.Anim.Aman_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="10504" animSet="Aman_M_ANI.Anim.Aman_M_Class04_Anim" animSetShare="Aman_M_ANI.Anim.Aman_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="10505" animSet="Aman_M_ANI.Anim.Aman_M_Class05_Anim" animSetShare="Aman_M_ANI.Anim.Aman_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="10506" animSet="Aman_M_ANI.Anim.Aman_M_Class06_Anim" animSetShare="Aman_M_ANI.Anim.Aman_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="10507" animSet="Aman_M_ANI.Anim.Aman_M_Class07_Anim" animSetShare="Aman_M_ANI.Anim.Aman_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="10508" animSet="Aman_M_ANI.Anim.Aman_M_Class08_Anim" animSetShare="Aman_M_ANI.Anim.Aman_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="10601" animSet="Aman_F_ANI.Anim.Aman_F_Class01_Anim" animSetShare="Aman_F_ANI.Anim.Aman_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10602" animSet="Aman_F_ANI.Anim.Aman_F_Class02_Anim" animSetShare="Aman_F_ANI.Anim.Aman_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10603" animSet="Aman_F_ANI.Anim.Aman_F_Class03_Anim" animSetShare="Aman_F_ANI.Anim.Aman_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10604" animSet="Aman_F_ANI.Anim.Aman_F_Class04_Anim" animSetShare="Aman_F_ANI.Anim.Aman_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10605" animSet="Aman_F_ANI.Anim.Aman_F_Class05_Anim" animSetShare="Aman_F_ANI.Anim.Aman_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10606" animSet="Aman_F_ANI.Anim.Aman_F_Class06_Anim" animSetShare="Aman_F_ANI.Anim.Aman_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10607" animSet="Aman_F_ANI.Anim.Aman_F_Class07_Anim" animSetShare="Aman_F_ANI.Anim.Aman_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10608" animSet="Aman_F_ANI.Anim.Aman_F_Class08_Anim" animSetShare="Aman_F_ANI.Anim.Aman_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10701" animSet="Castanic_M_ANI.Anim.Castanic_M_Class01_Anim" animSetShare="Castanic_M_ANI.Anim.Castanic_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10702" animSet="Castanic_M_ANI.Anim.Castanic_M_Class02_Anim" animSetShare="Castanic_M_ANI.Anim.Castanic_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10703" animSet="Castanic_M_ANI.Anim.Castanic_M_Class03_Anim" animSetShare="Castanic_M_ANI.Anim.Castanic_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10704" animSet="Castanic_M_ANI.Anim.Castanic_M_Class04_Anim" animSetShare="Castanic_M_ANI.Anim.Castanic_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10705" animSet="Castanic_M_ANI.Anim.Castanic_M_Class05_Anim" animSetShare="Castanic_M_ANI.Anim.Castanic_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10706" animSet="Castanic_M_ANI.Anim.Castanic_M_Class06_Anim" animSetShare="Castanic_M_ANI.Anim.Castanic_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10707" animSet="Castanic_M_ANI.Anim.Castanic_M_Class07_Anim" animSetShare="Castanic_M_ANI.Anim.Castanic_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10708" animSet="Castanic_M_ANI.Anim.Castanic_M_Class08_Anim" animSetShare="Castanic_M_ANI.Anim.Castanic_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="15" randomStartTo="50" />
+        <LobbyPC templateId="10801" animSet="Castanic_F_ANI.Anim.Castanic_F_Class01_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10802" animSet="Castanic_F_ANI.Anim.Castanic_F_Class02_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10803" animSet="Castanic_F_ANI.Anim.Castanic_F_Class03_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10804" animSet="Castanic_F_ANI.Anim.Castanic_F_Class04_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10805" animSet="Castanic_F_ANI.Anim.Castanic_F_Class05_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10806" animSet="Castanic_F_ANI.Anim.Castanic_F_Class06_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10807" animSet="Castanic_F_ANI.Anim.Castanic_F_Class07_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10808" animSet="Castanic_F_ANI.Anim.Castanic_F_Class08_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10810" animSet="Castanic_F_ANI.Anim.Castanic_F_Class10_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10813" animSet="Castanic_F_ANI.Anim.Castanic_F_Class13_Anim" animSetShare="Castanic_F_ANI.Anim.Castanic_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10901" animSet="Popori_M_ANI.Anim.Popori_M_Class01_Anim" animSetShare="Popori_M_ANI.Anim.Popori_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10902" animSet="Popori_M_ANI.Anim.Popori_M_Class02_Anim" animSetShare="Popori_M_ANI.Anim.Popori_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10903" animSet="Popori_M_ANI.Anim.Popori_M_Class03_Anim" animSetShare="Popori_M_ANI.Anim.Popori_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10904" animSet="Popori_M_ANI.Anim.Popori_M_Class04_Anim" animSetShare="Popori_M_ANI.Anim.Popori_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10905" animSet="Popori_M_ANI.Anim.Popori_M_Class05_Anim" animSetShare="Popori_M_ANI.Anim.Popori_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10906" animSet="Popori_M_ANI.Anim.Popori_M_Class06_Anim" animSetShare="Popori_M_ANI.Anim.Popori_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10907" animSet="Popori_M_ANI.Anim.Popori_M_Class07_Anim" animSetShare="Popori_M_ANI.Anim.Popori_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10908" animSet="Popori_M_ANI.Anim.Popori_M_Class08_Anim" animSetShare="Popori_M_ANI.Anim.Popori_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="10911" animSet="Popori_M_ANI.Anim.Popori_M_Class11_Anim" animSetShare="Popori_M_ANI.Anim.Popori_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11001" animSet="Popori_F_ANI.Anim.Popori_F_Class01_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11002" animSet="Popori_F_ANI.Anim.Popori_F_Class02_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11003" animSet="Popori_F_ANI.Anim.Popori_F_Class03_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11004" animSet="Popori_F_ANI.Anim.Popori_F_Class04_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11005" animSet="Popori_F_ANI.Anim.Popori_F_Class05_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11006" animSet="Popori_F_ANI.Anim.Popori_F_Class06_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11007" animSet="Popori_F_ANI.Anim.Popori_F_Class07_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11008" animSet="Popori_F_ANI.Anim.Popori_F_Class08_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11009" animSet="Popori_F_ANI.Anim.Popori_F_Class09_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11010" animSet="Popori_F_ANI.Anim.Popori_F_Class10_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11011" animSet="Popori_F_ANI.Anim.Popori_F_Class11_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_G_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11012" animSet="Popori_F_ANI.Anim.Popori_F_Class12_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_AS_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11013" animSet="Popori_F_ANI.Anim.Popori_F_Class13_Anim" animSetShare="Popori_F_ANI.Anim.Popori_F_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="10" randomStartTo="40" />
+        <LobbyPC templateId="11101" animSet="Baraka_M_ANI.Anim.Baraka_M_Class01_Anim" animSetShare="Baraka_M_ANI.Anim.Baraka_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="11102" animSet="Baraka_M_ANI.Anim.Baraka_M_Class02_Anim" animSetShare="Baraka_M_ANI.Anim.Baraka_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="11103" animSet="Baraka_M_ANI.Anim.Baraka_M_Class03_Anim" animSetShare="Baraka_M_ANI.Anim.Baraka_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="11104" animSet="Baraka_M_ANI.Anim.Baraka_M_Class04_Anim" animSetShare="Baraka_M_ANI.Anim.Baraka_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="11105" animSet="Baraka_M_ANI.Anim.Baraka_M_Class05_Anim" animSetShare="Baraka_M_ANI.Anim.Baraka_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="11106" animSet="Baraka_M_ANI.Anim.Baraka_M_Class06_Anim" animSetShare="Baraka_M_ANI.Anim.Baraka_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="11107" animSet="Baraka_M_ANI.Anim.Baraka_M_Class07_Anim" animSetShare="Baraka_M_ANI.Anim.Baraka_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+        <LobbyPC templateId="11108" animSet="Baraka_M_ANI.Anim.Baraka_M_Class08_Anim" animSetShare="Baraka_M_ANI.Anim.Baraka_M_Share_Anim" randomPriority="35,35,30," randomSequences="idle1,idle2,idle3" randomStartFrom="20" randomStartTo="60" />
+    </LobbyPCList>
+    <NormalEffect nameColor="107,255,96" restBonusNameColor="85,213,255" />
+    <PCSlot maxCharacterPerLobby="8" overlayColor="255,255,255" overlayDuration="0.5" overlayPower="2">
+        <Slot id="1" pos="-14767,-144690,70490" scale="20" dir="190" />
+        <Slot id="2" pos="-15406,-143451,70677" scale="20" dir="190" />
+        <Slot id="3" pos="-15350,-146290,70490" scale="20" dir="175" />
+        <Slot id="4" pos="-16403,-142507,70616" scale="20" dir="195" />
+        <Slot id="5" pos="-14106,-145720,70697" scale="20" dir="170" />
+        <Slot id="6" pos="-14774,-142490,70966" scale="20" dir="195" />
+        <Slot id="7" pos="-14543,-147107,70894" scale="20" dir="170" />
+        <Slot id="8" pos="-15993,-141221,70861" scale="20" dir="200" />
+        <Slot id="9" pos="-14767,-144613,70490" scale="20" dir="190" />
+        <Slot id="10" pos="-15406,-143451,70677" scale="20" dir="190" />
+        <Slot id="11" pos="-15350,-146165,70490" scale="20" dir="175" />
+        <Slot id="12" pos="-16419,-142528,70616" scale="20" dir="195" />
+        <Slot id="13" pos="-14106,-145668,70697" scale="20" dir="180" />
+        <Slot id="14" pos="-14837,-142498,70966" scale="20" dir="195" />
+        <Slot id="15" pos="-14543,-147107,70894" scale="20" dir="170" />
+        <Slot id="16" pos="-15993,-141221,70861" scale="20" dir="200" />
+        <Slot id="17" pos="-14767,-144613,70490" scale="20" dir="190" />
+        <Slot id="18" pos="-15406,-143451,70677" scale="20" dir="190" />
+        <Slot id="19" pos="-15350,-146165,70490" scale="20" dir="175" />
+        <Slot id="20" pos="-16419,-142528,70616" scale="20" dir="195" />
+    </PCSlot>
+    <PlayLightMatinee>
+        <LightMatinee status="reverse" pathName="L99" toCamera="0" />
+        <LightMatinee status="play" pathName="L01" toCamera="1" />
+        <LightMatinee status="play" pathName="L02" toCamera="2" />
+        <LightMatinee status="play" pathName="L03" toCamera="3" />
+        <LightMatinee status="play" pathName="L04" toCamera="4" />
+        <LightMatinee status="play" pathName="L05" toCamera="5" />
+        <LightMatinee status="play" pathName="L06" toCamera="6" />
+        <LightMatinee status="play" pathName="L07" toCamera="7" />
+        <LightMatinee status="play" pathName="L08" toCamera="8" />
+    </PlayLightMatinee>
+    <SelectionEffect effectId="0" nameColor="0,255,0" restBonusNameColor="0,192,255" />
+    <SoundQueue>
+        <Sound type="GameStart" music="InterfaceSound.NewLobby_UICUE.GameStartCUE" />
+        <Sound type="SelectZoom" music="InterfaceSound.NewLobby_UICUE.Zoom_WhooshCUE" />
+    </SoundQueue>
+</LobbyPCSelection>
