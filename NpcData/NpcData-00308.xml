@@ -134,7 +134,7 @@
         <Anger gaugeSize="2500000" />
         <BalanceRef ignoreAttr="" />
         <Reaction maxAdditionalGauge="600000" />
-        <Stat level="65" def="4464" atk="8000" maxHp="25000000" />
+        <Stat level="68" def="8610" atk="15000" maxHp="250000000" />
     </Template>
     <Template id="77720" name="그림자 괴물_사용안함" scale="2" gender="male" race="ShadowMonster" size="medium" shapeId="301273" basicActionId="3012700" resourceSize="100" resourceType="medium" parentId="30127200" balanceType="" elite="true" invincible="true" isFreeNamed="false" isObjectNpc="false" partyMember="3" showAggroTarget="true" showShorttermTarget="true" unionElite="false" villager="false">
         <AbnormalityResistanceOverride>
