@@ -8,6 +8,6 @@
     <RightChargeTCatBtn enable="false" />
     <UseAwesomium enable="true" />
     <UseCash enable="false" iconId="0" />
-    <UseNPCGuildPoint enable="true" iconId="0" />
-    <UseTcat enable="false" iconId="0" />
+    <UseNPCGuildPoint enable="false" iconId="0" />
+    <UseTcat enable="true" iconId="0" />
 </StyleShopSetting>
