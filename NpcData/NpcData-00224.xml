@@ -1,5 +1,5 @@
 <NpcData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/NpcData NpcData.xsd" huntingZoneId="455" xmlns="https://vezel.dev/novadrop/dc/NpcData">
-    <Template id="100" name="거대 원숭이 (1네임드)" scale="1.7" gender="male" race="GiantMonkey" size="large" shapeId="301930" basicActionId="3019300" resourceSize="100" resourceType="large" parentId="30193000" balanceType="인던_네임드_보스" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" speciesId="8" unionElite="false" villager="false">
+    <Template id="100" name="Ardentmaw" scale="1.7" gender="male" race="GiantMonkey" size="large" shapeId="301930" basicActionId="3019300" resourceSize="100" resourceType="large" parentId="30193000" balanceType="인던_네임드_보스" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" speciesId="8" unionElite="false" villager="false">
         <AbnormalityResistanceOverride>
             <Abnormality />
             <Abnormality />
@@ -10,7 +10,7 @@
         <BalanceRef ignoreAttr="atk,maxHp,moveSpeedUpRate,statRes,miniRes,basicRes,resC" />
         <NamePlate nameplateHeight="50" deathNameplateHeight="90" />
         <Reaction maxAdditionalGauge="600000" />
-        <Stat level="65" def="4464" atk="2469" maxHp="222398500" />
+        <Stat level="71" def="8960" atk="20000" maxHp="620000000" />
     </Template>
     <Template id="101" name="원숭이 (바나나나무)" scale="1" gender="male" race="monkey" size="medium" shapeId="302030" basicActionId="3020300" resourceSize="100" resourceType="medium" parentId="30203000" balanceType="인던_풀-자코" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="false" showShorttermTarget="false" unionElite="false" villager="false">
         <AbnormalityResistanceOverride>
