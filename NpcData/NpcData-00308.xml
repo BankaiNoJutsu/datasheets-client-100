@@ -209,7 +209,7 @@
         <Reaction maxAdditionalGauge="600000" />
         <Stat level="60" def="3296" atk="444" maxHp="545278" />
     </Template>
-    <Template id="77726" name="무사_우호적" scale="3" gender="male" race="Dark_Rook_Slayer" size="medium" shapeId="301453" basicActionId="3014500" resourceSize="100" resourceType="medium" parentId="30145300" balanceType="" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="3" showAggroTarget="true" showShorttermTarget="true" unionElite="false" villager="true">
+    <Template id="77726" name="Channelworks Overseer" scale="3" gender="male" race="Dark_Rook_Slayer" size="medium" shapeId="301453" basicActionId="3014500" resourceSize="100" resourceType="medium" parentId="30145300" balanceType="" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="3" showAggroTarget="true" showShorttermTarget="true" unionElite="false" villager="true">
         <AbnormalityResistanceOverride>
             <Abnormality />
             <Abnormality />
@@ -219,7 +219,7 @@
         <Anger gaugeSize="129828" />
         <BalanceRef ignoreAttr="" />
         <Reaction maxAdditionalGauge="600000" />
-        <Stat level="65" def="4464" atk="6924" maxHp="75687500" />
+        <Stat level="72" def="8000" atk="80000" maxHp="18620000000" />
     </Template>
     <Template id="77727" name="정령사 석상" scale="0.8" gender="" race="" size="medium" shapeId="600950" basicActionId="6009500" resourceSize="0" resourceType="" parentId="60095000" balanceType="" deathShapeId="600951" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="3" showAggroTarget="false" showShorttermTarget="false" unionElite="false" villager="false">
         <AbnormalityResistanceOverride />
