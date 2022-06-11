@@ -184,7 +184,7 @@
         <Anger gaugeSize="129828" />
         <BalanceRef ignoreAttr="" />
         <Reaction maxAdditionalGauge="600000" />
-        <Stat level="72" def="8000" atk="6000" maxHp="128275000" />
+        <Stat level="72" def="8000" atk="6000" maxHp="18620000000" />
     </Template>
     <Template id="77724" name="무사 석상" scale="0.8" gender="" race="" size="medium" shapeId="611290" basicActionId="6112900" resourceSize="0" resourceType="" parentId="61129000" balanceType="" deathShapeId="611291" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="3" showAggroTarget="false" showShorttermTarget="false" unionElite="false" villager="false">
         <AbnormalityResistanceOverride />
@@ -254,7 +254,7 @@
         <Anger gaugeSize="129828" />
         <BalanceRef ignoreAttr="" />
         <Reaction maxAdditionalGauge="600000" />
-        <Stat level="72" def="8000" atk="3720" maxHp="75687500" />
+        <Stat level="72" def="8000" atk="3720" maxHp="18620000000" />
     </Template>
     <Template id="77730" name="Kerkion" scale="3.5" gender="male" race="giant" size="large" shapeId="302160" basicActionId="3021600" resourceSize="0" resourceType="large" parentId="30216000" balanceType="" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" isWideBroadcaster="true" partyMember="3" showAggroTarget="true" showShorttermTarget="false" showTargetInfo="true" speciesId="7" unionElite="false" villager="false">
         <AbnormalityResistanceOverride>
