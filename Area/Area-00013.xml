@@ -4,9 +4,9 @@
         <Fence pos="202486.82812500,-156209.18750000,14095.52539063" />
         <Fence pos="200433.14062500,-10111.16406250,14089.57812500" />
         <Fence pos="40429.00000000,-10661.53906250,14056.86718750" />
-        <FlyLicense>
+      <!--FlyLicense>
             <License licenseAbnormality="30010000,30010001,6039" licenseAbnormalityOperator="OR" licenseAchievement="0" licenseHeightLimit="50000" licenseLevel="0" licensePriority="10000" licenseQuest="200305" />
-        </FlyLicense>
+        </FlyLicense-->
     </FlySection>
     <Section id="1" priority="100" huntingZoneId="2000" nameId="2000000" pcMoveCylinder="true" protect="false" ride="true" addMaxZ="15000" subtractMinZ="15000" campId="0" desTex="false" disableItemId="206000,206001,206002,206003,206004,206005,206006,206007,206008,206009" fishing="false" floor="1" ignoreObstacleShortTel="false" maze="false" optimizeOption="0" pk="false" restBonus="false" vender="false" worldMapSectionId="200001">
         <Fence pos="79016.71093750,-128414.82031250,21582.26562500" />
