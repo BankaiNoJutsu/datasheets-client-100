@@ -508,7 +508,7 @@
             <Area name="ASE_B_P" />
             <Area name="ASE_ENC_P" />
         </ChannelContinent>
-        <ChannelContinent id="7003" desc="[채널]ASW">
+        <ChannelContinent id="7003" desc="[Serpentis Isle]ASW">
             <Area name="ASW_A_P" />
             <Area name="ASW_B_P" />
             <Area name="ASW_C_P" />

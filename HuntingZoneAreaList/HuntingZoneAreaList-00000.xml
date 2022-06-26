@@ -425,9 +425,9 @@
                 <HuntingZone id="308" name="[정치]식인종 소굴" />
             </HuntingZoneList>
         </Area>
-        <Area id="11005" name="AEN_B_P" desc="뱀의 섬">
+        <Area id="11005" name="AEN_B_P" desc="Serpentis Isle">
             <HuntingZoneList>
-                <HuntingZone id="10" name="뱀의 섬" />
+                <HuntingZone id="10" name="Serpentis Isle" />
                 <HuntingZone id="210" name="[사회]뱀의 섬" />
                 <HuntingZone id="310" name="[정치]뱀의 섬" />
             </HuntingZoneList>

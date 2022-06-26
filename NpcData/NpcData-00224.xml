@@ -174,7 +174,7 @@
         <Reaction maxAdditionalGauge="600000" />
         <Stat level="65" def="9999999" atk="672" maxHp="500000" />
     </Template>
-    <Template id="200" name="거대 도마뱀 (2네임드)" scale="1" gender="male" race="GiantStormDrake" size="large" shapeId="300830" basicActionId="3008300" resourceSize="100" resourceType="large" parentId="30083000" balanceType="인던_네임드_보스" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" unionElite="false" villager="false">
+    <Template id="200" name="Forengula" scale="1" gender="male" race="GiantStormDrake" size="large" shapeId="300830" basicActionId="3008300" resourceSize="100" resourceType="large" parentId="30083000" balanceType="인던_네임드_보스" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" unionElite="false" villager="false">
         <AbnormalityResistanceOverride>
             <Abnormality />
             <Abnormality />
@@ -185,7 +185,7 @@
         <BalanceRef ignoreAttr="atk,maxHp,moveSpeedUpRate,statRes,miniRes,basicRes,resC" />
         <NamePlate nameplateHeight="150" deathNameplateHeight="120" />
         <Reaction maxAdditionalGauge="600000" />
-        <Stat level="65" def="4464" atk="1975" maxHp="348102000" />
+        <Stat level="72" def="8960" atk="50000" maxHp="8620000000" />
     </Template>
     <Template id="211" name="단단한 돌덩이" scale="1.5" gender="male" race="NPC_Tuto_CrashStone" size="large" shapeId="641060" basicActionId="6410600" resourceSize="100" resourceType="medium" parentId="64106000" balanceType="밸런싱 안함" elite="false" invincible="false" isFreeNamed="false" isObjectNpc="true" partyMember="1" showAggroTarget="false" showShorttermTarget="false" showTargetInfo="false" unionElite="false" villager="false">
         <AbnormalityResistanceOverride />
@@ -231,7 +231,7 @@
         <Reaction maxAdditionalGauge="600000" />
         <Stat level="65" def="4464" atk="440" maxHp="2097000" />
     </Template>
-    <Template id="300" name="거대 괴조 (3네임드)" scale="1.3" gender="female" race="bird" size="large" shapeId="302710" basicActionId="3027100" resourceSize="100" resourceType="large" parentId="30271000" balanceType="인던_네임드_보스" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" speciesId="7" unionElite="false" villager="false">
+    <Template id="300" name="Nimistrix" scale="1.3" gender="female" race="bird" size="large" shapeId="302710" basicActionId="3027100" resourceSize="100" resourceType="large" parentId="30271000" balanceType="인던_네임드_보스" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="true" showShorttermTarget="true" showTargetInfo="false" speciesId="7" unionElite="false" villager="false">
         <AbnormalityResistanceOverride>
             <Abnormality />
             <Abnormality />
@@ -241,7 +241,7 @@
         <BalanceRef ignoreAttr="atk,maxHp,moveSpeedUpRate,statRes,miniRes,basicRes,resC" />
         <NamePlate nameplateHeight="150" deathNameplateHeight="120" />
         <Reaction maxAdditionalGauge="600000" />
-        <Stat level="65" def="4464" atk="1512" maxHp="357771500" />
+        <Stat level="72" def="8960" atk="90000" maxHp="18620000000" />
     </Template>
     <Template id="310" name="하르키아의 작은 알" scale="0.5" gender="male" race="Egg" size="large" shapeId="641070" basicActionId="6410700" resourceSize="100" resourceType="small" parentId="64107000" balanceType="밸런싱 안함" elite="false" invincible="true" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="false" showShorttermTarget="false" unionElite="false" villager="true">
         <AbnormalityResistanceOverride>

@@ -1,5 +1,5 @@
 <Area xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Area Area.xsd" id="60" areaName="RNC_P" continentId="7031" nameId="19101" pcMoveCylinder="true" protect="false" recallReviveContinentIdB="7031" recallReviveContinentIdC="7031" ride="true" worldMapGuardId="24" worldMapWorldId="1" xmlns="https://vezel.dev/novadrop/dc/Area">
-    <FlySection priority="100" addMaxZ="12000" flyHeightLimit="10000" flyType="CanFly" subtractMinZ="256">
+    <FlySection priority="100" addMaxZ="12000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="256">
         <Fence pos="61437.16406250,15361.88281250,13388.49609375" />
         <Fence pos="57223.75390625,32679.37500000,2494.04003906" />
         <Fence pos="43585.08984375,35169.99218750,10104.91503906" />

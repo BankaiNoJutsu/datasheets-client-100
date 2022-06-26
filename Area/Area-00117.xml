@@ -1,12 +1,12 @@
 <Area xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Area Area.xsd" id="15" areaName="HEN_P" continentId="7015" nameId="215" pcMoveCylinder="true" protect="false" recallReviveContinentIdB="0" recallReviveContinentIdC="0" ride="true" worldMapGuardId="15" worldMapWorldId="1" xmlns="https://vezel.dev/novadrop/dc/Area">
-    <FlySection priority="100" addMaxZ="6000" flyHeightLimit="4000" flyType="CanFly" subtractMinZ="2000">
+    <FlySection priority="100" addMaxZ="6000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="2000">
         <Fence pos="30712.26953125,92156.75781250,5866.75244141" />
         <Fence pos="-30721.00585938,92159.54687500,3767.82446289" />
         <Fence pos="-30717.33203125,76798.97656250,4975.97900391" />
         <Fence pos="-15361.00195313,76786.43750000,2116.67871094" />
         <Fence pos="-15351.34570313,46080.15234375,5069.27246094" />
         <Fence pos="30710.81640625,46083.99218750,-941.31726074" />
-        <FlySection priority="1000" addMaxZ="1000" flyHeightLimit="300" flyType="CanFly" subtractMinZ="1000">
+        <FlySection priority="1000" addMaxZ="1000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="1000">
             <Fence pos="13860.58691406,70747.29687500,-1399.24316406" />
             <Fence pos="11869.20507813,92129.03906250,955.46679688" />
             <Fence pos="-30720.41992188,92157.14062500,3761.45410156" />
@@ -19,7 +19,7 @@
             <Fence pos="7732.24804688,72107.05468750,-678.90625000" />
             <Fence pos="9168.98535156,71021.32031250,-920.98046875" />
         </FlySection>
-        <FlySection priority="1000" addMaxZ="3000" flyHeightLimit="1500" flyType="CanFly" subtractMinZ="2000">
+        <FlySection priority="1000" addMaxZ="3000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="2000">
             <Fence pos="-10437.69335938,70919.35156250,-237.48059082" />
             <Fence pos="-12605.56640625,72372.18750000,583.26959229" />
             <Fence pos="-15359.49609375,73009.70312500,3495.14404297" />

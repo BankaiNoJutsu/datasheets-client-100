@@ -1,11 +1,11 @@
 <Area xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Area Area.xsd" id="8" areaName="ASE_A_P" continentId="7002" nameId="204" pcMoveCylinder="true" protect="false" ride="true" worldMapGuardId="4" worldMapWorldId="1" xmlns="https://vezel.dev/novadrop/dc/Area">
-    <FlySection priority="100" addMaxZ="4000" flyHeightLimit="3400" flyType="CanFly" subtractMinZ="256">
+    <FlySection priority="100" addMaxZ="4000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="256">
         <Fence pos="-30717.14062500,30723.41992188,1997.32104492" />
         <Fence pos="-3.54994202,30723.77148438,9019.07031250" />
         <Fence pos="-3.88940430,92153.51562500,-144.75585938" />
         <Fence pos="-15358.45605469,92159.22656250,-144.75195313" />
         <Fence pos="-30716.66015625,76797.08593750,2382.89892578" />
-        <FlySection priority="1500" addMaxZ="8000" flyHeightLimit="6000" flyType="CanFly" subtractMinZ="1500">
+        <FlySection priority="1500" addMaxZ="8000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="1500">
             <Fence pos="-14502.97851563,74831.39843750,5312.70117188" />
             <Fence pos="-9230.39843750,73852.61718750,4778.42578125" />
             <Fence pos="-8086.43261719,71907.12500000,4762.70703125" />
@@ -19,7 +19,7 @@
             <Fence pos="-5945.63525391,80860.45312500,5898.74853516" />
             <Fence pos="-11486.92578125,82316.28906250,7019.86914063" />
         </FlySection>
-        <FlySection priority="1000" addMaxZ="6000" flyHeightLimit="5000" flyType="CanFly" subtractMinZ="2000">
+        <FlySection priority="1000" addMaxZ="6000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="2000">
             <Fence pos="-3633.86865234,63261.97265625,5377.07373047" />
             <Fence pos="-3134.12426758,68299.21875000,7295.09521484" />
             <Fence pos="-4758.76171875,70229.62500000,4650.22265625" />
@@ -32,7 +32,7 @@
             <Fence pos="-13216.16601563,60733.67187500,6230.93164063" />
             <Fence pos="-7252.84863281,61687.93359375,4641.65332031" />
         </FlySection>
-        <FlySection priority="1000" addMaxZ="6000" flyHeightLimit="4500" flyType="CanFly" subtractMinZ="1000">
+        <FlySection priority="1000" addMaxZ="6000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="1000">
             <Fence pos="-8.89488983,47601.51953125,5267.51416016" />
             <Fence pos="-4643.92871094,51744.61718750,5259.68408203" />
             <Fence pos="-9501.49121094,48067.75781250,5297.97363281" />
@@ -46,7 +46,7 @@
             <Fence pos="-5864.81005859,32786.13281250,8929.39941406" />
             <Fence pos="-7.08277130,41838.61718750,6188.13916016" />
         </FlySection>
-        <FlySection priority="1000" addMaxZ="4000" flyHeightLimit="2800" flyType="CanFly" subtractMinZ="256">
+        <FlySection priority="1000" addMaxZ="4000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="256">
             <Fence pos="-22642.51757813,56636.19531250,3611.96630859" />
             <Fence pos="-24477.56250000,65060.15234375,3442.28564453" />
             <Fence pos="-21759.83203125,68773.32812500,4003.25537109" />
@@ -55,7 +55,7 @@
             <Fence pos="-30715.86718750,40551.02734375,3481.13476563" />
             <Fence pos="-28010.04296875,40287.62109375,3170.70727539" />
         </FlySection>
-        <FlySection priority="2000" addMaxZ="5000" flyHeightLimit="4500" flyType="CanFly" subtractMinZ="256">
+        <FlySection priority="2000" addMaxZ="5000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="256">
             <Fence pos="-15131.92773438,48370.05078125,4461.62304688" />
             <Fence pos="-13476.47070313,48998.47656250,3955.23632813" />
             <Fence pos="-11854.16699219,49702.73437500,2919.90429688" />

@@ -1,10 +1,10 @@
 <Area xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/Area Area.xsd" id="50" areaName="ANC_C_P" continentId="7001" nameId="203" pcMoveCylinder="true" protect="false" recallReviveContinentIdB="0" recallReviveContinentIdC="0" ride="true" worldMapGuardId="3" worldMapWorldId="1" xmlns="https://vezel.dev/novadrop/dc/Area">
-    <FlySection priority="100" addMaxZ="6000" flyHeightLimit="4000" flyType="CanFly" subtractMinZ="256">
+    <FlySection priority="100" addMaxZ="6000" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="256">
         <Fence pos="92162.19531250,0.97172928,560.67071533" />
         <Fence pos="122879.01562500,2.71767426,5369.37109375" />
         <Fence pos="122880.66406250,46079.08984375,8179.97753906" />
         <Fence pos="92163.03125000,46079.05468750,9025.64746094" />
-        <FlySection priority="1000" addMaxZ="3060" flyHeightLimit="3050" flyType="CanFly" subtractMinZ="1000">
+        <FlySection priority="1000" addMaxZ="3060" flyHeightLimit="50000" flyType="CanFly" subtractMinZ="1000">
             <Fence pos="123321.60156250,18088.74609375,3785.58056641" />
             <Fence pos="121923.25781250,20984.97460938,4777.23242188" />
             <Fence pos="118703.97656250,15917.85058594,4079.33593750" />
