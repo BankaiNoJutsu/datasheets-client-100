@@ -112,7 +112,7 @@
         <Reaction maxAdditionalGauge="600000" />
         <Stat level="68" def="5271" atk="2700" maxHp="300000" />
     </Template>
-    <Template id="110" name="불의 파괴자(자유 사냥 네임드)" scale="1" gender="male" race="DestroyerOfFire" size="large" shapeId="300663" basicActionId="3006600" resourceSize="100" resourceType="large" parentId="30066000" balanceType="파티_중형" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="true" showShorttermTarget="false" showTargetInfo="false" unionElite="false" villager="false">
+    <Template id="110" name="Empowered Petrax" scale="1" gender="male" race="DestroyerOfFire" size="large" shapeId="300663" basicActionId="3006600" resourceSize="100" resourceType="large" parentId="30066000" balanceType="파티_중형" elite="true" invincible="false" isFreeNamed="false" isObjectNpc="false" partyMember="1" showAggroTarget="true" showShorttermTarget="false" showTargetInfo="false" unionElite="false" villager="false">
         <AbnormalityResistanceOverride>
             <Abnormality />
             <Abnormality />
