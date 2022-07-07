@@ -29,7 +29,7 @@
         <ChatSound noticeSoundId="2089" whisperSoundId="2001" />
     </ChatConfig>
     <ChronoScrollPetition id="41" time="5.f" />
-    <ClientLeaveWorld />
+    <ClientLeaveWorld immediateLeave="true" />
     <CollisionRule collideInDarkRift="false" collideInRaid="false" />
     <CriticalSoundConfig>
         <CriticalSound class="warrior" soundCue="ModuleSound.ArmorCriticalHitCUE.CriticalHit" />
