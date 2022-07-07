@@ -1,5 +1,5 @@
 <SkillPolishingEffectList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SkillPolishingEffectList SkillPolishingEffectList.xsd" xmlns="https://vezel.dev/novadrop/dc/SkillPolishingEffectList">
-    <SkillPolishingEffect id="16011801" level="1">
+  <!--SkillPolishingEffect id="16011801" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="160118101" />
@@ -588,9 +588,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16011860" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16011860" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160118160" />
             <Passive id="160118260" />
@@ -599,7 +599,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16013001" level="1">
+  <!--SkillPolishingEffect id="16013001" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="160130101" />
@@ -1247,9 +1247,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16013060" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16013060" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160130160" />
             <Passive id="160130260" />
@@ -1259,7 +1259,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16014001" level="1">
+  <!--SkillPolishingEffect id="16014001" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="160140101" />
@@ -1907,9 +1907,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16014060" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16014060" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160140160" />
             <Passive id="160140260" />
@@ -1919,7 +1919,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16021001" level="1">
+  <!--SkillPolishingEffect id="16021001" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="160210101" />
@@ -2567,9 +2567,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16021060" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16021060" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160210160" />
             <Passive id="160210260" />
@@ -2579,7 +2579,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16022101" level="1">
+  <!--SkillPolishingEffect id="16022101" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="160221101" />
@@ -3227,9 +3227,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16022160" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16022160" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160221160" />
             <Passive id="160221260" />
@@ -3239,7 +3239,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16022501" level="1">
+  <!--SkillPolishingEffect id="16022501" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="160225101" />
@@ -3887,9 +3887,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16022560" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16022560" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160225160" />
             <Passive id="160225260" />
@@ -3899,7 +3899,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16030301" level="1">
+  <!--SkillPolishingEffect id="16030301" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="160303101" />
@@ -4547,9 +4547,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16030360" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16030360" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160303160" />
             <Passive id="160303260" />
@@ -4559,7 +4559,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16030801" level="1">
+  <!--SkillPolishingEffect id="16030801" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="160308101" />
@@ -5207,9 +5207,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16030860" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16030860" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160308160" />
             <Passive id="160308260" />
@@ -5219,7 +5219,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16032601" level="1">
+  <!--SkillPolishingEffect id="16032601" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="160326101" />
@@ -5867,9 +5867,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16032660" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16032660" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160326160" />
             <Passive id="160326260" />
@@ -5879,7 +5879,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16041001" level="1">
+  <!--SkillPolishingEffect id="16041001" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="160410101" />
@@ -6527,9 +6527,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16041060" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16041060" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160410160" />
             <Passive id="160410260" />
@@ -6539,7 +6539,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16041501" level="1">
+    <!--SkillPolishingEffect id="16041501" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="160415101" />
@@ -7187,9 +7187,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16041560" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16041560" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160415160" />
             <Passive id="160415260" />
@@ -7199,7 +7199,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16041801" level="1">
+  <!--SkillPolishingEffect id="16041801" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="160418101" />
@@ -7847,9 +7847,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16041860" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16041860" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160418160" />
             <Passive id="160418260" />
@@ -7859,7 +7859,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16050401" level="1">
+  <!--SkillPolishingEffect id="16050401" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="160504101" />
@@ -8507,9 +8507,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16050460" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16050460" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160504160" />
             <Passive id="160504260" />
@@ -8519,7 +8519,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16051101" level="1">
+  <!--SkillPolishingEffect id="16051101" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="160511101" />
@@ -9167,9 +9167,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16051160" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16051160" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160511160" />
             <Passive id="160511260" />
@@ -9179,7 +9179,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16052701" level="1">
+  <!--SkillPolishingEffect id="16052701" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="160527101" />
@@ -9827,9 +9827,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16052760" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16052760" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160527160" />
             <Passive id="160527260" />
@@ -9839,7 +9839,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16060501" level="1">
+  <!--SkillPolishingEffect id="16060501" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="160605101" />
@@ -10487,9 +10487,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16060560" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16060560" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160605160" />
             <Passive id="160605260" />
@@ -10499,7 +10499,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16062201" level="1">
+  <!--SkillPolishingEffect id="16062201" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="160622101" />
@@ -11147,9 +11147,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16062260" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16062260" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160622160" />
             <Passive id="160622260" />
@@ -11159,7 +11159,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16063401" level="1">
+  <!--SkillPolishingEffect id="16063401" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="160634101" />
@@ -11807,9 +11807,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16063460" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16063460" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160634160" />
             <Passive id="160634260" />
@@ -11819,7 +11819,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16070501" level="1">
+  <!--SkillPolishingEffect id="16070501" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="160705101" />
@@ -12467,9 +12467,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16070560" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16070560" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160705160" />
             <Passive id="160705260" />
@@ -12479,7 +12479,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16071901" level="1">
+  <!--SkillPolishingEffect id="16071901" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="160719101" />
@@ -13127,9 +13127,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16071960" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16071960" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160719160" />
             <Passive id="160719260" />
@@ -13139,7 +13139,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16073401" level="1">
+  <!--SkillPolishingEffect id="16073401" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="160734101" />
@@ -13787,9 +13787,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16073460" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16073460" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160734160" />
             <Passive id="160734260" />
@@ -13799,7 +13799,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16083301" level="1">
+  <!--SkillPolishingEffect id="16083301" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="160833101" />
@@ -14447,9 +14447,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16083360" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16083360" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160833160" />
             <Passive id="160833260" />
@@ -14459,7 +14459,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16084201" level="1">
+  <!--SkillPolishingEffect id="16084201" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="160842101" />
@@ -15166,9 +15166,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16084260" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16084260" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160842160" />
             <Passive id="160842260" />
@@ -15179,7 +15179,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16084501" level="1">
+  <!--SkillPolishingEffect id="16084501" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="160845101" />
@@ -15768,9 +15768,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16084560" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16084560" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160845160" />
             <Passive id="160845260" />
@@ -15779,7 +15779,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16090301" level="1">
+  <!--SkillPolishingEffect id="16090301" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="160903101" />
@@ -16427,9 +16427,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16090360" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16090360" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160903160" />
             <Passive id="160903260" />
@@ -16439,7 +16439,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16090401" level="1">
+  <!--SkillPolishingEffect id="16090401" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="160904101" />
@@ -17087,9 +17087,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16090460" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16090460" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160904160" />
             <Passive id="160904260" />
@@ -17099,7 +17099,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16091901" level="1">
+  <!--SkillPolishingEffect id="16091901" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="160919101" />
@@ -17747,9 +17747,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16091960" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16091960" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="160919160" />
             <Passive id="160919260" />
@@ -17759,7 +17759,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16100701" level="1">
+  <!--SkillPolishingEffect id="16100701" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="161007101" />
@@ -18407,9 +18407,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16100760" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16100760" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161007160" />
             <Passive id="161007260" />
@@ -18419,7 +18419,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16100901" level="1">
+  <!--SkillPolishingEffect id="16100901" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="161009101" />
@@ -19067,9 +19067,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16100960" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16100960" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161009160" />
             <Passive id="161009260" />
@@ -19079,7 +19079,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16104301" level="1">
+  <!--SkillPolishingEffect id="16104301" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="161043101" />
@@ -19727,9 +19727,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16104360" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16104360" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161043160" />
             <Passive id="161043260" />
@@ -19739,7 +19739,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16110801" level="1">
+  <!--SkillPolishingEffect id="16110801" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="161108101" />
@@ -20387,9 +20387,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16110860" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16110860" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161108160" />
             <Passive id="161108260" />
@@ -20399,7 +20399,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16110901" level="1">
+  <!--SkillPolishingEffect id="16110901" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="161109101" />
@@ -21047,9 +21047,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16110960" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16110960" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161109160" />
             <Passive id="161109260" />
@@ -21059,7 +21059,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16112201" level="1">
+  <!--SkillPolishingEffect id="16112201" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="161122101" />
@@ -21707,9 +21707,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16112260" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16112260" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161122160" />
             <Passive id="161122260" />
@@ -21719,7 +21719,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16120301" level="1">
+  <!--SkillPolishingEffect id="16120301" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="161203101" />
@@ -22367,9 +22367,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16120360" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16120360" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161203160" />
             <Passive id="161203260" />
@@ -22379,7 +22379,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16121201" level="1">
+  <!--SkillPolishingEffect id="16121201" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="161212101" />
@@ -23027,9 +23027,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16121260" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16121260" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161212160" />
             <Passive id="161212260" />
@@ -23039,7 +23039,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16121501" level="1">
+  <!--SkillPolishingEffect id="16121501" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="161215101" />
@@ -23628,9 +23628,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16121560" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16121560" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161215160" />
             <Passive id="161215260" />
@@ -23639,7 +23639,7 @@
             <RequiredItem amount="130" itemId="98670" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16130501" level="1">
+  <!--SkillPolishingEffect id="16130501" level="1">
         <Cost money="16275000" sp="1" />
         <PassiveList>
             <Passive id="161305101" />
@@ -24287,9 +24287,9 @@
         <RequiredItemList>
             <RequiredItem amount="83" itemId="98668" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16130560" level="60">
-        <Cost money="87532375" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16130560" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161305160" />
             <Passive id="161305260" />
@@ -24299,7 +24299,7 @@
             <RequiredItem amount="90" itemId="98668" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16130901" level="1">
+  <!--SkillPolishingEffect id="16130901" level="1">
         <Cost money="15000000" sp="1" />
         <PassiveList>
             <Passive id="161309101" />
@@ -24947,9 +24947,9 @@
         <RequiredItemList>
             <RequiredItem amount="45" itemId="98666" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16130960" level="60">
-        <Cost money="80675000" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16130960" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161309160" />
             <Passive id="161309260" />
@@ -24959,7 +24959,7 @@
             <RequiredItem amount="50" itemId="98666" />
         </RequiredItemList>
     </SkillPolishingEffect>
-    <SkillPolishingEffect id="16132301" level="1">
+  <!--SkillPolishingEffect id="16132301" level="1">
         <Cost money="17658375" sp="1" />
         <PassiveList>
             <Passive id="161323101" />
@@ -25607,9 +25607,9 @@
         <RequiredItemList>
             <RequiredItem amount="126" itemId="98670" />
         </RequiredItemList>
-    </SkillPolishingEffect>
-    <SkillPolishingEffect id="16132360" level="60">
-        <Cost money="94972626.875" sp="1" />
+    </SkillPolishingEffect-->
+    <SkillPolishingEffect id="16132360" level="1">
+        <Cost money="0" sp="1" />
         <PassiveList>
             <Passive id="161323160" />
             <Passive id="161323260" />

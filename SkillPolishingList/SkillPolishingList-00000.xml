@@ -1,6 +1,6 @@
 <SkillPolishingList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/SkillPolishingList SkillPolishingList.xsd" xmlns="https://vezel.dev/novadrop/dc/SkillPolishingList">
     <SkillPolishing id="101" type="level" skillCategoryId="1018" usableClass="Warrior" requiredLevel="66" isIncreaseMpCost="true" requiredSkillId="181100" sortIdx="1">
-        <SkillPolishingEffect dataId="16011801" />
+      <!--SkillPolishingEffect dataId="16011801" />
         <SkillPolishingEffect dataId="16011802" />
         <SkillPolishingEffect dataId="16011803" />
         <SkillPolishingEffect dataId="16011804" />
@@ -58,7 +58,7 @@
         <SkillPolishingEffect dataId="16011856" />
         <SkillPolishingEffect dataId="16011857" />
         <SkillPolishingEffect dataId="16011858" />
-        <SkillPolishingEffect dataId="16011859" />
+        <SkillPolishingEffect dataId="16011859" /-->
         <SkillPolishingEffect dataId="16011860" />
     </SkillPolishing>
     <SkillPolishing id="102" type="option" skillCategoryId="1004" usableClass="Warrior" requiredLevel="67" requiredSkillId="40900" sortIdx="2">
@@ -67,7 +67,7 @@
         <SkillPolishingEffect dataId="17010403" />
     </SkillPolishing>
     <SkillPolishing id="103" type="level" skillCategoryId="1040" usableClass="Warrior" requiredLevel="68" isIncreaseMpCost="true" requiredSkillId="400100" sortIdx="3">
-        <SkillPolishingEffect dataId="16014001" />
+      <!--SkillPolishingEffect dataId="16014001" />
         <SkillPolishingEffect dataId="16014002" />
         <SkillPolishingEffect dataId="16014003" />
         <SkillPolishingEffect dataId="16014004" />
@@ -125,7 +125,7 @@
         <SkillPolishingEffect dataId="16014056" />
         <SkillPolishingEffect dataId="16014057" />
         <SkillPolishingEffect dataId="16014058" />
-        <SkillPolishingEffect dataId="16014059" />
+        <SkillPolishingEffect dataId="16014059" /-->
         <SkillPolishingEffect dataId="16014060" />
     </SkillPolishing>
     <SkillPolishing id="104" type="option" skillCategoryId="1020" usableClass="Warrior" requiredLevel="69" checkAbnormalityKind="13,126" requiredSkillId="200200" sortIdx="4">
@@ -134,7 +134,7 @@
         <SkillPolishingEffect dataId="17012003" />
     </SkillPolishing>
     <SkillPolishing id="105" type="level" skillCategoryId="1030" usableClass="Warrior" requiredLevel="70" isIncreaseMpCost="true" requiredSkillId="300900" sortIdx="5">
-        <SkillPolishingEffect dataId="16013001" />
+      <!--SkillPolishingEffect dataId="16013001" />
         <SkillPolishingEffect dataId="16013002" />
         <SkillPolishingEffect dataId="16013003" />
         <SkillPolishingEffect dataId="16013004" />
@@ -192,7 +192,7 @@
         <SkillPolishingEffect dataId="16013056" />
         <SkillPolishingEffect dataId="16013057" />
         <SkillPolishingEffect dataId="16013058" />
-        <SkillPolishingEffect dataId="16013059" />
+        <SkillPolishingEffect dataId="16013059" /-->
         <SkillPolishingEffect dataId="16013060" />
     </SkillPolishing>
     <SkillPolishing id="201" type="level" skillCategoryId="2010" usableClass="Lancer" requiredLevel="66" isIncreaseMpCost="true" requiredSkillId="100300" sortIdx="1">
